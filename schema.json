@@ -1,0 +1,896 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "enum": [
+        "1.0"
+      ]
+    },
+    "snapshot_version": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80,
+      "pattern": "^public-[a-f0-9]{64}$"
+    },
+    "date": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 10,
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "published_at": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 30,
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d{3})?Z$"
+    },
+    "source_collected_at": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 30,
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d{3})?Z$"
+    },
+    "policy": {
+      "enum": [
+        "public-snapshot-includes-display-samples-and-existing-placement"
+      ]
+    },
+    "boards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "model_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "snapshot_version": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 200
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "method_version": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 200
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "observed_window": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 240
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "published_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 30,
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d{3})?Z$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "rows": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 100000
+          }
+        },
+        "required": [
+          "model_id",
+          "snapshot_version",
+          "method_version",
+          "observed_window",
+          "published_at",
+          "rows"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1,
+      "maxItems": 500
+    },
+    "rankings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 10,
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          },
+          "model_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "model_name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "station_slug": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "station_name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "channel_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "group_name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "position": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 100000
+          },
+          "rank_published": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 100000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "evidence_status": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40
+          },
+          "catalog_only": {
+            "type": "boolean"
+          },
+          "release_kind": {
+            "enum": [
+              "published",
+              "illustrative"
+            ]
+          },
+          "overall_bps": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 10000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "availability_bps": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 10000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "connectivity_bps": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 10000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "stability_bps": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 10000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "latency_p95_ms": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1000000000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "status_windows": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 40
+            },
+            "minItems": 0,
+            "maxItems": 168
+          },
+          "sample_size": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1000000000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "input_price": {
+            "anyOf": [
+              {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1000000000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "output_price": {
+            "anyOf": [
+              {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1000000000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "price_currency": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 240
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "price_unit": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 240
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "output_price_currency": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 240
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "output_price_unit": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 240
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "price_source": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 240
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "price_recorded_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 30,
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d{3})?Z$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "measured_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 30,
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d{3})?Z$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "snapshot_version": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "method_version": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "observed_window": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 240
+          },
+          "published_at": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 30,
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d{3})?Z$"
+          }
+        },
+        "required": [
+          "date",
+          "model_id",
+          "model_name",
+          "station_slug",
+          "station_name",
+          "channel_id",
+          "group_name",
+          "position",
+          "rank_published",
+          "evidence_status",
+          "catalog_only",
+          "release_kind",
+          "overall_bps",
+          "availability_bps",
+          "connectivity_bps",
+          "stability_bps",
+          "latency_p95_ms",
+          "status_windows",
+          "sample_size",
+          "input_price",
+          "output_price",
+          "price_currency",
+          "price_unit",
+          "output_price_currency",
+          "output_price_unit",
+          "price_source",
+          "price_recorded_at",
+          "measured_at",
+          "snapshot_version",
+          "method_version",
+          "observed_window",
+          "published_at"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 0,
+      "maxItems": 100000
+    },
+    "integrity": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "run_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "model_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "station_slug": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "group_name": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 240
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "client_mode": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80
+          },
+          "agree": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 1000000000
+          },
+          "total": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 1000000000
+          },
+          "input_tokens_min": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1000000000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "input_tokens_max": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1000000000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "reasoning_median": {
+            "anyOf": [
+              {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1000000000
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "identified_model_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 200,
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "probe_keys": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 40,
+              "pattern": "^folk-[a-f0-9]{8}$"
+            },
+            "minItems": 0,
+            "maxItems": 200
+          },
+          "measured_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 30,
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d{3})?Z$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "run_id",
+          "model_id",
+          "station_slug",
+          "group_name",
+          "client_mode",
+          "agree",
+          "total",
+          "input_tokens_min",
+          "input_tokens_max",
+          "reasoning_median",
+          "identified_model_id",
+          "probe_keys",
+          "measured_at"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 0,
+      "maxItems": 10000
+    },
+    "models": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "vendor_id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "vendor_name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "family": {
+            "enum": [
+              "language",
+              "image",
+              "video"
+            ]
+          },
+          "status": {
+            "enum": [
+              "measured",
+              "pending"
+            ]
+          },
+          "station_count": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 1000000000
+          },
+          "official_price": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "currency": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 10
+                  },
+                  "unit": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 40
+                  },
+                  "input": {
+                    "anyOf": [
+                      {
+                        "type": "number",
+                        "minimum": 0,
+                        "maximum": 1000000000
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "output": {
+                    "anyOf": [
+                      {
+                        "type": "number",
+                        "minimum": 0,
+                        "maximum": 1000000000
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "cache_read": {
+                    "anyOf": [
+                      {
+                        "type": "number",
+                        "minimum": 0,
+                        "maximum": 1000000000
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "source_label": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 200
+                  },
+                  "source_url": {
+                    "anyOf": [
+                      {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000,
+                        "pattern": "^https://[^?#]+$"
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "verified_at": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 30
+                  }
+                },
+                "required": [
+                  "currency",
+                  "unit",
+                  "input",
+                  "output",
+                  "cache_read",
+                  "source_label",
+                  "source_url",
+                  "verified_at"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "vendor_id",
+          "vendor_name",
+          "family",
+          "status",
+          "station_count",
+          "official_price"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1,
+      "maxItems": 10000
+    },
+    "stations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "profile_url": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 300,
+            "pattern": "^https://folkbench\\.com/services/[A-Za-z0-9._-]+$"
+          },
+          "listing_status": {
+            "enum": [
+              "tested",
+              "catalog_only"
+            ]
+          },
+          "measurement_status": {
+            "enum": [
+              "source_tagged",
+              "not_available"
+            ]
+          },
+          "first_listed_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 30
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "data_security_level": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 4
+          },
+          "data_security_validity": {
+            "enum": [
+              "current",
+              "expired",
+              "not_verified"
+            ]
+          },
+          "checked_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 10,
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "subject_present": {
+            "enum": [
+              "yes",
+              "no",
+              "unspecified"
+            ]
+          },
+          "domestic_payment": {
+            "enum": [
+              "yes",
+              "no",
+              "unspecified"
+            ]
+          },
+          "overseas_payment": {
+            "enum": [
+              "yes",
+              "no",
+              "unspecified"
+            ]
+          },
+          "invoice": {
+            "enum": [
+              "yes",
+              "no",
+              "unspecified"
+            ]
+          },
+          "customer_service": {
+            "enum": [
+              "yes",
+              "no",
+              "unspecified"
+            ]
+          },
+          "refund": {
+            "enum": [
+              "supported",
+              "not_supported",
+              "conditional",
+              "contact_required",
+              "unspecified"
+            ]
+          }
+        },
+        "required": [
+          "slug",
+          "name",
+          "profile_url",
+          "listing_status",
+          "measurement_status",
+          "first_listed_at",
+          "data_security_level",
+          "data_security_validity",
+          "checked_at",
+          "subject_present",
+          "domestic_payment",
+          "overseas_payment",
+          "invoice",
+          "customer_service",
+          "refund"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1,
+      "maxItems": 10000
+    }
+  },
+  "required": [
+    "schema_version",
+    "snapshot_version",
+    "date",
+    "published_at",
+    "source_collected_at",
+    "policy",
+    "boards",
+    "rankings",
+    "integrity",
+    "models",
+    "stations"
+  ],
+  "additionalProperties": false
+}
