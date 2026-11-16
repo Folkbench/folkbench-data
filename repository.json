@@ -1,0 +1,19 @@
+{
+  "owner": "Folkbench",
+  "name": "folkbench-data",
+  "visibility": "public",
+  "default_branch": "main",
+  "description": "Folkbench 主站公开快照：榜单、目录与已公开探针汇总",
+  "homepage": "https://folkbench.com/?utm_source=github&utm_medium=data-repo&utm_campaign=folkbench-data&utm_content=about",
+  "topics": [
+    "llm",
+    "ai-api",
+    "benchmark",
+    "open-data",
+    "claude",
+    "gpt",
+    "relay",
+    "api-monitoring",
+    "ai-relay"
+  ]
+}

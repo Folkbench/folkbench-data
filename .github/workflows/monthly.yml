@@ -1,0 +1,54 @@
+name: Monthly public snapshot release
+on:
+  schedule:
+    - cron: '20 13 1 * *'
+  workflow_dispatch:
+    inputs:
+      month:
+        description: 'Completed month YYYY-MM; empty uses previous month'
+        type: string
+permissions:
+  contents: write
+concurrency:
+  group: monthly-public-snapshot
+  cancel-in-progress: false
+jobs:
+  release:
+    if: github.repository == 'Folkbench/folkbench-data' && github.ref == 'refs/heads/main' && vars.PUBLIC_DISTRIBUTION_ENABLED == 'true'
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          path: data
+          fetch-depth: 0
+      - name: Require reviewed tooling revision
+        env:
+          TOOLING_REF: ${{ vars.FOLKBENCH_TOOLING_SHA }}
+        run: test "${#TOOLING_REF}" -eq 40 && [[ "$TOOLING_REF" =~ ^[a-f0-9]+$ ]]
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          repository: Folkbench/folkbench
+          ref: ${{ vars.FOLKBENCH_TOOLING_SHA }}
+          path: tooling
+          persist-credentials: false
+      - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6
+        with:
+          bun-version: 1.3.14
+      - name: Build immutable monthly release
+        env:
+          MONTH: ${{ inputs.month }}
+          GH_TOKEN: ${{ github.token }}
+          FOLKBENCH_DISTRIBUTION_TOOL_ROOT: ${{ github.workspace }}/tooling
+        run: |
+          if [ -z "$MONTH" ]; then MONTH=$(date -u -d "$(date -u +%Y-%m-01) -1 day" +%Y-%m); fi
+          [[ "$MONTH" =~ ^[0-9]{4}-(0[1-9]|1[0-2])$ ]]
+          if gh release view "$MONTH" --repo Folkbench/folkbench-data >/dev/null 2>&1; then exit 0; fi
+          bun tooling/scripts/distribution/cli.ts monthly --root data --month "$MONTH" --out release-assets
+          git -C data config core.hooksPath .githooks
+          git -C data config user.name 'github-actions[bot]'
+          git -C data config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if ! git -C data rev-parse --verify "refs/tags/$MONTH" >/dev/null 2>&1; then
+            git -C data tag "$MONTH"
+            git -C data push origin "refs/tags/$MONTH"
+          fi
+          gh release create "$MONTH" --repo Folkbench/folkbench-data --verify-tag --title "$MONTH 公开快照" --notes-file release-assets/notes.md "release-assets/$MONTH.json" "release-assets/$MONTH.sha256"
