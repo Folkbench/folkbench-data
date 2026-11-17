@@ -5,7 +5,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-enterprise",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 100,
     "input_tokens_max": 161349,
@@ -43,7 +43,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "00607c44-5298-4dfe-bb8c-109b6d1d6060",
@@ -51,9 +51,9 @@
     "station_slug": "modelflare",
     "group_name": "claude-award",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 82,
     "total": 90,
-    "input_tokens_min": 109,
+    "input_tokens_min": 52,
     "input_tokens_max": 24260,
     "reasoning_median": 559,
     "identified_model_id": "claude-opus-5-5",
@@ -89,7 +89,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "019b5491-6bd8-4057-b7b1-39ef0dddcf8c",
@@ -97,7 +97,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-award",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 100,
     "input_tokens_max": 161349,
@@ -135,7 +135,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "0789d043-b276-47f5-bf9c-bcf0a8c9e507",
@@ -143,7 +143,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-stable",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 100,
     "input_tokens_max": 151769,
@@ -181,7 +181,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "078ec66f-eb90-422f-89ff-3869cbd454e7",
@@ -189,7 +189,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-enterprise",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -227,7 +227,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "098532a6-9887-4e41-b63b-aec959d4eaca",
@@ -235,7 +235,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-stable",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 52,
     "input_tokens_max": 24260,
@@ -273,7 +273,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "0b1a23eb-404f-47d5-9abd-df11e600907c",
@@ -281,12 +281,12 @@
     "station_slug": "apiporter",
     "group_name": "Claude_core",
     "client_mode": "direct_anthropic",
-    "agree": 10,
+    "agree": 8,
     "total": 20,
     "input_tokens_min": 116,
-    "input_tokens_max": 138,
-    "reasoning_median": 197,
-    "identified_model_id": "claude-haiku-5-5",
+    "input_tokens_max": 139,
+    "reasoning_median": 224,
+    "identified_model_id": "claude-sonnet-5",
     "probe_keys": [
       "folk-19831549",
       "folk-2dca93e2",
@@ -319,7 +319,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T18:10:12.030Z"
+    "measured_at": "2026-11-17T04:27:15.161Z"
   },
   {
     "run_id": "0d022d9b-f3f8-44ce-925f-90cd8308e7ad",
@@ -327,7 +327,7 @@
     "station_slug": "modelflare",
     "group_name": "grok-stable",
     "client_mode": "direct_openai",
-    "agree": 88,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -365,7 +365,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "0d6879bf-3084-40d2-bb15-baede3e0fe6b",
@@ -419,7 +419,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-first-topup",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -457,7 +457,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "1437b8a1-2172-4327-bf0f-d030f2e7421e",
@@ -490,12 +490,12 @@
     "station_slug": "cloudbridge",
     "group_name": "Claude-core",
     "client_mode": "direct_anthropic",
-    "agree": 19,
-    "total": 20,
+    "agree": 13,
+    "total": 30,
     "input_tokens_min": 127,
     "input_tokens_max": 153,
-    "reasoning_median": 525,
-    "identified_model_id": "claude-opus-5-5",
+    "reasoning_median": 576,
+    "identified_model_id": "gemini-4-hydrogen",
     "probe_keys": [
       "folk-19831549",
       "folk-2dca93e2",
@@ -528,7 +528,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T17:59:27.859Z"
+    "measured_at": "2026-11-17T03:30:16.202Z"
   },
   {
     "run_id": "189ef94e-39e8-4cd1-b572-73eea57117fb",
@@ -536,7 +536,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-premium",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -574,7 +574,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "198da027-7900-48a4-baf4-caa8276a92e1",
@@ -628,7 +628,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-award",
     "client_mode": "direct_anthropic",
-    "agree": 88,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -666,7 +666,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "22512e7d-f21f-4faf-8f1d-27336afaffc8",
@@ -674,7 +674,7 @@
     "station_slug": "modelflare",
     "group_name": "grok-stable",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -712,7 +712,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "2290a0d1-0088-4689-bd21-4b09bd1e8355",
@@ -720,7 +720,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-premium",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -758,7 +758,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "2964dd64-5ddc-4332-a820-a66f0e106522",
@@ -766,7 +766,7 @@
     "station_slug": "modelflare",
     "group_name": "qwen-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -804,7 +804,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "2f29220f-cd07-41b0-b782-696547e818e0",
@@ -812,11 +812,11 @@
     "station_slug": "apiporter",
     "group_name": "Codex_core",
     "client_mode": "direct_openai",
-    "agree": 22,
+    "agree": 24,
     "total": 30,
     "input_tokens_min": 93,
     "input_tokens_max": 108,
-    "reasoning_median": 34,
+    "reasoning_median": 33,
     "identified_model_id": "gpt-6-1-sol",
     "probe_keys": [
       "folk-19831549",
@@ -850,7 +850,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T18:15:10.441Z"
+    "measured_at": "2026-11-17T04:32:26.188Z"
   },
   {
     "run_id": "310ac1cb-8735-440a-a771-cdac4b5f816a",
@@ -862,7 +862,7 @@
     "total": 20,
     "input_tokens_min": 129,
     "input_tokens_max": 155,
-    "reasoning_median": 587,
+    "reasoning_median": 625,
     "identified_model_id": "claude-fable-5-1",
     "probe_keys": [
       "folk-19831549",
@@ -896,7 +896,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T17:57:01.019Z"
+    "measured_at": "2026-11-17T03:26:48.203Z"
   },
   {
     "run_id": "33f63e89-b46e-4615-8860-63a291215df2",
@@ -904,12 +904,12 @@
     "station_slug": "fluxlane",
     "group_name": "👑 Claude-Max｜满血旗舰",
     "client_mode": "direct_anthropic",
-    "agree": 12,
-    "total": 20,
+    "agree": 13,
+    "total": 30,
     "input_tokens_min": 116,
-    "input_tokens_max": 285,
-    "reasoning_median": 192,
-    "identified_model_id": "claude-haiku-5-5",
+    "input_tokens_max": 296,
+    "reasoning_median": 173,
+    "identified_model_id": "gpt-6-sol",
     "probe_keys": [
       "folk-19831549",
       "folk-2dca93e2",
@@ -942,7 +942,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T17:46:34.585Z"
+    "measured_at": "2026-11-17T02:46:07.767Z"
   },
   {
     "run_id": "3952ac98-01d8-4e31-b670-f9fef814a9dc",
@@ -975,7 +975,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-enterprise",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 100,
     "input_tokens_max": 151769,
@@ -1013,7 +1013,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "3ad50053-8f37-4135-8dd8-6937861f4105",
@@ -1021,7 +1021,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-first-topup",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1059,7 +1059,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "3c80ca10-27f4-4e18-9a1c-26128a14a9a3",
@@ -1113,12 +1113,12 @@
     "station_slug": "ikuncode",
     "group_name": "cc-kiro",
     "client_mode": "direct_anthropic",
-    "agree": 9,
+    "agree": 5,
     "total": 20,
-    "input_tokens_min": 203,
+    "input_tokens_min": 133,
     "input_tokens_max": 239,
     "reasoning_median": 0,
-    "identified_model_id": "claude-haiku-5-5",
+    "identified_model_id": "claude-haiku-4-5",
     "probe_keys": [
       "folk-19831549",
       "folk-2dca93e2",
@@ -1151,7 +1151,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T18:16:17.477Z"
+    "measured_at": "2026-11-17T04:09:26.118Z"
   },
   {
     "run_id": "3ea74ac3-eb6d-4989-88c6-3907db919f89",
@@ -1159,7 +1159,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-stable",
     "client_mode": "direct_anthropic",
-    "agree": 88,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1197,7 +1197,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "3f2c2d84-623c-42b1-b928-2e7662b5c2a8",
@@ -1205,7 +1205,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-enterprise",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1243,7 +1243,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "422ba7d8-a4ba-4e8d-9039-ecef4e1f0fa8",
@@ -1251,7 +1251,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-premium",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1289,7 +1289,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "42962dbc-4a1b-42f2-8470-241cae5f9818",
@@ -1297,7 +1297,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-premium",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1335,7 +1335,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "42f4c1e4-7fe0-4fa7-8559-e5ac28fc5de1",
@@ -1343,7 +1343,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-premium",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 45108,
@@ -1381,7 +1381,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "43529cd9-828f-4f93-884c-961664a98b9e",
@@ -1389,7 +1389,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-first-topup",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1427,7 +1427,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "44ec6103-372c-4ffb-9076-060ae3fc320e",
@@ -1435,9 +1435,9 @@
     "station_slug": "modelflare",
     "group_name": "claude-stable",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
-    "input_tokens_min": 109,
+    "input_tokens_min": 52,
     "input_tokens_max": 24260,
     "reasoning_median": 559,
     "identified_model_id": "claude-opus-5-5",
@@ -1473,7 +1473,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "4556a55d-033f-4288-8467-c352281ee050",
@@ -1481,7 +1481,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-first-topup",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1519,7 +1519,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "4815d8fc-500e-4294-a0c5-6cc0a096facc",
@@ -1527,7 +1527,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-stable",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1565,7 +1565,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "49768438-3354-4b4a-9a6a-ee92614f2a18",
@@ -1574,11 +1574,11 @@
     "group_name": "Claude_core",
     "client_mode": "direct_anthropic",
     "agree": 9,
-    "total": 20,
+    "total": 30,
     "input_tokens_min": 116,
     "input_tokens_max": 139,
-    "reasoning_median": 185,
-    "identified_model_id": "claude-haiku-5-5",
+    "reasoning_median": 170,
+    "identified_model_id": "gpt-6-luna",
     "probe_keys": [
       "folk-19831549",
       "folk-2dca93e2",
@@ -1611,7 +1611,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T18:11:32.560Z"
+    "measured_at": "2026-11-17T04:28:39.135Z"
   },
   {
     "run_id": "4ceb4b7e-a2d1-4df2-bf3a-a899bef8f401",
@@ -1619,7 +1619,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-first-topup",
     "client_mode": "direct_openai",
-    "agree": 88,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 100,
     "input_tokens_max": 161349,
@@ -1657,7 +1657,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "58f78cbf-90a5-4f6d-81f5-9b7478e19ac9",
@@ -1665,7 +1665,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-tmp-cheap",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1703,7 +1703,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "5a46b99f-15f2-4e9b-84c6-133fe8354cdd",
@@ -1711,7 +1711,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-award",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -1749,7 +1749,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "5a9fa154-7c31-45dc-8674-c261de1e4333",
@@ -1927,7 +1927,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-premium",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 100,
     "input_tokens_max": 151769,
@@ -1965,7 +1965,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "5ed8f658-9940-439a-a1b1-063583ea83f1",
@@ -2019,7 +2019,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-award",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 100,
     "input_tokens_max": 151769,
@@ -2057,7 +2057,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "5f537e11-f37e-4be3-b349-f5c0c9e08e3d",
@@ -2111,7 +2111,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-first-topup",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -2149,7 +2149,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "615918cb-f39e-43e4-b191-9ea6f390cae9",
@@ -2157,7 +2157,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-award",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 52,
     "input_tokens_max": 24260,
@@ -2195,7 +2195,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "625da708-9971-4fc8-adfa-82fe4b0bdc1d",
@@ -2203,7 +2203,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-first-topup",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -2241,7 +2241,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "62e87350-4bb8-46eb-afde-530432a43eab",
@@ -2249,7 +2249,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 81,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -2287,7 +2287,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "63e6ce78-0a5e-4e92-a586-69397afc12db",
@@ -2295,7 +2295,7 @@
     "station_slug": "modelflare",
     "group_name": "kimi-stable",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -2333,7 +2333,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "68016583-3175-471b-b86e-5430cd6c510a",
@@ -2341,7 +2341,7 @@
     "station_slug": "modelflare",
     "group_name": "glm-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -2379,7 +2379,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "6b5b489e-39e0-4e18-937d-8f73b466b7f0",
@@ -2387,7 +2387,7 @@
     "station_slug": "modelflare",
     "group_name": "deepseek-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 81,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -2425,7 +2425,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "6ba1be53-0fa5-4cf1-9884-ccb0802bcfa6",
@@ -2433,7 +2433,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-stable",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 81,
     "total": 90,
     "input_tokens_min": 100,
     "input_tokens_max": 161349,
@@ -2471,7 +2471,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "6c0fda68-7c78-4ed8-95eb-7e7fc088623e",
@@ -2479,7 +2479,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-award",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -2517,7 +2517,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "6c705685-9f4c-43e6-8b01-f439fececb71",
@@ -2525,11 +2525,11 @@
     "station_slug": "fluxlane",
     "group_name": "🏆GPT-MAX｜满血专线",
     "client_mode": "direct_openai",
-    "agree": 19,
+    "agree": 21,
     "total": 30,
-    "input_tokens_min": 98,
-    "input_tokens_max": 22961,
-    "reasoning_median": 32,
+    "input_tokens_min": 95,
+    "input_tokens_max": 6009,
+    "reasoning_median": 25,
     "identified_model_id": "gpt-6-1-sol",
     "probe_keys": [
       "folk-19831549",
@@ -2563,7 +2563,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T17:53:04.860Z"
+    "measured_at": "2026-11-17T03:03:38.140Z"
   },
   {
     "run_id": "70c161e6-3df3-4d3d-9443-07de469fde23",
@@ -2571,7 +2571,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-first-topup",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -2609,7 +2609,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "72ba91e9-e088-4825-804c-e3ffded2468e",
@@ -2617,7 +2617,7 @@
     "station_slug": "modelflare",
     "group_name": "deepseek-award",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -2655,7 +2655,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "76dcf152-712d-45d5-9f0f-aa61deed41f2",
@@ -2664,9 +2664,9 @@
     "group_name": "cc-kiro",
     "client_mode": "direct_anthropic",
     "agree": 14,
-    "total": 18,
-    "input_tokens_min": 123,
-    "input_tokens_max": 155,
+    "total": 20,
+    "input_tokens_min": 144,
+    "input_tokens_max": 204,
     "reasoning_median": 0,
     "identified_model_id": "claude-haiku-5-5",
     "probe_keys": [
@@ -2701,7 +2701,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T18:13:06.616Z"
+    "measured_at": "2026-11-17T04:05:27.866Z"
   },
   {
     "run_id": "7bb9a18b-bfce-4037-9172-bbbcb73198e5",
@@ -2709,10 +2709,10 @@
     "station_slug": "cheapai",
     "group_name": "claude-kiro-撕破底价",
     "client_mode": "direct_anthropic",
-    "agree": 13,
-    "total": 20,
+    "agree": 6,
+    "total": 8,
     "input_tokens_min": 43,
-    "input_tokens_max": 13457,
+    "input_tokens_max": 14514,
     "reasoning_median": 0,
     "identified_model_id": "claude-fable-5-1",
     "probe_keys": [
@@ -2747,7 +2747,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T17:42:18.428Z"
+    "measured_at": "2026-11-17T03:19:21.895Z"
   },
   {
     "run_id": "7c38101b-fe4a-4c5b-b0db-977634f23dfa",
@@ -2801,12 +2801,12 @@
     "station_slug": "znb-ai",
     "group_name": "znb-cc-特惠",
     "client_mode": "direct_anthropic",
-    "agree": 10,
-    "total": 20,
-    "input_tokens_min": 2025,
-    "input_tokens_max": 2202,
+    "agree": 19,
+    "total": 30,
+    "input_tokens_min": 2023,
+    "input_tokens_max": 2197,
     "reasoning_median": 0,
-    "identified_model_id": "claude-opus-5-5",
+    "identified_model_id": "mai-code-1-1-flash",
     "probe_keys": [
       "folk-19831549",
       "folk-2dca93e2",
@@ -2839,7 +2839,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T17:43:07.291Z"
+    "measured_at": "2026-11-17T02:33:18.450Z"
   },
   {
     "run_id": "82cbd72d-7711-4dac-b109-220b237ab624",
@@ -2849,8 +2849,8 @@
     "client_mode": "direct_anthropic",
     "agree": 9,
     "total": 20,
-    "input_tokens_min": 121,
-    "input_tokens_max": 338,
+    "input_tokens_min": 114,
+    "input_tokens_max": 166,
     "reasoning_median": 0,
     "identified_model_id": "claude-haiku-5-5",
     "probe_keys": [
@@ -2885,7 +2885,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T17:47:51.413Z"
+    "measured_at": "2026-11-17T02:47:26.309Z"
   },
   {
     "run_id": "8468b4eb-212f-4d70-b3ed-85703b2fdee9",
@@ -2893,7 +2893,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-enterprise",
     "client_mode": "direct_openai",
-    "agree": 88,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -2931,7 +2931,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "852a0704-68ab-4628-a4a9-0e7aeab9ef4f",
@@ -2939,7 +2939,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-enterprise",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -2977,7 +2977,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "86e64a87-ceec-478b-9608-6d60faef67d2",
@@ -2985,7 +2985,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-first-topup",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3023,7 +3023,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "8762cae1-b916-4bec-91f9-0e7f7f6a17a2",
@@ -3077,7 +3077,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-award",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3115,7 +3115,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "8c11b9fd-a672-4098-b952-864a4570df8a",
@@ -3123,7 +3123,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3161,7 +3161,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "8cc04ec6-a981-4160-b67f-37318ad023e8",
@@ -3169,7 +3169,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-tmp-cheap",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 45108,
@@ -3207,7 +3207,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "8ce324f4-5d27-44d1-8f47-e7941789c0e1",
@@ -3215,7 +3215,7 @@
     "station_slug": "modelflare",
     "group_name": "deepseek-award",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3253,53 +3253,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
-  },
-  {
-    "run_id": "92746e07-a985-4c9f-849c-9a755f0cb92a",
-    "model_id": "gpt-6-astra",
-    "station_slug": "cheapai",
-    "group_name": "gpt-跌破底价",
-    "client_mode": "direct_openai",
-    "agree": 15,
-    "total": 30,
-    "input_tokens_min": 121,
-    "input_tokens_max": 140,
-    "reasoning_median": 33,
-    "identified_model_id": "gemini-3-8-flash",
-    "probe_keys": [
-      "folk-19831549",
-      "folk-2dca93e2",
-      "folk-2ecaa202",
-      "folk-309c6274",
-      "folk-4760bbc1",
-      "folk-5d7ab8a7",
-      "folk-67bbcbac",
-      "folk-684b1e29",
-      "folk-6aebfdca",
-      "folk-6ba96554",
-      "folk-6de4d083",
-      "folk-708106d0",
-      "folk-72557277",
-      "folk-76d7b3fe",
-      "folk-839bcb9f",
-      "folk-83cab704",
-      "folk-84ae7d22",
-      "folk-9495ef39",
-      "folk-a9821f86",
-      "folk-af2c573a",
-      "folk-c3bc2ef9",
-      "folk-c5ee6ec8",
-      "folk-c88b08cd",
-      "folk-cb1b438e",
-      "folk-d03c2942",
-      "folk-d6eaff84",
-      "folk-d854c0f1",
-      "folk-ed1abcbd",
-      "folk-f4075954",
-      "folk-f9139dc3"
-    ],
-    "measured_at": "2026-11-15T17:48:07.559Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "93af2130-3bc5-46a7-9788-d93ab05ad301",
@@ -3307,7 +3261,7 @@
     "station_slug": "modelflare",
     "group_name": "grok-award",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3345,7 +3299,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "94da27f9-b565-411d-97f9-071043d494ca",
@@ -3353,7 +3307,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-premium",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3391,7 +3345,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "96c15782-4197-4e04-b336-4c33c5f57fe1",
@@ -3399,7 +3353,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-award",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3437,7 +3391,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "9a7f72b3-d88f-45b8-a0e9-5ec1c3bc5d95",
@@ -3445,11 +3399,11 @@
     "station_slug": "znb-ai",
     "group_name": "znb-gpt-特惠",
     "client_mode": "direct_openai",
-    "agree": 19,
+    "agree": 24,
     "total": 30,
-    "input_tokens_min": 4210,
-    "input_tokens_max": 4486,
-    "reasoning_median": 0,
+    "input_tokens_min": 4203,
+    "input_tokens_max": 4218,
+    "reasoning_median": 28,
     "identified_model_id": "gpt-6-1-sol",
     "probe_keys": [
       "folk-19831549",
@@ -3483,7 +3437,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T17:53:39.456Z"
+    "measured_at": "2026-11-17T02:37:16.589Z"
   },
   {
     "run_id": "a002d472-973f-428c-ba07-dd760ebedf17",
@@ -3532,57 +3486,12 @@
     "measured_at": "2026-11-14T18:36:00.481Z"
   },
   {
-    "run_id": "a2323696-ab7b-41c0-89f3-c52ef23be599",
-    "model_id": "gpt-6-astra",
-    "station_slug": "cloudbridge",
-    "group_name": "Codex-core",
-    "client_mode": "direct_openai",
-    "agree": 25,
-    "total": 29,
-    "input_tokens_min": 102,
-    "input_tokens_max": 22994,
-    "reasoning_median": 31,
-    "identified_model_id": "gpt-6-1-sol",
-    "probe_keys": [
-      "folk-19831549",
-      "folk-2dca93e2",
-      "folk-2ecaa202",
-      "folk-309c6274",
-      "folk-5d7ab8a7",
-      "folk-67bbcbac",
-      "folk-684b1e29",
-      "folk-6aebfdca",
-      "folk-6ba96554",
-      "folk-6de4d083",
-      "folk-708106d0",
-      "folk-72557277",
-      "folk-76d7b3fe",
-      "folk-839bcb9f",
-      "folk-83cab704",
-      "folk-84ae7d22",
-      "folk-9495ef39",
-      "folk-a9821f86",
-      "folk-af2c573a",
-      "folk-c3bc2ef9",
-      "folk-c5ee6ec8",
-      "folk-c88b08cd",
-      "folk-cb1b438e",
-      "folk-d03c2942",
-      "folk-d6eaff84",
-      "folk-d854c0f1",
-      "folk-ed1abcbd",
-      "folk-f4075954",
-      "folk-f9139dc3"
-    ],
-    "measured_at": "2026-11-15T18:03:28.294Z"
-  },
-  {
     "run_id": "a3b9362b-1918-4bdb-a39b-0c49f2bb3406",
     "model_id": "claude-fable-5",
     "station_slug": "modelflare",
     "group_name": "claude-first-topup",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3620,7 +3529,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "a625ffb7-cf4b-4e57-8bbd-da6cf2fed27e",
@@ -3628,7 +3537,7 @@
     "station_slug": "modelflare",
     "group_name": "grok-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3666,7 +3575,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "a932e2e1-620c-4194-86d1-ee2b879c8ed5",
@@ -3710,7 +3619,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-stable",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 45108,
@@ -3748,7 +3657,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "ac7e0e63-dba2-4c8a-82a4-7779380519e1",
@@ -3756,7 +3665,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-award",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -3794,7 +3703,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "ad3e3fc3-7fef-48c9-aeeb-b975c654ac2c",
@@ -3884,7 +3793,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-first-topup",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 100,
     "input_tokens_max": 151769,
@@ -3922,7 +3831,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "b9e44f16-a40a-4adf-a80f-c6889e58eedd",
@@ -3976,7 +3885,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-stable",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -4014,53 +3923,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
-  },
-  {
-    "run_id": "bc6a8b34-597a-494c-beec-aa79267f0dc9",
-    "model_id": "claude-opus-5-5",
-    "station_slug": "cheapai",
-    "group_name": "claude-kiro-撕破底价",
-    "client_mode": "direct_anthropic",
-    "agree": 11,
-    "total": 20,
-    "input_tokens_min": 125,
-    "input_tokens_max": 149,
-    "reasoning_median": 0,
-    "identified_model_id": "claude-sonnet-5",
-    "probe_keys": [
-      "folk-19831549",
-      "folk-2dca93e2",
-      "folk-2ecaa202",
-      "folk-309c6274",
-      "folk-4760bbc1",
-      "folk-5d7ab8a7",
-      "folk-67bbcbac",
-      "folk-684b1e29",
-      "folk-6aebfdca",
-      "folk-6ba96554",
-      "folk-6de4d083",
-      "folk-708106d0",
-      "folk-72557277",
-      "folk-76d7b3fe",
-      "folk-839bcb9f",
-      "folk-83cab704",
-      "folk-84ae7d22",
-      "folk-9495ef39",
-      "folk-a9821f86",
-      "folk-af2c573a",
-      "folk-c3bc2ef9",
-      "folk-c5ee6ec8",
-      "folk-c88b08cd",
-      "folk-cb1b438e",
-      "folk-d03c2942",
-      "folk-d6eaff84",
-      "folk-d854c0f1",
-      "folk-ed1abcbd",
-      "folk-f4075954",
-      "folk-f9139dc3"
-    ],
-    "measured_at": "2026-11-15T17:44:10.000Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "bc851304-a375-410d-a3aa-36d613c0e5e5",
@@ -4068,7 +3931,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-award",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 45108,
@@ -4106,7 +3969,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "bd418f8c-9293-4e05-9f5d-78e991d0f581",
@@ -4114,7 +3977,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-award",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -4152,7 +4015,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "bdbf5f91-f973-4a74-88e3-e7c843edc31a",
@@ -4160,7 +4023,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-enterprise",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -4198,7 +4061,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "c21ef0cc-878a-4e40-a417-3838c501c815",
@@ -4206,7 +4069,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-premium",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 52,
     "input_tokens_max": 24260,
@@ -4244,7 +4107,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "c4c7181c-3f98-4f29-969d-cfc7e90a456f",
@@ -4252,12 +4115,12 @@
     "station_slug": "fluxlane",
     "group_name": "👑 Claude-Max｜满血旗舰",
     "client_mode": "direct_anthropic",
-    "agree": 10,
+    "agree": 9,
     "total": 20,
     "input_tokens_min": 116,
-    "input_tokens_max": 151,
-    "reasoning_median": 133,
-    "identified_model_id": "claude-sonnet-5",
+    "input_tokens_max": 10181,
+    "reasoning_median": 192,
+    "identified_model_id": "claude-haiku-5-5",
     "probe_keys": [
       "folk-19831549",
       "folk-2dca93e2",
@@ -4290,7 +4153,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T17:45:07.885Z"
+    "measured_at": "2026-11-17T02:44:31.227Z"
   },
   {
     "run_id": "c5767937-c1b8-45b4-9198-8df7d4e3f2f3",
@@ -4298,7 +4161,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-tmp-cheap",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 81,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -4336,7 +4199,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "c96eaf8f-7d50-459e-bb63-2304d89ee3b6",
@@ -4344,7 +4207,7 @@
     "station_slug": "modelflare",
     "group_name": "deepseek-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -4382,7 +4245,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "cd363d17-3673-4561-bbb4-b17abdce3070",
@@ -4390,7 +4253,7 @@
     "station_slug": "modelflare",
     "group_name": "deepseek-award",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -4428,7 +4291,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "ce5735fc-6adb-474b-8362-678a953b4100",
@@ -4436,7 +4299,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-first-topup",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -4474,7 +4337,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "d0182604-2a05-451b-a489-bb6e3d00bbc1",
@@ -4482,7 +4345,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-award",
     "client_mode": "direct_anthropic",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -4520,7 +4383,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "d166107e-c498-4c99-b6e3-8fd1982de201",
@@ -4528,7 +4391,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-first-topup",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 83,
     "total": 90,
     "input_tokens_min": 52,
     "input_tokens_max": 24260,
@@ -4566,7 +4429,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "d68d6d6c-11ea-4db2-a261-8e36cfdfb57b",
@@ -4574,7 +4437,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-first-topup",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -4612,7 +4475,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "d6a0a4d2-e846-4b56-9423-4e5073eb2b18",
@@ -4620,7 +4483,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -4658,7 +4521,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "d6d767a1-ab63-415f-b5d1-bb899eb4b008",
@@ -4666,9 +4529,9 @@
     "station_slug": "ikuncode",
     "group_name": "cc-kiro",
     "client_mode": "direct_anthropic",
-    "agree": 12,
-    "total": 20,
-    "input_tokens_min": 119,
+    "agree": 22,
+    "total": 30,
+    "input_tokens_min": 138,
     "input_tokens_max": 239,
     "reasoning_median": 0,
     "identified_model_id": "claude-opus-5-5",
@@ -4704,7 +4567,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T18:15:18.141Z"
+    "measured_at": "2026-11-17T04:08:07.161Z"
   },
   {
     "run_id": "daf0f305-e06b-43f8-a707-ac305c34e169",
@@ -4712,7 +4575,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-first-topup",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 45108,
@@ -4750,7 +4613,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "dc7650c2-3dae-4c13-bed7-353ca5a659d8",
@@ -4758,12 +4621,12 @@
     "station_slug": "ikuncode",
     "group_name": "Codex-Pro",
     "client_mode": "direct_openai",
-    "agree": 23,
-    "total": 30,
-    "input_tokens_min": 548,
-    "input_tokens_max": 564,
+    "agree": 16,
+    "total": 23,
+    "input_tokens_min": 97,
+    "input_tokens_max": 108,
     "reasoning_median": 0,
-    "identified_model_id": "gpt-6-1-sol",
+    "identified_model_id": "claude-opus-5-5",
     "probe_keys": [
       "folk-19831549",
       "folk-2dca93e2",
@@ -4796,7 +4659,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-15T18:18:51.121Z"
+    "measured_at": "2026-11-17T04:15:00.106Z"
   },
   {
     "run_id": "de6620ef-d79f-4dd9-8baa-70cf5cc95183",
@@ -4804,7 +4667,7 @@
     "station_slug": "modelflare",
     "group_name": "claude-tmp-cheap",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 52,
     "input_tokens_max": 24260,
@@ -4842,7 +4705,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "df3d80e6-9c1c-47bb-80dd-82cdff428928",
@@ -4850,7 +4713,7 @@
     "station_slug": "modelflare",
     "group_name": "grok-award",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -4888,7 +4751,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "e07e4309-3fe3-47d0-a488-2ae64213225f",
@@ -4896,9 +4759,9 @@
     "station_slug": "modelflare",
     "group_name": "claude-first-topup",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 81,
     "total": 90,
-    "input_tokens_min": 109,
+    "input_tokens_min": 52,
     "input_tokens_max": 24260,
     "reasoning_median": 559,
     "identified_model_id": "claude-opus-5-5",
@@ -4934,7 +4797,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "e896c641-2a00-450e-8889-a46f8aa68151",
@@ -4942,9 +4805,9 @@
     "station_slug": "modelflare",
     "group_name": "claude-tmp-cheap",
     "client_mode": "direct_anthropic",
-    "agree": 87,
+    "agree": 81,
     "total": 90,
-    "input_tokens_min": 109,
+    "input_tokens_min": 52,
     "input_tokens_max": 24260,
     "reasoning_median": 559,
     "identified_model_id": "claude-opus-5-5",
@@ -4980,7 +4843,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "e97de118-91b2-402d-9053-5dc07d55c9dc",
@@ -4988,7 +4851,7 @@
     "station_slug": "modelflare",
     "group_name": "grok-award",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -5026,7 +4889,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "ea699065-3267-49f0-93c6-f58ff88a9170",
@@ -5034,7 +4897,7 @@
     "station_slug": "modelflare",
     "group_name": "glm-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 82,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -5072,7 +4935,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "ecfeab52-f2d1-42a4-bde4-2d6c8c89562c",
@@ -5080,7 +4943,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-enterprise",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -5118,7 +4981,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "f1deeb35-5783-4436-92a9-54f73efacca3",
@@ -5126,7 +4989,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-stable",
     "client_mode": "direct_openai",
-    "agree": 87,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": null,
     "input_tokens_max": null,
@@ -5164,7 +5027,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "f284a4fe-8f7a-4693-aaa2-2b60500a191b",
@@ -5172,7 +5035,7 @@
     "station_slug": "modelflare",
     "group_name": "deepseek-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -5210,7 +5073,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "f31714b3-19a7-47d7-87ca-07c71f3051dc",
@@ -5218,7 +5081,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-stable",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 85,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -5256,7 +5119,7 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   },
   {
     "run_id": "f7a35ede-b5ec-4580-b386-58dda750c536",
@@ -5264,7 +5127,7 @@
     "station_slug": "modelflare",
     "group_name": "openai-first-topup",
     "client_mode": "direct_openai",
-    "agree": 90,
+    "agree": 84,
     "total": 90,
     "input_tokens_min": 109,
     "input_tokens_max": 24260,
@@ -5302,6 +5165,6 @@
       "folk-f4075954",
       "folk-f9139dc3"
     ],
-    "measured_at": "2026-11-16T00:15:00.423Z"
+    "measured_at": "2026-11-17T03:44:09.277Z"
   }
 ]
