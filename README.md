@@ -47,6 +47,17 @@ CSV 使用 UTF-8 BOM；数组以 `|` 分隔。可能触发表格公式的文本�
 
 [提交纠错](https://folkbench.com/corrections?utm_source=github&utm_medium=data-repo&utm_campaign=folkbench-data&utm_content=corrections) · [申请收录](https://folkbench.com/vendor-join?utm_source=github&utm_medium=data-repo&utm_campaign=folkbench-data&utm_content=vendor-join) · [产品与客户端](https://github.com/Folkbench/folkbench)
 
+## 使用这份数据的站点
+
+以下六个公开快照视图每天只读取本仓库的已归档快照生成；排序按站点规则，含合作档位与运营加权。
+
+- [AI 中转站排行](https://folkbench.github.io/relay-rank/)：按模型的每日公开快照与历史名次
+- [中转站检测周报](https://folkbench.github.io/integrity-weekly/)：模型身份探针的每周汇总
+- [AI 中转站对比](https://ai-relay-bench.github.io/)：同一模型在各中转站的并排对比
+- [AI API 价格对比](https://aiapi-rank.github.io/)：中转站公开标价与官方参考价
+- [AI 中转站大全](https://ai-zhongzhuan.github.io/)：站点目录、公开资料与新手指南
+- [模型检测快照](https://ai-model-check.github.io/)：每日模型身份探针汇总
+
 ## English
 
 Folkbench Data archives public snapshots of the main site's rankings, catalog and published probe summaries. Existing ordering includes partnership tiers and operator bonuses; . These files do not promise exclusively real measurements or reproducible scoring. Historical archives are immutable. Private runs, prompts, answers and credentials are excluded. Data is licensed under CC BY 4.0; names, logos and third-party materials are excluded.
