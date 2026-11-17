@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "snapshot_version": "public-dc1f4dff1dff69c086e10163e8480059cac6fc2ffda3912f902f0558c339b64b",
+  "date": "2026-11-17",
+  "published_at": "2026-11-17T12:30:50.762Z",
+  "source_collected_at": "2026-11-17T12:30:50.762Z",
+  "exported_at": "2026-11-17T12:30:50.762Z",
+  "sources": [
+    {
+      "model_id": "claude-fable-5-1",
+      "snapshot_version": "rel-31f3b6be-1794917074960",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:34.960Z",
+      "rows": 13
+    },
+    {
+      "model_id": "claude-haiku-5-5",
+      "snapshot_version": "rel-b861b8c7-1794917075789",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:35.789Z",
+      "rows": 8
+    },
+    {
+      "model_id": "claude-opus-5-5",
+      "snapshot_version": "rel-733dd258-1794917076630",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:36.630Z",
+      "rows": 16
+    },
+    {
+      "model_id": "deepseek-v4-1-flash",
+      "snapshot_version": "rel-f6b1c884-1794917077430",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:37.430Z",
+      "rows": 11
+    },
+    {
+      "model_id": "gpt-6-1-sol",
+      "snapshot_version": "rel-8faa70f6-1794917079748",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:39.748Z",
+      "rows": 13
+    },
+    {
+      "model_id": "gpt-6-astra",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:38.210Z",
+      "rows": 17
+    },
+    {
+      "model_id": "gpt-6-sol",
+      "snapshot_version": "rel-980b0531-1794917078988",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:38.988Z",
+      "rows": 13
+    },
+    {
+      "model_id": "grok-4-7",
+      "snapshot_version": "rel-71c5b8d1-1794917080499",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:40.499Z",
+      "rows": 8
+    }
+  ],
+  "files": [
+    {
+      "path": "snapshot.json",
+      "sha256": "4e4a5c35f3f3fc30c26787ccce7715ac8e7ccd4c88c3f273f0eb4f22beca5b9c",
+      "rows": 1
+    },
+    {
+      "path": "rankings.json",
+      "sha256": "624ec62b662e55894c494d2313951d6b76a97ad1c8d63964e3300d0836a7cae3",
+      "rows": 99
+    },
+    {
+      "path": "rankings.csv",
+      "sha256": "f93092c5015610ae566fb6e87d052a993d68f3e4947059ae3b62497d9a3a5000",
+      "rows": 99
+    },
+    {
+      "path": "integrity.json",
+      "sha256": "0e6ba46c26ff6dc95e2c76e6274135e04894abd40256d3e71d18b25de3049557",
+      "rows": 114
+    },
+    {
+      "path": "integrity.csv",
+      "sha256": "e48781939858f92b7a931c90b0462b7b191c29d392f8386186412f212a203abb",
+      "rows": 114
+    },
+    {
+      "path": "models.json",
+      "sha256": "fca5a37385072f35c4c7423ed5180d1cfd1b7843c5d06c273b6d2f85ad58564b",
+      "rows": 110
+    },
+    {
+      "path": "stations.json",
+      "sha256": "2eadc0723cc7ba29544218d95381be1d8b86517ee9c0309d2c660743f67d7c25",
+      "rows": 31
+    }
+  ]
+}

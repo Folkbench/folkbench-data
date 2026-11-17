@@ -34,6 +34,23 @@
     "refund": "unspecified"
   },
   {
+    "slug": "aicentos",
+    "name": "aicentos",
+    "profile_url": "https://folkbench.com/services/aicentos",
+    "listing_status": "tested",
+    "measurement_status": "not_available",
+    "first_listed_at": null,
+    "data_security_level": 0,
+    "data_security_validity": "not_verified",
+    "checked_at": null,
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "no",
+    "invoice": "yes",
+    "customer_service": "yes",
+    "refund": "supported"
+  },
+  {
     "slug": "apiniuma",
     "name": "超稳API / Stable API",
     "profile_url": "https://folkbench.com/services/apiniuma",
@@ -43,11 +60,11 @@
     "data_security_level": 0,
     "data_security_validity": "not_verified",
     "checked_at": null,
-    "subject_present": "unspecified",
-    "domestic_payment": "unspecified",
-    "overseas_payment": "unspecified",
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "no",
     "invoice": "unspecified",
-    "customer_service": "unspecified",
+    "customer_service": "yes",
     "refund": "unspecified"
   },
   {
@@ -221,6 +238,23 @@
     "refund": "unspecified"
   },
   {
+    "slug": "merchant-27af1806-16e",
+    "name": "ModelPod",
+    "profile_url": "https://folkbench.com/services/merchant-27af1806-16e",
+    "listing_status": "tested",
+    "measurement_status": "not_available",
+    "first_listed_at": null,
+    "data_security_level": 0,
+    "data_security_validity": "not_verified",
+    "checked_at": null,
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "no",
+    "invoice": "yes",
+    "customer_service": "yes",
+    "refund": "unspecified"
+  },
+  {
     "slug": "merchant-2e16cda8-294",
     "name": "序点算力",
     "profile_url": "https://folkbench.com/services/merchant-2e16cda8-294",
@@ -230,12 +264,12 @@
     "data_security_level": 0,
     "data_security_validity": "not_verified",
     "checked_at": null,
-    "subject_present": "unspecified",
-    "domestic_payment": "unspecified",
-    "overseas_payment": "unspecified",
-    "invoice": "unspecified",
-    "customer_service": "unspecified",
-    "refund": "unspecified"
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "no",
+    "invoice": "yes",
+    "customer_service": "yes",
+    "refund": "not_supported"
   },
   {
     "slug": "merchant-316d7f43-b18",
@@ -298,12 +332,12 @@
     "data_security_level": 0,
     "data_security_validity": "not_verified",
     "checked_at": null,
-    "subject_present": "unspecified",
-    "domestic_payment": "unspecified",
-    "overseas_payment": "unspecified",
-    "invoice": "unspecified",
-    "customer_service": "unspecified",
-    "refund": "unspecified"
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "no",
+    "invoice": "yes",
+    "customer_service": "yes",
+    "refund": "supported"
   },
   {
     "slug": "merchant-7a09254e-f3f",
@@ -332,11 +366,11 @@
     "data_security_level": 0,
     "data_security_validity": "not_verified",
     "checked_at": null,
-    "subject_present": "unspecified",
-    "domestic_payment": "unspecified",
-    "overseas_payment": "unspecified",
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "yes",
     "invoice": "unspecified",
-    "customer_service": "unspecified",
+    "customer_service": "yes",
     "refund": "unspecified"
   },
   {
@@ -349,12 +383,12 @@
     "data_security_level": 0,
     "data_security_validity": "not_verified",
     "checked_at": null,
-    "subject_present": "unspecified",
-    "domestic_payment": "unspecified",
-    "overseas_payment": "unspecified",
-    "invoice": "unspecified",
-    "customer_service": "unspecified",
-    "refund": "unspecified"
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "yes",
+    "invoice": "yes",
+    "customer_service": "yes",
+    "refund": "supported"
   },
   {
     "slug": "merchant-9adafd15-54e",

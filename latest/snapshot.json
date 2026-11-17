@@ -1,76 +1,76 @@
 {
   "schema_version": "1.0",
-  "source_collected_at": "2026-11-16T15:24:42.110Z",
+  "source_collected_at": "2026-11-17T12:30:50.762Z",
   "policy": "public-snapshot-includes-display-samples-and-existing-placement",
   "boards": [
     {
       "model_id": "claude-fable-5-1",
-      "snapshot_version": "rel-08151c73-1794841307719",
+      "snapshot_version": "rel-31f3b6be-1794917074960",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:47.719Z",
-      "rows": 11
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:34.960Z",
+      "rows": 13
     },
     {
       "model_id": "claude-haiku-5-5",
-      "snapshot_version": "rel-cc7f5d2c-1794841612911",
+      "snapshot_version": "rel-b861b8c7-1794917075789",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:06:52.911Z",
-      "rows": 6
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:35.789Z",
+      "rows": 8
     },
     {
       "model_id": "claude-opus-5-5",
-      "snapshot_version": "rel-716ff470-1794841308733",
+      "snapshot_version": "rel-733dd258-1794917076630",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:48.733Z",
-      "rows": 14
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:36.630Z",
+      "rows": 16
     },
     {
       "model_id": "deepseek-v4-1-flash",
-      "snapshot_version": "rel-109b3dc0-1794841309441",
+      "snapshot_version": "rel-f6b1c884-1794917077430",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:49.441Z",
-      "rows": 9
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:37.430Z",
+      "rows": 11
     },
     {
       "model_id": "gpt-6-1-sol",
-      "snapshot_version": "rel-569656ff-1794841311073",
+      "snapshot_version": "rel-8faa70f6-1794917079748",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:51.073Z",
-      "rows": 11
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:39.748Z",
+      "rows": 13
     },
     {
       "model_id": "gpt-6-astra",
-      "snapshot_version": "rel-0dda22ab-1794841310123",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:50.123Z",
-      "rows": 15
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:38.210Z",
+      "rows": 17
     },
     {
       "model_id": "gpt-6-sol",
-      "snapshot_version": "rel-65b53311-1794841614433",
+      "snapshot_version": "rel-980b0531-1794917078988",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:06:54.433Z",
-      "rows": 11
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:38.988Z",
+      "rows": 13
     },
     {
       "model_id": "grok-4-7",
-      "snapshot_version": "rel-a1d25ba3-1794841311743",
+      "snapshot_version": "rel-71c5b8d1-1794917080499",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:51.743Z",
-      "rows": 7
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:40.499Z",
+      "rows": 8
     }
   ],
   "rankings": [
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "modelflare",
@@ -83,15 +83,15 @@
       "catalog_only": false,
       "release_kind": "published",
       "overall_bps": 10000,
-      "availability_bps": 9850,
-      "connectivity_bps": 9850,
-      "stability_bps": 9621,
+      "availability_bps": 9862,
+      "connectivity_bps": 9862,
+      "stability_bps": 9579,
       "latency_p95_ms": null,
       "status_windows": [
+        "delayed",
+        "delayed",
         "ok",
-        "delayed",
-        "delayed",
-        "delayed",
+        "ok",
         "ok",
         "ok",
         "ok",
@@ -113,7 +113,7 @@
         "ok",
         "ok"
       ],
-      "sample_size": 200,
+      "sample_size": 145,
       "input_price": 1.992,
       "output_price": 9.96,
       "price_currency": "CNY",
@@ -122,14 +122,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-07T15:38:47.221Z",
-      "measured_at": "2026-11-16T15:23:27.425Z",
-      "snapshot_version": "rel-08151c73-1794841307719",
+      "measured_at": "2026-11-17T12:30:50.220Z",
+      "snapshot_version": "rel-31f3b6be-1794917074960",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:47.719Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:34.960Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "fluxlane",
@@ -141,38 +141,38 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 9867,
+      "overall_bps": 9807,
       "availability_bps": 10000,
       "connectivity_bps": 10000,
-      "stability_bps": 7621,
+      "stability_bps": 8864,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
         "ok",
         "ok",
         "ok",
-        "delayed",
         "ok",
         "ok",
         "ok",
         "ok",
         "ok",
         "ok",
-        "delayed",
-        "ok",
-        "ok",
-        "delayed",
         "ok",
         "ok",
         "ok",
         "ok",
-        "delayed",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
         "ok",
         "ok",
         "ok",
         "ok"
       ],
-      "sample_size": 48,
+      "sample_size": 47,
       "input_price": null,
       "output_price": null,
       "price_currency": null,
@@ -181,14 +181,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-09-21T13:12:49.877Z",
-      "measured_at": "2026-11-16T15:00:36.890Z",
+      "measured_at": "2026-11-17T12:02:10.397Z",
       "snapshot_version": "catalog-492c8b80-3",
       "method_version": "catalog-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
       "published_at": "2026-11-04T13:06:10.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "cloudbridge",
@@ -200,20 +200,15 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 8133,
-      "availability_bps": 10000,
-      "connectivity_bps": 10000,
-      "stability_bps": 8010,
+      "overall_bps": 8289,
+      "availability_bps": 9792,
+      "connectivity_bps": 9792,
+      "stability_bps": 7417,
       "latency_p95_ms": null,
       "status_windows": [
+        "delayed",
         "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
+        "delayed",
         "ok",
         "ok",
         "ok",
@@ -224,6 +219,11 @@
         "delayed",
         "ok",
         "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "delayed",
         "ok",
         "ok",
         "ok",
@@ -240,14 +240,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-10-05T07:05:17.264Z",
-      "measured_at": "2026-11-16T15:01:59.051Z",
-      "snapshot_version": "rel-08151c73-1794841307719",
+      "measured_at": "2026-11-17T12:01:24.607Z",
+      "snapshot_version": "rel-31f3b6be-1794917074960",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:47.719Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:34.960Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "apiporter",
@@ -275,20 +275,113 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-17T18:00:11.047Z",
       "measured_at": null,
-      "snapshot_version": "rel-08151c73-1794841307719",
+      "snapshot_version": "rel-31f3b6be-1794917074960",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:47.719Z"
+      "published_at": "2026-11-17T12:04:34.960Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "claude-fable-5-1",
+      "model_name": "Claude Fable 5.1",
+      "station_slug": "merchant-5cf7678f-611",
+      "station_name": "Zashmodel",
+      "channel_id": "catalog-4089f31ef665a9c75cea9021b291ddbefb15bc99",
+      "group_name": "claude-steady",
+      "position": 5,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "ok"
+      ],
+      "sample_size": 1,
+      "input_price": 2,
+      "output_price": 10,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-16T14:22:24.158Z",
+      "measured_at": "2026-11-17T12:25:32.478Z",
+      "snapshot_version": "catalog-3097684b-2",
+      "method_version": "catalog-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-16T14:22:24.329Z"
+    },
+    {
+      "date": "2026-11-17",
+      "model_id": "claude-fable-5-1",
+      "model_name": "Claude Fable 5.1",
+      "station_slug": "merchant-27af1806-16e",
+      "station_name": "ModelPod",
+      "channel_id": "catalog-796e36888bb1ee47c20e4df609545e0004c5f095",
+      "group_name": "default",
+      "position": 6,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": 25.125,
+      "output_price": 125.625,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-17T09:36:15.190Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-0d73784e-1",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-17T09:36:15.674Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "a6api",
       "station_name": "A6api",
       "channel_id": "catalog-21009cfef35ad721a3e7f9cfae9029c618dfd92c",
       "group_name": "保真优先",
-      "position": 5,
+      "position": 7,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -309,20 +402,20 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-06T08:52:44.880Z",
       "measured_at": null,
-      "snapshot_version": "catalog-19a4f8ca-8",
+      "snapshot_version": "catalog-e652036a-9",
       "method_version": "catalog-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-15T18:00:03.263Z"
+      "published_at": "2026-11-16T18:01:09.831Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "aruhub",
       "station_name": "aruhub API",
       "channel_id": "catalog-17441c76628eeece544e64f51a348e6813c39352",
       "group_name": "Claude-Kiro-D 企业正价号 智商拉满 不掺降智号",
-      "position": 6,
+      "position": 8,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -343,20 +436,20 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-04T14:43:32.981Z",
       "measured_at": null,
-      "snapshot_version": "catalog-6e707860-11",
+      "snapshot_version": "catalog-1a2de523-12",
       "method_version": "catalog-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-15T18:00:03.545Z"
+      "published_at": "2026-11-16T18:01:13.481Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "foxapi",
       "station_name": "FoxAPI",
       "channel_id": "foxapi-claude-fable-5-1-4e6788b1",
       "group_name": "claude-code专用",
-      "position": 7,
+      "position": 9,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -383,14 +476,14 @@
       "published_at": "2026-11-09T13:35:12.665Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "linoroute",
       "station_name": "LinoRoute",
       "channel_id": "linoroute-claude-fable-5-1-2a92f5fd",
       "group_name": "Anthropic-Claude-1",
-      "position": 8,
+      "position": 10,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -417,14 +510,14 @@
       "published_at": "2026-11-09T13:35:12.592Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "znb-ai",
       "station_name": "ZNB.ai",
       "channel_id": "manual-e947c85c-07a5-47d7-97c3-9f7d45fe6134",
       "group_name": "znb-cc-max-稳定",
-      "position": 9,
+      "position": 11,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": false,
@@ -445,20 +538,20 @@
       "price_source": "manual",
       "price_recorded_at": "2026-10-09T04:20:48.000Z",
       "measured_at": null,
-      "snapshot_version": "rel-08151c73-1794841307719",
+      "snapshot_version": "rel-31f3b6be-1794917074960",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:47.719Z"
+      "published_at": "2026-11-17T12:04:34.960Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "88api",
       "station_name": "88API",
       "channel_id": "manual-94317083-45aa-46a5-920a-c337766240b7",
       "group_name": "Claude Max池 可外接",
-      "position": 10,
+      "position": 12,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -485,14 +578,14 @@
       "published_at": "2026-11-09T12:10:32.575Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-fable-5-1",
       "model_name": "Claude Fable 5.1",
       "station_slug": "toolcode",
       "station_name": "ToolCode",
       "channel_id": "toolcode-claude-fable-5-1-0eadfe16",
       "group_name": "CC-Max-满血号池",
-      "position": 11,
+      "position": 13,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -519,7 +612,7 @@
       "published_at": "2026-11-09T13:59:52.907Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-haiku-5-5",
       "model_name": "Claude Haiku 5.5",
       "station_slug": "modelflare",
@@ -532,9 +625,9 @@
       "catalog_only": false,
       "release_kind": "published",
       "overall_bps": 10000,
-      "availability_bps": 9771,
-      "connectivity_bps": 9771,
-      "stability_bps": 9437,
+      "availability_bps": 9833,
+      "connectivity_bps": 9833,
+      "stability_bps": 9482,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
@@ -542,27 +635,27 @@
         "ok",
         "ok",
         "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
         "delayed",
         "delayed",
-        "delayed",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
         "ok",
         "ok",
         "ok",
         "ok"
       ],
-      "sample_size": 131,
+      "sample_size": 120,
       "input_price": null,
       "output_price": null,
       "price_currency": null,
@@ -571,14 +664,14 @@
       "output_price_unit": null,
       "price_source": "manual",
       "price_recorded_at": "2026-10-09T16:12:48.581Z",
-      "measured_at": "2026-11-16T15:23:30.721Z",
-      "snapshot_version": "rel-cc7f5d2c-1794841612911",
+      "measured_at": "2026-11-17T12:28:55.065Z",
+      "snapshot_version": "rel-b861b8c7-1794917075789",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:06:52.911Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:35.789Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-haiku-5-5",
       "model_name": "Claude Haiku 5.5",
       "station_slug": "ikuncode",
@@ -590,7 +683,7 @@
       "evidence_status": "not_verified",
       "catalog_only": true,
       "release_kind": "published",
-      "overall_bps": 9531,
+      "overall_bps": 9458,
       "availability_bps": null,
       "connectivity_bps": null,
       "stability_bps": null,
@@ -612,14 +705,48 @@
       "published_at": "2026-11-12T18:00:26.694Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "claude-haiku-5-5",
+      "model_name": "Claude Haiku 5.5",
+      "station_slug": "merchant-27af1806-16e",
+      "station_name": "ModelPod",
+      "channel_id": "catalog-796e36888bb1ee47c20e4df609545e0004c5f095",
+      "group_name": "default",
+      "position": 3,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": 0.603,
+      "output_price": 3.015,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-17T09:36:15.190Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-0d73784e-1",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-17T09:36:15.674Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "claude-haiku-5-5",
       "model_name": "Claude Haiku 5.5",
       "station_slug": "a6api",
       "station_name": "A6api",
       "channel_id": "catalog-21009cfef35ad721a3e7f9cfae9029c618dfd92c",
       "group_name": "保真优先",
-      "position": 3,
+      "position": 4,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -640,20 +767,54 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-06T08:52:44.880Z",
       "measured_at": null,
-      "snapshot_version": "catalog-19a4f8ca-8",
+      "snapshot_version": "catalog-e652036a-9",
       "method_version": "catalog-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-15T18:00:03.263Z"
+      "published_at": "2026-11-16T18:01:09.831Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "claude-haiku-5-5",
+      "model_name": "Claude Haiku 5.5",
+      "station_slug": "merchant-5cf7678f-611",
+      "station_name": "Zashmodel",
+      "channel_id": "catalog-17433e93f021da3dc45f29bde9533abfb7eae223",
+      "group_name": "claude-prime",
+      "position": 5,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": null,
+      "output_price": null,
+      "price_currency": null,
+      "price_unit": null,
+      "output_price_currency": null,
+      "output_price_unit": null,
+      "price_source": "official",
+      "price_recorded_at": "2026-11-16T14:22:24.158Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-3097684b-2",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-16T14:22:24.329Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "claude-haiku-5-5",
       "model_name": "Claude Haiku 5.5",
       "station_slug": "foxapi",
       "station_name": "FoxAPI",
       "channel_id": "foxapi-claude-haiku-5-5-4e6788b1",
       "group_name": "claude-code专用",
-      "position": 4,
+      "position": 6,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -680,14 +841,14 @@
       "published_at": "2026-11-09T13:35:12.665Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-haiku-5-5",
       "model_name": "Claude Haiku 5.5",
       "station_slug": "linoroute",
       "station_name": "LinoRoute",
       "channel_id": "linoroute-claude-haiku-5-5-2a92f5fd",
       "group_name": "Anthropic-Claude-1",
-      "position": 5,
+      "position": 7,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -714,14 +875,14 @@
       "published_at": "2026-11-09T13:35:12.592Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-haiku-5-5",
       "model_name": "Claude Haiku 5.5",
       "station_slug": "88api",
       "station_name": "88API",
       "channel_id": "manual-94317083-45aa-46a5-920a-c337766240b7",
       "group_name": "Claude Max池 可外接",
-      "position": 6,
+      "position": 8,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -748,7 +909,7 @@
       "published_at": "2026-11-09T12:10:32.575Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "modelflare",
@@ -761,11 +922,21 @@
       "catalog_only": false,
       "release_kind": "published",
       "overall_bps": 10000,
-      "availability_bps": 9878,
-      "connectivity_bps": 9878,
-      "stability_bps": 9629,
+      "availability_bps": 9858,
+      "connectivity_bps": 9858,
+      "stability_bps": 9581,
       "latency_p95_ms": null,
       "status_windows": [
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "delayed",
         "delayed",
         "ok",
         "ok",
@@ -778,20 +949,10 @@
         "ok",
         "ok",
         "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "delayed",
         "ok",
         "ok"
       ],
-      "sample_size": 164,
+      "sample_size": 141,
       "input_price": 0.7968,
       "output_price": 3.984,
       "price_currency": "CNY",
@@ -800,14 +961,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-07T15:38:47.221Z",
-      "measured_at": "2026-11-16T15:23:27.979Z",
-      "snapshot_version": "rel-716ff470-1794841308733",
+      "measured_at": "2026-11-17T12:28:52.234Z",
+      "snapshot_version": "rel-733dd258-1794917076630",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:48.733Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:36.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "fluxlane",
@@ -819,18 +980,13 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 9867,
-      "availability_bps": 9167,
-      "connectivity_bps": 9167,
-      "stability_bps": 7413,
+      "overall_bps": 9807,
+      "availability_bps": 9583,
+      "connectivity_bps": 9583,
+      "stability_bps": 8022,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
         "delayed",
         "ok",
         "ok",
@@ -844,10 +1000,15 @@
         "ok",
         "ok",
         "ok",
-        "delayed",
-        "delayed",
         "ok",
-        "delayed",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
         "ok"
       ],
       "sample_size": 48,
@@ -859,14 +1020,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-10-13T19:34:34.991Z",
-      "measured_at": "2026-11-16T15:00:41.435Z",
-      "snapshot_version": "rel-716ff470-1794841308733",
+      "measured_at": "2026-11-17T12:02:15.373Z",
+      "snapshot_version": "rel-733dd258-1794917076630",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:48.733Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:36.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "ikuncode",
@@ -878,38 +1039,38 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 9531,
-      "availability_bps": 9302,
-      "connectivity_bps": 9302,
-      "stability_bps": 7674,
+      "overall_bps": 9458,
+      "availability_bps": 8750,
+      "connectivity_bps": 8750,
+      "stability_bps": 6569,
       "latency_p95_ms": null,
       "status_windows": [
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "unknown",
-        "unknown",
-        "ok",
-        "delayed",
-        "ok",
-        "ok",
-        "ok",
         "delayed",
         "down",
+        "ok",
+        "ok",
+        "delayed",
+        "delayed",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "delayed",
+        "delayed",
+        "ok",
+        "ok",
+        "ok",
+        "delayed",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
         "ok"
       ],
-      "sample_size": 43,
+      "sample_size": 48,
       "input_price": 4,
       "output_price": 20,
       "price_currency": "CNY",
@@ -918,14 +1079,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-06T06:00:18.260Z",
-      "measured_at": "2026-11-16T15:00:07.203Z",
-      "snapshot_version": "rel-716ff470-1794841308733",
+      "measured_at": "2026-11-17T12:01:41.293Z",
+      "snapshot_version": "rel-733dd258-1794917076630",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:48.733Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:36.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "cloudbridge",
@@ -937,10 +1098,10 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 8133,
+      "overall_bps": 8289,
       "availability_bps": 10000,
       "connectivity_bps": 10000,
-      "stability_bps": 8481,
+      "stability_bps": 8958,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
@@ -955,7 +1116,6 @@
         "ok",
         "ok",
         "ok",
-        "delayed",
         "ok",
         "ok",
         "ok",
@@ -963,7 +1123,8 @@
         "ok",
         "ok",
         "ok",
-        "delayed",
+        "ok",
+        "ok",
         "ok",
         "ok",
         "ok"
@@ -977,14 +1138,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-10-05T07:05:17.264Z",
-      "measured_at": "2026-11-16T15:02:00.869Z",
-      "snapshot_version": "rel-716ff470-1794841308733",
+      "measured_at": "2026-11-17T12:01:26.863Z",
+      "snapshot_version": "rel-733dd258-1794917076630",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:48.733Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:36.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "a6api",
@@ -1012,13 +1173,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-06T08:52:44.880Z",
       "measured_at": null,
-      "snapshot_version": "rel-716ff470-1794841308733",
+      "snapshot_version": "rel-733dd258-1794917076630",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:48.733Z"
+      "published_at": "2026-11-17T12:04:36.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "apiporter",
@@ -1046,13 +1207,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-17T18:00:11.047Z",
       "measured_at": null,
-      "snapshot_version": "rel-716ff470-1794841308733",
+      "snapshot_version": "rel-733dd258-1794917076630",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:48.733Z"
+      "published_at": "2026-11-17T12:04:36.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "cheapai",
@@ -1080,19 +1241,19 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-27T18:00:35.103Z",
       "measured_at": null,
-      "snapshot_version": "rel-716ff470-1794841308733",
+      "snapshot_version": "rel-733dd258-1794917076630",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:48.733Z"
+      "published_at": "2026-11-17T12:04:36.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
-      "station_slug": "aruhub",
-      "station_name": "aruhub API",
-      "channel_id": "catalog-2e53b8b9a53263a9a681d4d080cb31a52cfb7b1d",
-      "group_name": "Claude-Kiro-C 正价 高智商 推荐",
+      "station_slug": "merchant-5cf7678f-611",
+      "station_name": "Zashmodel",
+      "channel_id": "catalog-4bb66ffb613dc1ae8e8eec9f3eb8657660beff4e",
+      "group_name": "claude-spark",
       "position": 8,
       "rank_published": null,
       "evidence_status": "not_verified",
@@ -1103,24 +1264,49 @@
       "connectivity_bps": null,
       "stability_bps": null,
       "latency_p95_ms": null,
-      "status_windows": [],
-      "sample_size": null,
-      "input_price": 1.6,
-      "output_price": 8,
+      "status_windows": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "down"
+      ],
+      "sample_size": 1,
+      "input_price": 0.08,
+      "output_price": 0.4,
       "price_currency": "CNY",
       "price_unit": "per_1m_tokens",
       "output_price_currency": "CNY",
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
-      "price_recorded_at": "2026-11-09T18:00:13.914Z",
-      "measured_at": null,
-      "snapshot_version": "catalog-6e707860-11",
+      "price_recorded_at": "2026-11-16T14:22:24.158Z",
+      "measured_at": "2026-11-17T12:25:32.117Z",
+      "snapshot_version": "catalog-3097684b-2",
       "method_version": "catalog-v1",
-      "observed_window": "not-measured",
-      "published_at": "2026-11-15T18:00:03.545Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-16T14:22:24.329Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "cheaprouter",
@@ -1154,14 +1340,82 @@
       "published_at": "2026-11-11T18:00:06.079Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "claude-opus-5-5",
+      "model_name": "Claude Opus 5.5",
+      "station_slug": "merchant-27af1806-16e",
+      "station_name": "ModelPod",
+      "channel_id": "catalog-796e36888bb1ee47c20e4df609545e0004c5f095",
+      "group_name": "default",
+      "position": 10,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": 10.05,
+      "output_price": 50.25,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-17T09:36:15.190Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-0d73784e-1",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-17T09:36:15.674Z"
+    },
+    {
+      "date": "2026-11-17",
+      "model_id": "claude-opus-5-5",
+      "model_name": "Claude Opus 5.5",
+      "station_slug": "aruhub",
+      "station_name": "aruhub API",
+      "channel_id": "catalog-2e53b8b9a53263a9a681d4d080cb31a52cfb7b1d",
+      "group_name": "Claude-Kiro-C 正价 高智商 推荐",
+      "position": 11,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": null,
+      "output_price": null,
+      "price_currency": null,
+      "price_unit": null,
+      "output_price_currency": null,
+      "output_price_unit": null,
+      "price_source": "official",
+      "price_recorded_at": "2026-11-09T18:00:13.914Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-1a2de523-12",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-16T18:01:13.481Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "foxapi",
       "station_name": "FoxAPI",
       "channel_id": "foxapi-claude-opus-5-5-4e6788b1",
       "group_name": "claude-code专用",
-      "position": 10,
+      "position": 12,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -1188,14 +1442,14 @@
       "published_at": "2026-11-09T13:35:12.665Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "linoroute",
       "station_name": "LinoRoute",
       "channel_id": "linoroute-claude-opus-5-5-2a92f5fd",
       "group_name": "Anthropic-Claude-1",
-      "position": 11,
+      "position": 13,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -1222,14 +1476,14 @@
       "published_at": "2026-11-09T13:35:12.592Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "znb-ai",
       "station_name": "ZNB.ai",
       "channel_id": "manual-fba720b9-977d-445e-a39f-9d10c6cfb3a0",
       "group_name": "znb-cc-特惠",
-      "position": 12,
+      "position": 14,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": false,
@@ -1250,20 +1504,20 @@
       "price_source": "manual",
       "price_recorded_at": "2026-10-09T04:20:48.000Z",
       "measured_at": null,
-      "snapshot_version": "rel-716ff470-1794841308733",
+      "snapshot_version": "rel-733dd258-1794917076630",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:48.733Z"
+      "published_at": "2026-11-17T12:04:36.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "88api",
       "station_name": "88API",
       "channel_id": "manual-94317083-45aa-46a5-920a-c337766240b7",
       "group_name": "Claude Max池 可外接",
-      "position": 13,
+      "position": 15,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -1290,14 +1544,14 @@
       "published_at": "2026-11-09T12:10:32.575Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "claude-opus-5-5",
       "model_name": "Claude Opus 5.5",
       "station_slug": "toolcode",
       "station_name": "ToolCode",
       "channel_id": "toolcode-claude-opus-5-5-0eadfe16",
       "group_name": "CC-Max-满血号池",
-      "position": 14,
+      "position": 16,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -1324,7 +1578,7 @@
       "published_at": "2026-11-09T13:59:52.907Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "deepseek-v4-1-flash",
       "model_name": "DeepSeek V4.1 Flash",
       "station_slug": "modelflare",
@@ -1337,13 +1591,11 @@
       "catalog_only": false,
       "release_kind": "published",
       "overall_bps": 10000,
-      "availability_bps": 9814,
-      "connectivity_bps": 9814,
-      "stability_bps": 8627,
+      "availability_bps": 9799,
+      "connectivity_bps": 9799,
+      "stability_bps": 9567,
       "latency_p95_ms": null,
       "status_windows": [
-        "delayed",
-        "ok",
         "ok",
         "ok",
         "ok",
@@ -1352,6 +1604,8 @@
         "delayed",
         "delayed",
         "delayed",
+        "delayed",
+        "ok",
         "ok",
         "ok",
         "ok",
@@ -1367,7 +1621,7 @@
         "ok",
         "ok"
       ],
-      "sample_size": 161,
+      "sample_size": 199,
       "input_price": 1.2,
       "output_price": 4.799999999998,
       "price_currency": "CNY",
@@ -1376,14 +1630,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-07T15:38:47.221Z",
-      "measured_at": "2026-11-16T15:23:29.067Z",
-      "snapshot_version": "rel-109b3dc0-1794841309441",
+      "measured_at": "2026-11-17T12:28:53.323Z",
+      "snapshot_version": "rel-f6b1c884-1794917077430",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:49.441Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:37.430Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "deepseek-v4-1-flash",
       "model_name": "DeepSeek V4.1 Flash",
       "station_slug": "fluxlane",
@@ -1395,36 +1649,36 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 9867,
-      "availability_bps": 5833,
-      "connectivity_bps": 5833,
-      "stability_bps": 5805,
+      "overall_bps": 9807,
+      "availability_bps": 4167,
+      "connectivity_bps": 4167,
+      "stability_bps": 4679,
       "latency_p95_ms": null,
       "status_windows": [
-        "ok",
-        "ok",
-        "down",
         "delayed",
-        "ok",
-        "delayed",
-        "ok",
-        "ok",
         "ok",
         "delayed",
         "down",
         "delayed",
         "delayed",
-        "ok",
+        "down",
+        "down",
         "delayed",
+        "down",
+        "down",
         "delayed",
         "down",
         "delayed",
         "delayed",
-        "delayed",
-        "delayed",
+        "down",
         "delayed",
         "ok",
-        "down"
+        "down",
+        "ok",
+        "ok",
+        "down",
+        "ok",
+        "ok"
       ],
       "sample_size": 48,
       "input_price": null,
@@ -1435,14 +1689,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-09-24T14:12:56.731Z",
-      "measured_at": "2026-11-16T15:00:50.560Z",
-      "snapshot_version": "rel-109b3dc0-1794841309441",
+      "measured_at": "2026-11-17T12:02:25.566Z",
+      "snapshot_version": "rel-f6b1c884-1794917077430",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:49.441Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:37.430Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "deepseek-v4-1-flash",
       "model_name": "DeepSeek V4.1 Flash",
       "station_slug": "ikuncode",
@@ -1454,10 +1708,10 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 9531,
-      "availability_bps": 9375,
-      "connectivity_bps": 9375,
-      "stability_bps": 7822,
+      "overall_bps": 9458,
+      "availability_bps": 9583,
+      "connectivity_bps": 9583,
+      "stability_bps": 8220,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
@@ -1475,12 +1729,12 @@
         "ok",
         "ok",
         "ok",
-        "delayed",
         "ok",
         "ok",
         "ok",
         "ok",
-        "delayed",
+        "ok",
+        "ok",
         "ok",
         "ok",
         "ok"
@@ -1494,14 +1748,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-11-06T06:00:18.260Z",
-      "measured_at": "2026-11-16T15:00:20.301Z",
-      "snapshot_version": "rel-109b3dc0-1794841309441",
+      "measured_at": "2026-11-17T12:01:55.477Z",
+      "snapshot_version": "rel-f6b1c884-1794917077430",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:49.441Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:37.430Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "deepseek-v4-1-flash",
       "model_name": "DeepSeek V4.1 Flash",
       "station_slug": "cloudbridge",
@@ -1513,35 +1767,35 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 8133,
-      "availability_bps": 9167,
-      "connectivity_bps": 9167,
-      "stability_bps": 7631,
+      "overall_bps": 8289,
+      "availability_bps": 7917,
+      "connectivity_bps": 7917,
+      "stability_bps": 6087,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
+        "delayed",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "delayed",
         "ok",
         "down",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
+        "down",
+        "delayed",
+        "delayed",
+        "delayed",
         "ok",
         "ok",
         "delayed",
-        "ok",
         "delayed",
-        "ok",
         "delayed",
         "ok",
         "ok",
         "ok",
-        "delayed",
+        "ok",
+        "ok",
         "ok"
       ],
       "sample_size": 48,
@@ -1553,14 +1807,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-10-05T07:05:17.264Z",
-      "measured_at": "2026-11-16T15:02:04.179Z",
-      "snapshot_version": "rel-109b3dc0-1794841309441",
+      "measured_at": "2026-11-17T12:01:32.762Z",
+      "snapshot_version": "rel-f6b1c884-1794917077430",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:49.441Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:37.430Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "deepseek-v4-1-flash",
       "model_name": "DeepSeek V4.1 Flash",
       "station_slug": "aruhub",
@@ -1588,20 +1842,88 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-04T14:43:32.981Z",
       "measured_at": null,
-      "snapshot_version": "rel-109b3dc0-1794841309441",
+      "snapshot_version": "rel-f6b1c884-1794917077430",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:49.441Z"
+      "published_at": "2026-11-17T12:04:37.430Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "deepseek-v4-1-flash",
+      "model_name": "DeepSeek V4.1 Flash",
+      "station_slug": "merchant-5cf7678f-611",
+      "station_name": "Zashmodel",
+      "channel_id": "catalog-76eb4a062388ac79ac4a2ab1fbc38ae1a3922af6",
+      "group_name": "deepseek-value",
+      "position": 6,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": 0.052239,
+      "output_price": 0.208955,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-16T14:22:24.158Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-3097684b-2",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-16T14:22:24.329Z"
+    },
+    {
+      "date": "2026-11-17",
+      "model_id": "deepseek-v4-1-flash",
+      "model_name": "DeepSeek V4.1 Flash",
+      "station_slug": "merchant-27af1806-16e",
+      "station_name": "ModelPod",
+      "channel_id": "catalog-796e36888bb1ee47c20e4df609545e0004c5f095",
+      "group_name": "default",
+      "position": 7,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": 0.3015,
+      "output_price": 1.206,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-17T09:36:15.190Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-0d73784e-1",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-17T09:36:15.674Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "deepseek-v4-1-flash",
       "model_name": "DeepSeek V4.1 Flash",
       "station_slug": "cheaprouter",
       "station_name": "CheapRouter",
       "channel_id": "catalog-ff1081f339502f25ce3b614d6114364bd16726d6",
       "group_name": "国模按量付费分组",
-      "position": 6,
+      "position": 8,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -1628,14 +1950,14 @@
       "published_at": "2026-11-11T18:00:06.079Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "deepseek-v4-1-flash",
       "model_name": "DeepSeek V4.1 Flash",
       "station_slug": "opengeteway",
       "station_name": "OPENGETEWAY",
       "channel_id": "opengeteway-deepseek-v4-1-flash-140c72bd",
       "group_name": "未公开分组",
-      "position": 7,
+      "position": 9,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -1662,14 +1984,14 @@
       "published_at": "2026-11-09T13:35:12.691Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "deepseek-v4-1-flash",
       "model_name": "DeepSeek V4.1 Flash",
       "station_slug": "znb-ai",
       "station_name": "ZNB.ai",
       "channel_id": "manual-23708749-d16c-454e-9514-b1ce27a67f6c",
       "group_name": "znb-deepseek",
-      "position": 8,
+      "position": 10,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": false,
@@ -1681,29 +2003,29 @@
       "latency_p95_ms": null,
       "status_windows": [],
       "sample_size": null,
-      "input_price": null,
-      "output_price": null,
-      "price_currency": null,
-      "price_unit": null,
-      "output_price_currency": null,
-      "output_price_unit": null,
+      "input_price": 0.3,
+      "output_price": 1.2,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
       "price_source": "manual",
       "price_recorded_at": "2026-10-09T04:20:48.000Z",
       "measured_at": null,
-      "snapshot_version": "rel-109b3dc0-1794841309441",
+      "snapshot_version": "rel-f6b1c884-1794917077430",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:49.441Z"
+      "published_at": "2026-11-17T12:04:37.430Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "deepseek-v4-1-flash",
       "model_name": "DeepSeek V4.1 Flash",
       "station_slug": "88api",
       "station_name": "88API",
       "channel_id": "manual-50a62683-a511-4e3b-a32b-21b41f86edeb",
       "group_name": "Deepseek开源",
-      "position": 9,
+      "position": 11,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -1730,7 +2052,7 @@
       "published_at": "2026-11-09T12:10:32.575Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "modelflare",
@@ -1743,17 +2065,17 @@
       "catalog_only": false,
       "release_kind": "published",
       "overall_bps": 10000,
-      "availability_bps": 9783,
-      "connectivity_bps": 9783,
-      "stability_bps": 9499,
+      "availability_bps": 9888,
+      "connectivity_bps": 9888,
+      "stability_bps": 9600,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
         "ok",
         "delayed",
         "delayed",
-        "delayed",
-        "delayed",
+        "ok",
+        "ok",
         "ok",
         "ok",
         "ok",
@@ -1773,7 +2095,7 @@
         "ok",
         "ok"
       ],
-      "sample_size": 184,
+      "sample_size": 178,
       "input_price": 0.1992,
       "output_price": 0.996,
       "price_currency": "CNY",
@@ -1782,14 +2104,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-07T15:38:47.221Z",
-      "measured_at": "2026-11-16T15:23:27.474Z",
-      "snapshot_version": "rel-569656ff-1794841311073",
+      "measured_at": "2026-11-17T12:30:50.271Z",
+      "snapshot_version": "rel-8faa70f6-1794917079748",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:51.073Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:39.748Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "ikuncode",
@@ -1817,13 +2139,13 @@
       "price_source": "manual",
       "price_recorded_at": "2026-10-08T12:20:02.511Z",
       "measured_at": null,
-      "snapshot_version": "rel-569656ff-1794841311073",
+      "snapshot_version": "rel-8faa70f6-1794917079748",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:51.073Z"
+      "published_at": "2026-11-17T12:04:39.748Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "apiporter",
@@ -1851,13 +2173,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-17T18:00:11.047Z",
       "measured_at": null,
-      "snapshot_version": "rel-569656ff-1794841311073",
+      "snapshot_version": "rel-8faa70f6-1794917079748",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:51.073Z"
+      "published_at": "2026-11-17T12:04:39.748Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "cheapai",
@@ -1885,13 +2207,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-27T18:00:35.103Z",
       "measured_at": null,
-      "snapshot_version": "rel-569656ff-1794841311073",
+      "snapshot_version": "rel-8faa70f6-1794917079748",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:51.073Z"
+      "published_at": "2026-11-17T12:04:39.748Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "znb-ai",
@@ -1919,13 +2241,13 @@
       "price_source": "manual",
       "price_recorded_at": "2026-10-09T04:20:48.000Z",
       "measured_at": null,
-      "snapshot_version": "rel-569656ff-1794841311073",
+      "snapshot_version": "rel-8faa70f6-1794917079748",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:51.073Z"
+      "published_at": "2026-11-17T12:04:39.748Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "cloudbridge",
@@ -1953,13 +2275,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-05T07:05:17.264Z",
       "measured_at": null,
-      "snapshot_version": "rel-569656ff-1794841311073",
+      "snapshot_version": "rel-8faa70f6-1794917079748",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:51.073Z"
+      "published_at": "2026-11-17T12:04:39.748Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "fluxlane",
@@ -1972,16 +2294,17 @@
       "catalog_only": false,
       "release_kind": "published",
       "overall_bps": 7754,
-      "availability_bps": 9792,
-      "connectivity_bps": 9792,
-      "stability_bps": 8237,
+      "availability_bps": 9583,
+      "connectivity_bps": 9583,
+      "stability_bps": 6548,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
         "ok",
         "ok",
+        "delayed",
         "ok",
-        "ok",
+        "delayed",
         "ok",
         "ok",
         "ok",
@@ -1991,14 +2314,13 @@
         "ok",
         "delayed",
         "ok",
+        "ok",
+        "ok",
+        "ok",
         "delayed",
-        "ok",
-        "ok",
         "delayed",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
+        "delayed",
+        "delayed",
         "ok",
         "ok"
       ],
@@ -2011,14 +2333,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-10-29T16:07:44Z",
-      "measured_at": "2026-11-16T15:01:36.482Z",
-      "snapshot_version": "rel-569656ff-1794841311073",
+      "measured_at": "2026-11-17T12:01:05.881Z",
+      "snapshot_version": "rel-8faa70f6-1794917079748",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:51.073Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:39.748Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "merchant-316d7f43-b18",
@@ -2052,7 +2374,7 @@
       "published_at": "2026-11-16T02:51:41.346Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "cheaprouter",
@@ -2086,14 +2408,107 @@
       "published_at": "2026-11-11T18:00:06.079Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "gpt-6-1-sol",
+      "model_name": "GPT 6.1 Sol",
+      "station_slug": "merchant-27af1806-16e",
+      "station_name": "ModelPod",
+      "channel_id": "catalog-796e36888bb1ee47c20e4df609545e0004c5f095",
+      "group_name": "default",
+      "position": 10,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": 2.01,
+      "output_price": 10.05,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-17T09:36:15.190Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-0d73784e-1",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-17T09:36:15.674Z"
+    },
+    {
+      "date": "2026-11-17",
+      "model_id": "gpt-6-1-sol",
+      "model_name": "GPT 6.1 Sol",
+      "station_slug": "merchant-5cf7678f-611",
+      "station_name": "Zashmodel",
+      "channel_id": "catalog-921863e5ff7964f10c43b9554542af74672459df",
+      "group_name": "gpt-prime",
+      "position": 11,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "ok"
+      ],
+      "sample_size": 1,
+      "input_price": null,
+      "output_price": null,
+      "price_currency": null,
+      "price_unit": null,
+      "output_price_currency": null,
+      "output_price_unit": null,
+      "price_source": "official",
+      "price_recorded_at": "2026-11-16T14:22:24.158Z",
+      "measured_at": "2026-11-17T12:24:25.672Z",
+      "snapshot_version": "catalog-3097684b-2",
+      "method_version": "catalog-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-16T14:22:24.329Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "88api",
       "station_name": "88API",
       "channel_id": "manual-dc9c6932-61b8-4af6-a442-15580b35e71b",
       "group_name": "GPT-Plus",
-      "position": 10,
+      "position": 12,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -2120,14 +2535,14 @@
       "published_at": "2026-11-09T12:10:32.575Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-1-sol",
       "model_name": "GPT 6.1 Sol",
       "station_slug": "toolcode",
       "station_name": "ToolCode",
       "channel_id": "toolcode-gpt-6-1-sol-fba5883b",
       "group_name": "GPT-Plus+Pro-稳定号源",
-      "position": 11,
+      "position": 13,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -2154,7 +2569,7 @@
       "published_at": "2026-11-09T13:59:52.907Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "modelflare",
@@ -2167,23 +2582,23 @@
       "catalog_only": false,
       "release_kind": "published",
       "overall_bps": 10000,
-      "availability_bps": 9703,
-      "connectivity_bps": 9703,
-      "stability_bps": 9334,
+      "availability_bps": 9701,
+      "connectivity_bps": 9701,
+      "stability_bps": 9444,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
         "ok",
         "ok",
         "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
         "delayed",
         "delayed",
         "delayed",
+        "delayed",
+        "delayed",
+        "ok",
+        "ok",
+        "ok",
         "ok",
         "ok",
         "ok",
@@ -2197,7 +2612,7 @@
         "ok",
         "ok"
       ],
-      "sample_size": 101,
+      "sample_size": 167,
       "input_price": 0.996,
       "output_price": 4.98,
       "price_currency": "CNY",
@@ -2206,14 +2621,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-07T15:38:47.221Z",
-      "measured_at": "2026-11-16T15:23:30.238Z",
-      "snapshot_version": "rel-0dda22ab-1794841310123",
+      "measured_at": "2026-11-17T12:28:54.599Z",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:50.123Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:38.210Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "fluxlane",
@@ -2225,16 +2640,19 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 9867,
-      "availability_bps": 10000,
-      "connectivity_bps": 10000,
-      "stability_bps": 8069,
+      "overall_bps": 9807,
+      "availability_bps": 9375,
+      "connectivity_bps": 9375,
+      "stability_bps": 6686,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
         "ok",
         "ok",
+        "delayed",
         "ok",
+        "delayed",
+        "delayed",
         "delayed",
         "ok",
         "ok",
@@ -2242,18 +2660,15 @@
         "ok",
         "ok",
         "ok",
+        "delayed",
+        "delayed",
+        "ok",
         "ok",
         "delayed",
         "ok",
         "ok",
-        "ok",
-        "ok",
         "delayed",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
+        "delayed",
         "ok"
       ],
       "sample_size": 48,
@@ -2265,14 +2680,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-09-21T13:12:49.877Z",
-      "measured_at": "2026-11-16T15:01:33.069Z",
+      "measured_at": "2026-11-17T12:02:47.951Z",
       "snapshot_version": "catalog-492c8b80-3",
       "method_version": "catalog-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
       "published_at": "2026-11-04T13:06:10.630Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "ikuncode",
@@ -2284,10 +2699,10 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 9531,
-      "availability_bps": 10000,
-      "connectivity_bps": 10000,
-      "stability_bps": 8959,
+      "overall_bps": 9458,
+      "availability_bps": 9583,
+      "connectivity_bps": 9583,
+      "stability_bps": 7760,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
@@ -2301,15 +2716,15 @@
         "ok",
         "ok",
         "ok",
+        "delayed",
+        "ok",
+        "delayed",
         "ok",
         "ok",
         "ok",
         "ok",
         "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
+        "delayed",
         "ok",
         "ok",
         "ok",
@@ -2324,14 +2739,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-09T18:00:13.051Z",
-      "measured_at": "2026-11-16T15:00:12.880Z",
-      "snapshot_version": "rel-0dda22ab-1794841310123",
+      "measured_at": "2026-11-17T12:01:47.749Z",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:50.123Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:38.210Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "cloudbridge",
@@ -2343,7 +2758,7 @@
       "evidence_status": "not_verified",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 8133,
+      "overall_bps": 8289,
       "availability_bps": null,
       "connectivity_bps": null,
       "stability_bps": null,
@@ -2359,13 +2774,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-05T07:05:17.264Z",
       "measured_at": null,
-      "snapshot_version": "rel-0dda22ab-1794841310123",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:50.123Z"
+      "published_at": "2026-11-17T12:04:38.210Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "a6api",
@@ -2393,13 +2808,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-06T08:52:44.880Z",
       "measured_at": null,
-      "snapshot_version": "rel-0dda22ab-1794841310123",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:50.123Z"
+      "published_at": "2026-11-17T12:04:38.210Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "aruhub",
@@ -2427,13 +2842,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-04T14:43:32.981Z",
       "measured_at": null,
-      "snapshot_version": "rel-0dda22ab-1794841310123",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:50.123Z"
+      "published_at": "2026-11-17T12:04:38.210Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "apiporter",
@@ -2461,13 +2876,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-17T18:00:11.047Z",
       "measured_at": null,
-      "snapshot_version": "rel-0dda22ab-1794841310123",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:50.123Z"
+      "published_at": "2026-11-17T12:04:38.210Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "cheapai",
@@ -2495,13 +2910,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-27T18:00:35.103Z",
       "measured_at": null,
-      "snapshot_version": "rel-0dda22ab-1794841310123",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:50.123Z"
+      "published_at": "2026-11-17T12:04:38.210Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "merchant-316d7f43-b18",
@@ -2535,7 +2950,7 @@
       "published_at": "2026-11-16T02:51:41.346Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "cheaprouter",
@@ -2569,14 +2984,107 @@
       "published_at": "2026-11-11T18:00:06.079Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "gpt-6-astra",
+      "model_name": "GPT 6 Astra",
+      "station_slug": "merchant-27af1806-16e",
+      "station_name": "ModelPod",
+      "channel_id": "catalog-796e36888bb1ee47c20e4df609545e0004c5f095",
+      "group_name": "default",
+      "position": 11,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": 10.05,
+      "output_price": 50.25,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-17T09:36:15.190Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-0d73784e-1",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-17T09:36:15.674Z"
+    },
+    {
+      "date": "2026-11-17",
+      "model_id": "gpt-6-astra",
+      "model_name": "GPT 6 Astra",
+      "station_slug": "merchant-5cf7678f-611",
+      "station_name": "Zashmodel",
+      "channel_id": "catalog-921863e5ff7964f10c43b9554542af74672459df",
+      "group_name": "gpt-prime",
+      "position": 12,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "ok"
+      ],
+      "sample_size": 1,
+      "input_price": null,
+      "output_price": null,
+      "price_currency": null,
+      "price_unit": null,
+      "output_price_currency": null,
+      "output_price_unit": null,
+      "price_source": "official",
+      "price_recorded_at": "2026-11-16T14:22:24.158Z",
+      "measured_at": "2026-11-17T12:24:18.169Z",
+      "snapshot_version": "catalog-3097684b-2",
+      "method_version": "catalog-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-16T14:22:24.329Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "foxapi",
       "station_name": "FoxAPI",
       "channel_id": "foxapi-gpt-6-astra-ae16b879",
       "group_name": "chatgpt-不限制场景",
-      "position": 11,
+      "position": 13,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -2603,14 +3111,14 @@
       "published_at": "2026-11-09T13:35:12.665Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "linoroute",
       "station_name": "LinoRoute",
       "channel_id": "linoroute-gpt-6-astra-50829862",
       "group_name": "Openai-Gpt-1",
-      "position": 12,
+      "position": 14,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -2637,14 +3145,14 @@
       "published_at": "2026-11-09T13:35:12.592Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "znb-ai",
       "station_name": "ZNB.ai",
       "channel_id": "manual-cec15a5a-7a07-41b9-8c9e-9f05951b47cf",
       "group_name": "znb-gpt-特惠",
-      "position": 13,
+      "position": 15,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": false,
@@ -2665,20 +3173,20 @@
       "price_source": "manual",
       "price_recorded_at": "2026-10-09T04:20:48.000Z",
       "measured_at": null,
-      "snapshot_version": "rel-0dda22ab-1794841310123",
+      "snapshot_version": "rel-dd1af2f6-1794917078210",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:50.123Z"
+      "published_at": "2026-11-17T12:04:38.210Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "88api",
       "station_name": "88API",
       "channel_id": "manual-dc9c6932-61b8-4af6-a442-15580b35e71b",
       "group_name": "GPT-Plus",
-      "position": 14,
+      "position": 16,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -2705,14 +3213,14 @@
       "published_at": "2026-11-09T12:10:32.575Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-astra",
       "model_name": "GPT 6 Astra",
       "station_slug": "toolcode",
       "station_name": "ToolCode",
       "channel_id": "toolcode-gpt-6-astra-fba5883b",
       "group_name": "GPT-Plus+Pro-稳定号源",
-      "position": 15,
+      "position": 17,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -2739,7 +3247,7 @@
       "published_at": "2026-11-09T13:59:52.907Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "modelflare",
@@ -2752,9 +3260,9 @@
       "catalog_only": false,
       "release_kind": "published",
       "overall_bps": 10000,
-      "availability_bps": 9778,
-      "connectivity_bps": 9778,
-      "stability_bps": 9472,
+      "availability_bps": 9848,
+      "connectivity_bps": 9848,
+      "stability_bps": 9610,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
@@ -2766,12 +3274,12 @@
         "ok",
         "ok",
         "ok",
-        "delayed",
-        "delayed",
-        "delayed",
         "ok",
         "ok",
         "ok",
+        "delayed",
+        "delayed",
+        "delayed",
         "ok",
         "ok",
         "ok",
@@ -2782,7 +3290,7 @@
         "ok",
         "ok"
       ],
-      "sample_size": 135,
+      "sample_size": 198,
       "input_price": 0.1992,
       "output_price": 0.996,
       "price_currency": "CNY",
@@ -2791,14 +3299,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-07T15:38:47.221Z",
-      "measured_at": "2026-11-16T15:23:27.771Z",
-      "snapshot_version": "rel-65b53311-1794841614433",
+      "measured_at": "2026-11-17T12:30:50.559Z",
+      "snapshot_version": "rel-980b0531-1794917078988",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:06:54.433Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:38.988Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "cloudbridge",
@@ -2810,7 +3318,7 @@
       "evidence_status": "not_verified",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 8133,
+      "overall_bps": 8289,
       "availability_bps": null,
       "connectivity_bps": null,
       "stability_bps": null,
@@ -2826,13 +3334,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-05T07:05:17.264Z",
       "measured_at": null,
-      "snapshot_version": "rel-65b53311-1794841614433",
+      "snapshot_version": "rel-980b0531-1794917078988",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:06:54.433Z"
+      "published_at": "2026-11-17T12:04:38.988Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "apiporter",
@@ -2860,13 +3368,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-10-17T18:00:11.047Z",
       "measured_at": null,
-      "snapshot_version": "rel-65b53311-1794841614433",
+      "snapshot_version": "rel-980b0531-1794917078988",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:06:54.433Z"
+      "published_at": "2026-11-17T12:04:38.988Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "merchant-316d7f43-b18",
@@ -2900,14 +3408,48 @@
       "published_at": "2026-11-16T02:51:41.346Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "gpt-6-sol",
+      "model_name": "GPT 6 Sol",
+      "station_slug": "merchant-27af1806-16e",
+      "station_name": "ModelPod",
+      "channel_id": "catalog-796e36888bb1ee47c20e4df609545e0004c5f095",
+      "group_name": "default",
+      "position": 5,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": 2.01,
+      "output_price": 10.05,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-17T09:36:15.190Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-0d73784e-1",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-17T09:36:15.674Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "a6api",
       "station_name": "A6api",
       "channel_id": "catalog-21009cfef35ad721a3e7f9cfae9029c618dfd92c",
       "group_name": "保真优先",
-      "position": 5,
+      "position": 6,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -2928,20 +3470,20 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-06T08:52:44.880Z",
       "measured_at": null,
-      "snapshot_version": "catalog-19a4f8ca-8",
+      "snapshot_version": "catalog-e652036a-9",
       "method_version": "catalog-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-15T18:00:03.263Z"
+      "published_at": "2026-11-16T18:01:09.831Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "aruhub",
       "station_name": "aruhub API",
       "channel_id": "catalog-16619bbc4965ffd7889e48831a7c581d8070a1b2",
       "group_name": "GPT-Pro++ 独享 满血不降智",
-      "position": 6,
+      "position": 7,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -2962,20 +3504,79 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-04T14:43:32.981Z",
       "measured_at": null,
-      "snapshot_version": "catalog-6e707860-11",
+      "snapshot_version": "catalog-1a2de523-12",
       "method_version": "catalog-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-15T18:00:03.545Z"
+      "published_at": "2026-11-16T18:01:13.481Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "gpt-6-sol",
+      "model_name": "GPT 6 Sol",
+      "station_slug": "merchant-5cf7678f-611",
+      "station_name": "Zashmodel",
+      "channel_id": "catalog-921863e5ff7964f10c43b9554542af74672459df",
+      "group_name": "gpt-prime",
+      "position": 8,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "ok"
+      ],
+      "sample_size": 1,
+      "input_price": null,
+      "output_price": null,
+      "price_currency": null,
+      "price_unit": null,
+      "output_price_currency": null,
+      "output_price_unit": null,
+      "price_source": "official",
+      "price_recorded_at": "2026-11-16T14:22:24.158Z",
+      "measured_at": "2026-11-17T12:24:22.528Z",
+      "snapshot_version": "catalog-3097684b-2",
+      "method_version": "catalog-v1",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-16T14:22:24.329Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "foxapi",
       "station_name": "FoxAPI",
       "channel_id": "foxapi-gpt-6-sol-ae16b879",
       "group_name": "chatgpt-不限制场景",
-      "position": 7,
+      "position": 9,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -3002,14 +3603,14 @@
       "published_at": "2026-11-09T13:35:12.665Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "linoroute",
       "station_name": "LinoRoute",
       "channel_id": "linoroute-gpt-6-sol-50829862",
       "group_name": "Openai-Gpt-1",
-      "position": 8,
+      "position": 10,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -3036,14 +3637,14 @@
       "published_at": "2026-11-09T13:35:12.592Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "znb-ai",
       "station_name": "ZNB.ai",
       "channel_id": "manual-cec15a5a-7a07-41b9-8c9e-9f05951b47cf",
       "group_name": "znb-gpt-特惠",
-      "position": 9,
+      "position": 11,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": false,
@@ -3064,20 +3665,20 @@
       "price_source": "manual",
       "price_recorded_at": "2026-10-09T04:20:48.000Z",
       "measured_at": null,
-      "snapshot_version": "rel-65b53311-1794841614433",
+      "snapshot_version": "rel-980b0531-1794917078988",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:06:54.433Z"
+      "published_at": "2026-11-17T12:04:38.988Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "88api",
       "station_name": "88API",
       "channel_id": "manual-dc9c6932-61b8-4af6-a442-15580b35e71b",
       "group_name": "GPT-Plus",
-      "position": 10,
+      "position": 12,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -3104,14 +3705,14 @@
       "published_at": "2026-11-09T12:10:32.575Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "gpt-6-sol",
       "model_name": "GPT 6 Sol",
       "station_slug": "toolcode",
       "station_name": "ToolCode",
       "channel_id": "toolcode-gpt-6-sol-fba5883b",
       "group_name": "GPT-Plus+Pro-稳定号源",
-      "position": 11,
+      "position": 13,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -3138,7 +3739,7 @@
       "published_at": "2026-11-09T13:59:52.907Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "grok-4-7",
       "model_name": "Grok 4.7",
       "station_slug": "modelflare",
@@ -3151,12 +3752,12 @@
       "catalog_only": false,
       "release_kind": "published",
       "overall_bps": 10000,
-      "availability_bps": 9825,
-      "connectivity_bps": 9825,
-      "stability_bps": 8648,
+      "availability_bps": 9831,
+      "connectivity_bps": 9831,
+      "stability_bps": 9568,
       "latency_p95_ms": null,
       "status_windows": [
-        "delayed",
+        "ok",
         "ok",
         "ok",
         "ok",
@@ -3181,7 +3782,7 @@
         "ok",
         "ok"
       ],
-      "sample_size": 171,
+      "sample_size": 177,
       "input_price": 1.4608,
       "output_price": 4.3824,
       "price_currency": "CNY",
@@ -3190,14 +3791,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-07T15:38:47.221Z",
-      "measured_at": "2026-11-16T15:23:31.106Z",
-      "snapshot_version": "rel-a1d25ba3-1794841311743",
+      "measured_at": "2026-11-17T12:28:55.463Z",
+      "snapshot_version": "rel-71c5b8d1-1794917080499",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:51.743Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:40.499Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "grok-4-7",
       "model_name": "Grok 4.7",
       "station_slug": "ikuncode",
@@ -3209,29 +3810,29 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 9531,
-      "availability_bps": 10000,
-      "connectivity_bps": 10000,
-      "stability_bps": 7932,
+      "overall_bps": 9458,
+      "availability_bps": 9792,
+      "connectivity_bps": 9792,
+      "stability_bps": 7710,
       "latency_p95_ms": null,
       "status_windows": [
         "ok",
         "ok",
         "ok",
+        "ok",
+        "delayed",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "delayed",
+        "ok",
         "delayed",
         "ok",
         "ok",
         "ok",
         "ok",
         "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "delayed",
         "ok",
         "ok",
         "ok",
@@ -3249,14 +3850,14 @@
       "output_price_unit": "per_1m_tokens",
       "price_source": "official",
       "price_recorded_at": "2026-11-06T06:00:18.260Z",
-      "measured_at": "2026-11-16T15:00:31.303Z",
+      "measured_at": "2026-11-17T12:02:06.038Z",
       "snapshot_version": "catalog-15a5dbd0-8",
       "method_version": "catalog-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
       "published_at": "2026-11-12T18:00:26.694Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "grok-4-7",
       "model_name": "Grok 4.7",
       "station_slug": "cloudbridge",
@@ -3268,17 +3869,13 @@
       "evidence_status": "platform_measured",
       "catalog_only": false,
       "release_kind": "published",
-      "overall_bps": 8133,
-      "availability_bps": 10000,
-      "connectivity_bps": 10000,
-      "stability_bps": 7565,
+      "overall_bps": 8289,
+      "availability_bps": 9792,
+      "connectivity_bps": 9792,
+      "stability_bps": 7168,
       "latency_p95_ms": null,
       "status_windows": [
-        "ok",
-        "ok",
-        "ok",
-        "ok",
-        "ok",
+        "delayed",
         "ok",
         "ok",
         "ok",
@@ -3289,13 +3886,17 @@
         "delayed",
         "ok",
         "ok",
+        "delayed",
         "ok",
-        "ok",
-        "ok",
+        "delayed",
         "ok",
         "ok",
         "delayed",
-        "delayed",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
+        "ok",
         "ok",
         "ok"
       ],
@@ -3308,14 +3909,14 @@
       "output_price_unit": null,
       "price_source": "official",
       "price_recorded_at": "2026-10-05T07:05:17.264Z",
-      "measured_at": "2026-11-16T15:02:07.166Z",
-      "snapshot_version": "rel-a1d25ba3-1794841311743",
+      "measured_at": "2026-11-17T12:01:37.356Z",
+      "snapshot_version": "rel-71c5b8d1-1794917080499",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-15T15:30:00.000Z/2026-11-16T15:30:00.000Z",
-      "published_at": "2026-11-16T15:01:51.743Z"
+      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
+      "published_at": "2026-11-17T12:04:40.499Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "grok-4-7",
       "model_name": "Grok 4.7",
       "station_slug": "aruhub",
@@ -3343,13 +3944,13 @@
       "price_source": "official",
       "price_recorded_at": "2026-11-04T14:43:32.981Z",
       "measured_at": null,
-      "snapshot_version": "catalog-6e707860-11",
+      "snapshot_version": "catalog-1a2de523-12",
       "method_version": "catalog-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-15T18:00:03.545Z"
+      "published_at": "2026-11-16T18:01:13.481Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "grok-4-7",
       "model_name": "Grok 4.7",
       "station_slug": "merchant-316d7f43-b18",
@@ -3383,14 +3984,48 @@
       "published_at": "2026-11-16T02:51:41.346Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
+      "model_id": "grok-4-7",
+      "model_name": "Grok 4.7",
+      "station_slug": "merchant-27af1806-16e",
+      "station_name": "ModelPod",
+      "channel_id": "catalog-796e36888bb1ee47c20e4df609545e0004c5f095",
+      "group_name": "default",
+      "position": 6,
+      "rank_published": null,
+      "evidence_status": "not_verified",
+      "catalog_only": true,
+      "release_kind": "published",
+      "overall_bps": null,
+      "availability_bps": null,
+      "connectivity_bps": null,
+      "stability_bps": null,
+      "latency_p95_ms": null,
+      "status_windows": [],
+      "sample_size": null,
+      "input_price": 2.01,
+      "output_price": 6.03,
+      "price_currency": "CNY",
+      "price_unit": "per_1m_tokens",
+      "output_price_currency": "CNY",
+      "output_price_unit": "per_1m_tokens",
+      "price_source": "official",
+      "price_recorded_at": "2026-11-17T09:36:15.190Z",
+      "measured_at": null,
+      "snapshot_version": "catalog-0d73784e-1",
+      "method_version": "catalog-v1",
+      "observed_window": "not-measured",
+      "published_at": "2026-11-17T09:36:15.674Z"
+    },
+    {
+      "date": "2026-11-17",
       "model_id": "grok-4-7",
       "model_name": "Grok 4.7",
       "station_slug": "znb-ai",
       "station_name": "ZNB.ai",
       "channel_id": "manual-d3dc652d-9fd7-41b0-a483-8ef61418c313",
       "group_name": "znb-grok-heavy",
-      "position": 6,
+      "position": 7,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": false,
@@ -3411,20 +4046,20 @@
       "price_source": "manual",
       "price_recorded_at": "2026-10-09T04:20:48.000Z",
       "measured_at": null,
-      "snapshot_version": "rel-a1d25ba3-1794841311743",
+      "snapshot_version": "rel-71c5b8d1-1794917080499",
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "not-measured",
-      "published_at": "2026-11-16T15:01:51.743Z"
+      "published_at": "2026-11-17T12:04:40.499Z"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "model_id": "grok-4-7",
       "model_name": "Grok 4.7",
       "station_slug": "88api",
       "station_name": "88API",
       "channel_id": "manual-ff731131-d57b-4e81-a61b-0d7fae5f144c",
       "group_name": "Grok",
-      "position": 7,
+      "position": 8,
       "rank_published": null,
       "evidence_status": "not_verified",
       "catalog_only": true,
@@ -3458,7 +4093,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-enterprise",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 100,
       "input_tokens_max": 161349,
@@ -3496,7 +4131,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "00607c44-5298-4dfe-bb8c-109b6d1d6060",
@@ -3504,9 +4139,9 @@
       "station_slug": "modelflare",
       "group_name": "claude-award",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 82,
       "total": 90,
-      "input_tokens_min": 109,
+      "input_tokens_min": 52,
       "input_tokens_max": 24260,
       "reasoning_median": 559,
       "identified_model_id": "claude-opus-5-5",
@@ -3542,7 +4177,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "019b5491-6bd8-4057-b7b1-39ef0dddcf8c",
@@ -3550,7 +4185,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-award",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 100,
       "input_tokens_max": 161349,
@@ -3588,7 +4223,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "0789d043-b276-47f5-bf9c-bcf0a8c9e507",
@@ -3596,7 +4231,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-stable",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 100,
       "input_tokens_max": 151769,
@@ -3634,7 +4269,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "078ec66f-eb90-422f-89ff-3869cbd454e7",
@@ -3642,7 +4277,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-enterprise",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -3680,7 +4315,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "098532a6-9887-4e41-b63b-aec959d4eaca",
@@ -3688,7 +4323,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-stable",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 52,
       "input_tokens_max": 24260,
@@ -3726,7 +4361,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "0b1a23eb-404f-47d5-9abd-df11e600907c",
@@ -3734,12 +4369,12 @@
       "station_slug": "apiporter",
       "group_name": "Claude_core",
       "client_mode": "direct_anthropic",
-      "agree": 10,
+      "agree": 8,
       "total": 20,
       "input_tokens_min": 116,
-      "input_tokens_max": 138,
-      "reasoning_median": 197,
-      "identified_model_id": "claude-haiku-5-5",
+      "input_tokens_max": 139,
+      "reasoning_median": 224,
+      "identified_model_id": "claude-sonnet-5",
       "probe_keys": [
         "folk-19831549",
         "folk-2dca93e2",
@@ -3772,7 +4407,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T18:10:12.030Z"
+      "measured_at": "2026-11-17T04:27:15.161Z"
     },
     {
       "run_id": "0d022d9b-f3f8-44ce-925f-90cd8308e7ad",
@@ -3780,7 +4415,7 @@
       "station_slug": "modelflare",
       "group_name": "grok-stable",
       "client_mode": "direct_openai",
-      "agree": 88,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -3818,7 +4453,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "0d6879bf-3084-40d2-bb15-baede3e0fe6b",
@@ -3872,7 +4507,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-first-topup",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -3910,7 +4545,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "1437b8a1-2172-4327-bf0f-d030f2e7421e",
@@ -3943,12 +4578,12 @@
       "station_slug": "cloudbridge",
       "group_name": "Claude-core",
       "client_mode": "direct_anthropic",
-      "agree": 19,
-      "total": 20,
+      "agree": 13,
+      "total": 30,
       "input_tokens_min": 127,
       "input_tokens_max": 153,
-      "reasoning_median": 525,
-      "identified_model_id": "claude-opus-5-5",
+      "reasoning_median": 576,
+      "identified_model_id": "gemini-4-hydrogen",
       "probe_keys": [
         "folk-19831549",
         "folk-2dca93e2",
@@ -3981,7 +4616,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T17:59:27.859Z"
+      "measured_at": "2026-11-17T03:30:16.202Z"
     },
     {
       "run_id": "189ef94e-39e8-4cd1-b572-73eea57117fb",
@@ -3989,7 +4624,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-premium",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -4027,7 +4662,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "198da027-7900-48a4-baf4-caa8276a92e1",
@@ -4081,7 +4716,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-award",
       "client_mode": "direct_anthropic",
-      "agree": 88,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4119,7 +4754,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "22512e7d-f21f-4faf-8f1d-27336afaffc8",
@@ -4127,7 +4762,7 @@
       "station_slug": "modelflare",
       "group_name": "grok-stable",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -4165,7 +4800,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "2290a0d1-0088-4689-bd21-4b09bd1e8355",
@@ -4173,7 +4808,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-premium",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4211,7 +4846,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "2964dd64-5ddc-4332-a820-a66f0e106522",
@@ -4219,7 +4854,7 @@
       "station_slug": "modelflare",
       "group_name": "qwen-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4257,7 +4892,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "2f29220f-cd07-41b0-b782-696547e818e0",
@@ -4265,11 +4900,11 @@
       "station_slug": "apiporter",
       "group_name": "Codex_core",
       "client_mode": "direct_openai",
-      "agree": 22,
+      "agree": 24,
       "total": 30,
       "input_tokens_min": 93,
       "input_tokens_max": 108,
-      "reasoning_median": 34,
+      "reasoning_median": 33,
       "identified_model_id": "gpt-6-1-sol",
       "probe_keys": [
         "folk-19831549",
@@ -4303,7 +4938,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T18:15:10.441Z"
+      "measured_at": "2026-11-17T04:32:26.188Z"
     },
     {
       "run_id": "310ac1cb-8735-440a-a771-cdac4b5f816a",
@@ -4315,7 +4950,7 @@
       "total": 20,
       "input_tokens_min": 129,
       "input_tokens_max": 155,
-      "reasoning_median": 587,
+      "reasoning_median": 625,
       "identified_model_id": "claude-fable-5-1",
       "probe_keys": [
         "folk-19831549",
@@ -4349,7 +4984,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T17:57:01.019Z"
+      "measured_at": "2026-11-17T03:26:48.203Z"
     },
     {
       "run_id": "33f63e89-b46e-4615-8860-63a291215df2",
@@ -4357,12 +4992,12 @@
       "station_slug": "fluxlane",
       "group_name": "👑 Claude-Max｜满血旗舰",
       "client_mode": "direct_anthropic",
-      "agree": 12,
-      "total": 20,
+      "agree": 13,
+      "total": 30,
       "input_tokens_min": 116,
-      "input_tokens_max": 285,
-      "reasoning_median": 192,
-      "identified_model_id": "claude-haiku-5-5",
+      "input_tokens_max": 296,
+      "reasoning_median": 173,
+      "identified_model_id": "gpt-6-sol",
       "probe_keys": [
         "folk-19831549",
         "folk-2dca93e2",
@@ -4395,7 +5030,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T17:46:34.585Z"
+      "measured_at": "2026-11-17T02:46:07.767Z"
     },
     {
       "run_id": "3952ac98-01d8-4e31-b670-f9fef814a9dc",
@@ -4428,7 +5063,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-enterprise",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 100,
       "input_tokens_max": 151769,
@@ -4466,7 +5101,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "3ad50053-8f37-4135-8dd8-6937861f4105",
@@ -4474,7 +5109,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-first-topup",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4512,7 +5147,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "3c80ca10-27f4-4e18-9a1c-26128a14a9a3",
@@ -4566,12 +5201,12 @@
       "station_slug": "ikuncode",
       "group_name": "cc-kiro",
       "client_mode": "direct_anthropic",
-      "agree": 9,
+      "agree": 5,
       "total": 20,
-      "input_tokens_min": 203,
+      "input_tokens_min": 133,
       "input_tokens_max": 239,
       "reasoning_median": 0,
-      "identified_model_id": "claude-haiku-5-5",
+      "identified_model_id": "claude-haiku-4-5",
       "probe_keys": [
         "folk-19831549",
         "folk-2dca93e2",
@@ -4604,7 +5239,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T18:16:17.477Z"
+      "measured_at": "2026-11-17T04:09:26.118Z"
     },
     {
       "run_id": "3ea74ac3-eb6d-4989-88c6-3907db919f89",
@@ -4612,7 +5247,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-stable",
       "client_mode": "direct_anthropic",
-      "agree": 88,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4650,7 +5285,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "3f2c2d84-623c-42b1-b928-2e7662b5c2a8",
@@ -4658,7 +5293,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-enterprise",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4696,7 +5331,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "422ba7d8-a4ba-4e8d-9039-ecef4e1f0fa8",
@@ -4704,7 +5339,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-premium",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4742,7 +5377,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "42962dbc-4a1b-42f2-8470-241cae5f9818",
@@ -4750,7 +5385,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-premium",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4788,7 +5423,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "42f4c1e4-7fe0-4fa7-8559-e5ac28fc5de1",
@@ -4796,7 +5431,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-premium",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 45108,
@@ -4834,7 +5469,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "43529cd9-828f-4f93-884c-961664a98b9e",
@@ -4842,7 +5477,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-first-topup",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4880,7 +5515,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "44ec6103-372c-4ffb-9076-060ae3fc320e",
@@ -4888,9 +5523,9 @@
       "station_slug": "modelflare",
       "group_name": "claude-stable",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
-      "input_tokens_min": 109,
+      "input_tokens_min": 52,
       "input_tokens_max": 24260,
       "reasoning_median": 559,
       "identified_model_id": "claude-opus-5-5",
@@ -4926,7 +5561,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "4556a55d-033f-4288-8467-c352281ee050",
@@ -4934,7 +5569,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-first-topup",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -4972,7 +5607,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "4815d8fc-500e-4294-a0c5-6cc0a096facc",
@@ -4980,7 +5615,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-stable",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -5018,7 +5653,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "49768438-3354-4b4a-9a6a-ee92614f2a18",
@@ -5027,11 +5662,11 @@
       "group_name": "Claude_core",
       "client_mode": "direct_anthropic",
       "agree": 9,
-      "total": 20,
+      "total": 30,
       "input_tokens_min": 116,
       "input_tokens_max": 139,
-      "reasoning_median": 185,
-      "identified_model_id": "claude-haiku-5-5",
+      "reasoning_median": 170,
+      "identified_model_id": "gpt-6-luna",
       "probe_keys": [
         "folk-19831549",
         "folk-2dca93e2",
@@ -5064,7 +5699,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T18:11:32.560Z"
+      "measured_at": "2026-11-17T04:28:39.135Z"
     },
     {
       "run_id": "4ceb4b7e-a2d1-4df2-bf3a-a899bef8f401",
@@ -5072,7 +5707,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-first-topup",
       "client_mode": "direct_openai",
-      "agree": 88,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 100,
       "input_tokens_max": 161349,
@@ -5110,7 +5745,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "58f78cbf-90a5-4f6d-81f5-9b7478e19ac9",
@@ -5118,7 +5753,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-tmp-cheap",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -5156,7 +5791,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "5a46b99f-15f2-4e9b-84c6-133fe8354cdd",
@@ -5164,7 +5799,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-award",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -5202,7 +5837,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "5a9fa154-7c31-45dc-8674-c261de1e4333",
@@ -5380,7 +6015,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-premium",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 100,
       "input_tokens_max": 151769,
@@ -5418,7 +6053,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "5ed8f658-9940-439a-a1b1-063583ea83f1",
@@ -5472,7 +6107,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-award",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 100,
       "input_tokens_max": 151769,
@@ -5510,7 +6145,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "5f537e11-f37e-4be3-b349-f5c0c9e08e3d",
@@ -5564,7 +6199,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-first-topup",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -5602,7 +6237,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "615918cb-f39e-43e4-b191-9ea6f390cae9",
@@ -5610,7 +6245,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-award",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 52,
       "input_tokens_max": 24260,
@@ -5648,7 +6283,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "625da708-9971-4fc8-adfa-82fe4b0bdc1d",
@@ -5656,7 +6291,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-first-topup",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -5694,7 +6329,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "62e87350-4bb8-46eb-afde-530432a43eab",
@@ -5702,7 +6337,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 81,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -5740,7 +6375,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "63e6ce78-0a5e-4e92-a586-69397afc12db",
@@ -5748,7 +6383,7 @@
       "station_slug": "modelflare",
       "group_name": "kimi-stable",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -5786,7 +6421,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "68016583-3175-471b-b86e-5430cd6c510a",
@@ -5794,7 +6429,7 @@
       "station_slug": "modelflare",
       "group_name": "glm-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -5832,7 +6467,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "6b5b489e-39e0-4e18-937d-8f73b466b7f0",
@@ -5840,7 +6475,7 @@
       "station_slug": "modelflare",
       "group_name": "deepseek-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 81,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -5878,7 +6513,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "6ba1be53-0fa5-4cf1-9884-ccb0802bcfa6",
@@ -5886,7 +6521,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-stable",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 81,
       "total": 90,
       "input_tokens_min": 100,
       "input_tokens_max": 161349,
@@ -5924,7 +6559,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "6c0fda68-7c78-4ed8-95eb-7e7fc088623e",
@@ -5932,7 +6567,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-award",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -5970,7 +6605,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "6c705685-9f4c-43e6-8b01-f439fececb71",
@@ -5978,11 +6613,11 @@
       "station_slug": "fluxlane",
       "group_name": "🏆GPT-MAX｜满血专线",
       "client_mode": "direct_openai",
-      "agree": 19,
+      "agree": 21,
       "total": 30,
-      "input_tokens_min": 98,
-      "input_tokens_max": 22961,
-      "reasoning_median": 32,
+      "input_tokens_min": 95,
+      "input_tokens_max": 6009,
+      "reasoning_median": 25,
       "identified_model_id": "gpt-6-1-sol",
       "probe_keys": [
         "folk-19831549",
@@ -6016,7 +6651,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T17:53:04.860Z"
+      "measured_at": "2026-11-17T03:03:38.140Z"
     },
     {
       "run_id": "70c161e6-3df3-4d3d-9443-07de469fde23",
@@ -6024,7 +6659,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-first-topup",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6062,7 +6697,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "72ba91e9-e088-4825-804c-e3ffded2468e",
@@ -6070,7 +6705,7 @@
       "station_slug": "modelflare",
       "group_name": "deepseek-award",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6108,7 +6743,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "76dcf152-712d-45d5-9f0f-aa61deed41f2",
@@ -6117,9 +6752,9 @@
       "group_name": "cc-kiro",
       "client_mode": "direct_anthropic",
       "agree": 14,
-      "total": 18,
-      "input_tokens_min": 123,
-      "input_tokens_max": 155,
+      "total": 20,
+      "input_tokens_min": 144,
+      "input_tokens_max": 204,
       "reasoning_median": 0,
       "identified_model_id": "claude-haiku-5-5",
       "probe_keys": [
@@ -6154,7 +6789,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T18:13:06.616Z"
+      "measured_at": "2026-11-17T04:05:27.866Z"
     },
     {
       "run_id": "7bb9a18b-bfce-4037-9172-bbbcb73198e5",
@@ -6162,10 +6797,10 @@
       "station_slug": "cheapai",
       "group_name": "claude-kiro-撕破底价",
       "client_mode": "direct_anthropic",
-      "agree": 13,
-      "total": 20,
+      "agree": 6,
+      "total": 8,
       "input_tokens_min": 43,
-      "input_tokens_max": 13457,
+      "input_tokens_max": 14514,
       "reasoning_median": 0,
       "identified_model_id": "claude-fable-5-1",
       "probe_keys": [
@@ -6200,7 +6835,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T17:42:18.428Z"
+      "measured_at": "2026-11-17T03:19:21.895Z"
     },
     {
       "run_id": "7c38101b-fe4a-4c5b-b0db-977634f23dfa",
@@ -6254,12 +6889,12 @@
       "station_slug": "znb-ai",
       "group_name": "znb-cc-特惠",
       "client_mode": "direct_anthropic",
-      "agree": 10,
-      "total": 20,
-      "input_tokens_min": 2025,
-      "input_tokens_max": 2202,
+      "agree": 19,
+      "total": 30,
+      "input_tokens_min": 2023,
+      "input_tokens_max": 2197,
       "reasoning_median": 0,
-      "identified_model_id": "claude-opus-5-5",
+      "identified_model_id": "mai-code-1-1-flash",
       "probe_keys": [
         "folk-19831549",
         "folk-2dca93e2",
@@ -6292,7 +6927,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T17:43:07.291Z"
+      "measured_at": "2026-11-17T02:33:18.450Z"
     },
     {
       "run_id": "82cbd72d-7711-4dac-b109-220b237ab624",
@@ -6302,8 +6937,8 @@
       "client_mode": "direct_anthropic",
       "agree": 9,
       "total": 20,
-      "input_tokens_min": 121,
-      "input_tokens_max": 338,
+      "input_tokens_min": 114,
+      "input_tokens_max": 166,
       "reasoning_median": 0,
       "identified_model_id": "claude-haiku-5-5",
       "probe_keys": [
@@ -6338,7 +6973,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T17:47:51.413Z"
+      "measured_at": "2026-11-17T02:47:26.309Z"
     },
     {
       "run_id": "8468b4eb-212f-4d70-b3ed-85703b2fdee9",
@@ -6346,7 +6981,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-enterprise",
       "client_mode": "direct_openai",
-      "agree": 88,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -6384,7 +7019,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "852a0704-68ab-4628-a4a9-0e7aeab9ef4f",
@@ -6392,7 +7027,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-enterprise",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6430,7 +7065,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "86e64a87-ceec-478b-9608-6d60faef67d2",
@@ -6438,7 +7073,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-first-topup",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6476,7 +7111,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "8762cae1-b916-4bec-91f9-0e7f7f6a17a2",
@@ -6530,7 +7165,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-award",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6568,7 +7203,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "8c11b9fd-a672-4098-b952-864a4570df8a",
@@ -6576,7 +7211,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6614,7 +7249,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "8cc04ec6-a981-4160-b67f-37318ad023e8",
@@ -6622,7 +7257,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-tmp-cheap",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 45108,
@@ -6660,7 +7295,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "8ce324f4-5d27-44d1-8f47-e7941789c0e1",
@@ -6668,7 +7303,7 @@
       "station_slug": "modelflare",
       "group_name": "deepseek-award",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6706,53 +7341,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
-    },
-    {
-      "run_id": "92746e07-a985-4c9f-849c-9a755f0cb92a",
-      "model_id": "gpt-6-astra",
-      "station_slug": "cheapai",
-      "group_name": "gpt-跌破底价",
-      "client_mode": "direct_openai",
-      "agree": 15,
-      "total": 30,
-      "input_tokens_min": 121,
-      "input_tokens_max": 140,
-      "reasoning_median": 33,
-      "identified_model_id": "gemini-3-8-flash",
-      "probe_keys": [
-        "folk-19831549",
-        "folk-2dca93e2",
-        "folk-2ecaa202",
-        "folk-309c6274",
-        "folk-4760bbc1",
-        "folk-5d7ab8a7",
-        "folk-67bbcbac",
-        "folk-684b1e29",
-        "folk-6aebfdca",
-        "folk-6ba96554",
-        "folk-6de4d083",
-        "folk-708106d0",
-        "folk-72557277",
-        "folk-76d7b3fe",
-        "folk-839bcb9f",
-        "folk-83cab704",
-        "folk-84ae7d22",
-        "folk-9495ef39",
-        "folk-a9821f86",
-        "folk-af2c573a",
-        "folk-c3bc2ef9",
-        "folk-c5ee6ec8",
-        "folk-c88b08cd",
-        "folk-cb1b438e",
-        "folk-d03c2942",
-        "folk-d6eaff84",
-        "folk-d854c0f1",
-        "folk-ed1abcbd",
-        "folk-f4075954",
-        "folk-f9139dc3"
-      ],
-      "measured_at": "2026-11-15T17:48:07.559Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "93af2130-3bc5-46a7-9788-d93ab05ad301",
@@ -6760,7 +7349,7 @@
       "station_slug": "modelflare",
       "group_name": "grok-award",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6798,7 +7387,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "94da27f9-b565-411d-97f9-071043d494ca",
@@ -6806,7 +7395,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-premium",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6844,7 +7433,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "96c15782-4197-4e04-b336-4c33c5f57fe1",
@@ -6852,7 +7441,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-award",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -6890,7 +7479,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "9a7f72b3-d88f-45b8-a0e9-5ec1c3bc5d95",
@@ -6898,11 +7487,11 @@
       "station_slug": "znb-ai",
       "group_name": "znb-gpt-特惠",
       "client_mode": "direct_openai",
-      "agree": 19,
+      "agree": 24,
       "total": 30,
-      "input_tokens_min": 4210,
-      "input_tokens_max": 4486,
-      "reasoning_median": 0,
+      "input_tokens_min": 4203,
+      "input_tokens_max": 4218,
+      "reasoning_median": 28,
       "identified_model_id": "gpt-6-1-sol",
       "probe_keys": [
         "folk-19831549",
@@ -6936,7 +7525,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T17:53:39.456Z"
+      "measured_at": "2026-11-17T02:37:16.589Z"
     },
     {
       "run_id": "a002d472-973f-428c-ba07-dd760ebedf17",
@@ -6985,57 +7574,12 @@
       "measured_at": "2026-11-14T18:36:00.481Z"
     },
     {
-      "run_id": "a2323696-ab7b-41c0-89f3-c52ef23be599",
-      "model_id": "gpt-6-astra",
-      "station_slug": "cloudbridge",
-      "group_name": "Codex-core",
-      "client_mode": "direct_openai",
-      "agree": 25,
-      "total": 29,
-      "input_tokens_min": 102,
-      "input_tokens_max": 22994,
-      "reasoning_median": 31,
-      "identified_model_id": "gpt-6-1-sol",
-      "probe_keys": [
-        "folk-19831549",
-        "folk-2dca93e2",
-        "folk-2ecaa202",
-        "folk-309c6274",
-        "folk-5d7ab8a7",
-        "folk-67bbcbac",
-        "folk-684b1e29",
-        "folk-6aebfdca",
-        "folk-6ba96554",
-        "folk-6de4d083",
-        "folk-708106d0",
-        "folk-72557277",
-        "folk-76d7b3fe",
-        "folk-839bcb9f",
-        "folk-83cab704",
-        "folk-84ae7d22",
-        "folk-9495ef39",
-        "folk-a9821f86",
-        "folk-af2c573a",
-        "folk-c3bc2ef9",
-        "folk-c5ee6ec8",
-        "folk-c88b08cd",
-        "folk-cb1b438e",
-        "folk-d03c2942",
-        "folk-d6eaff84",
-        "folk-d854c0f1",
-        "folk-ed1abcbd",
-        "folk-f4075954",
-        "folk-f9139dc3"
-      ],
-      "measured_at": "2026-11-15T18:03:28.294Z"
-    },
-    {
       "run_id": "a3b9362b-1918-4bdb-a39b-0c49f2bb3406",
       "model_id": "claude-fable-5",
       "station_slug": "modelflare",
       "group_name": "claude-first-topup",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -7073,7 +7617,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "a625ffb7-cf4b-4e57-8bbd-da6cf2fed27e",
@@ -7081,7 +7625,7 @@
       "station_slug": "modelflare",
       "group_name": "grok-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -7119,7 +7663,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "a932e2e1-620c-4194-86d1-ee2b879c8ed5",
@@ -7163,7 +7707,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-stable",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 45108,
@@ -7201,7 +7745,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "ac7e0e63-dba2-4c8a-82a4-7779380519e1",
@@ -7209,7 +7753,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-award",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -7247,7 +7791,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "ad3e3fc3-7fef-48c9-aeeb-b975c654ac2c",
@@ -7337,7 +7881,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-first-topup",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 100,
       "input_tokens_max": 151769,
@@ -7375,7 +7919,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "b9e44f16-a40a-4adf-a80f-c6889e58eedd",
@@ -7429,7 +7973,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-stable",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -7467,53 +8011,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
-    },
-    {
-      "run_id": "bc6a8b34-597a-494c-beec-aa79267f0dc9",
-      "model_id": "claude-opus-5-5",
-      "station_slug": "cheapai",
-      "group_name": "claude-kiro-撕破底价",
-      "client_mode": "direct_anthropic",
-      "agree": 11,
-      "total": 20,
-      "input_tokens_min": 125,
-      "input_tokens_max": 149,
-      "reasoning_median": 0,
-      "identified_model_id": "claude-sonnet-5",
-      "probe_keys": [
-        "folk-19831549",
-        "folk-2dca93e2",
-        "folk-2ecaa202",
-        "folk-309c6274",
-        "folk-4760bbc1",
-        "folk-5d7ab8a7",
-        "folk-67bbcbac",
-        "folk-684b1e29",
-        "folk-6aebfdca",
-        "folk-6ba96554",
-        "folk-6de4d083",
-        "folk-708106d0",
-        "folk-72557277",
-        "folk-76d7b3fe",
-        "folk-839bcb9f",
-        "folk-83cab704",
-        "folk-84ae7d22",
-        "folk-9495ef39",
-        "folk-a9821f86",
-        "folk-af2c573a",
-        "folk-c3bc2ef9",
-        "folk-c5ee6ec8",
-        "folk-c88b08cd",
-        "folk-cb1b438e",
-        "folk-d03c2942",
-        "folk-d6eaff84",
-        "folk-d854c0f1",
-        "folk-ed1abcbd",
-        "folk-f4075954",
-        "folk-f9139dc3"
-      ],
-      "measured_at": "2026-11-15T17:44:10.000Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "bc851304-a375-410d-a3aa-36d613c0e5e5",
@@ -7521,7 +8019,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-award",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 45108,
@@ -7559,7 +8057,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "bd418f8c-9293-4e05-9f5d-78e991d0f581",
@@ -7567,7 +8065,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-award",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -7605,7 +8103,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "bdbf5f91-f973-4a74-88e3-e7c843edc31a",
@@ -7613,7 +8111,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-enterprise",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -7651,7 +8149,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "c21ef0cc-878a-4e40-a417-3838c501c815",
@@ -7659,7 +8157,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-premium",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 52,
       "input_tokens_max": 24260,
@@ -7697,7 +8195,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "c4c7181c-3f98-4f29-969d-cfc7e90a456f",
@@ -7705,12 +8203,12 @@
       "station_slug": "fluxlane",
       "group_name": "👑 Claude-Max｜满血旗舰",
       "client_mode": "direct_anthropic",
-      "agree": 10,
+      "agree": 9,
       "total": 20,
       "input_tokens_min": 116,
-      "input_tokens_max": 151,
-      "reasoning_median": 133,
-      "identified_model_id": "claude-sonnet-5",
+      "input_tokens_max": 10181,
+      "reasoning_median": 192,
+      "identified_model_id": "claude-haiku-5-5",
       "probe_keys": [
         "folk-19831549",
         "folk-2dca93e2",
@@ -7743,7 +8241,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T17:45:07.885Z"
+      "measured_at": "2026-11-17T02:44:31.227Z"
     },
     {
       "run_id": "c5767937-c1b8-45b4-9198-8df7d4e3f2f3",
@@ -7751,7 +8249,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-tmp-cheap",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 81,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -7789,7 +8287,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "c96eaf8f-7d50-459e-bb63-2304d89ee3b6",
@@ -7797,7 +8295,7 @@
       "station_slug": "modelflare",
       "group_name": "deepseek-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -7835,7 +8333,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "cd363d17-3673-4561-bbb4-b17abdce3070",
@@ -7843,7 +8341,7 @@
       "station_slug": "modelflare",
       "group_name": "deepseek-award",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -7881,7 +8379,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "ce5735fc-6adb-474b-8362-678a953b4100",
@@ -7889,7 +8387,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-first-topup",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -7927,7 +8425,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "d0182604-2a05-451b-a489-bb6e3d00bbc1",
@@ -7935,7 +8433,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-award",
       "client_mode": "direct_anthropic",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -7973,7 +8471,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "d166107e-c498-4c99-b6e3-8fd1982de201",
@@ -7981,7 +8479,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-first-topup",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 83,
       "total": 90,
       "input_tokens_min": 52,
       "input_tokens_max": 24260,
@@ -8019,7 +8517,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "d68d6d6c-11ea-4db2-a261-8e36cfdfb57b",
@@ -8027,7 +8525,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-first-topup",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -8065,7 +8563,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "d6a0a4d2-e846-4b56-9423-4e5073eb2b18",
@@ -8073,7 +8571,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -8111,7 +8609,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "d6d767a1-ab63-415f-b5d1-bb899eb4b008",
@@ -8119,9 +8617,9 @@
       "station_slug": "ikuncode",
       "group_name": "cc-kiro",
       "client_mode": "direct_anthropic",
-      "agree": 12,
-      "total": 20,
-      "input_tokens_min": 119,
+      "agree": 22,
+      "total": 30,
+      "input_tokens_min": 138,
       "input_tokens_max": 239,
       "reasoning_median": 0,
       "identified_model_id": "claude-opus-5-5",
@@ -8157,7 +8655,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T18:15:18.141Z"
+      "measured_at": "2026-11-17T04:08:07.161Z"
     },
     {
       "run_id": "daf0f305-e06b-43f8-a707-ac305c34e169",
@@ -8165,7 +8663,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-first-topup",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 45108,
@@ -8203,7 +8701,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "dc7650c2-3dae-4c13-bed7-353ca5a659d8",
@@ -8211,12 +8709,12 @@
       "station_slug": "ikuncode",
       "group_name": "Codex-Pro",
       "client_mode": "direct_openai",
-      "agree": 23,
-      "total": 30,
-      "input_tokens_min": 548,
-      "input_tokens_max": 564,
+      "agree": 16,
+      "total": 23,
+      "input_tokens_min": 97,
+      "input_tokens_max": 108,
       "reasoning_median": 0,
-      "identified_model_id": "gpt-6-1-sol",
+      "identified_model_id": "claude-opus-5-5",
       "probe_keys": [
         "folk-19831549",
         "folk-2dca93e2",
@@ -8249,7 +8747,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-15T18:18:51.121Z"
+      "measured_at": "2026-11-17T04:15:00.106Z"
     },
     {
       "run_id": "de6620ef-d79f-4dd9-8baa-70cf5cc95183",
@@ -8257,7 +8755,7 @@
       "station_slug": "modelflare",
       "group_name": "claude-tmp-cheap",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 52,
       "input_tokens_max": 24260,
@@ -8295,7 +8793,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "df3d80e6-9c1c-47bb-80dd-82cdff428928",
@@ -8303,7 +8801,7 @@
       "station_slug": "modelflare",
       "group_name": "grok-award",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -8341,7 +8839,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "e07e4309-3fe3-47d0-a488-2ae64213225f",
@@ -8349,9 +8847,9 @@
       "station_slug": "modelflare",
       "group_name": "claude-first-topup",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 81,
       "total": 90,
-      "input_tokens_min": 109,
+      "input_tokens_min": 52,
       "input_tokens_max": 24260,
       "reasoning_median": 559,
       "identified_model_id": "claude-opus-5-5",
@@ -8387,7 +8885,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "e896c641-2a00-450e-8889-a46f8aa68151",
@@ -8395,9 +8893,9 @@
       "station_slug": "modelflare",
       "group_name": "claude-tmp-cheap",
       "client_mode": "direct_anthropic",
-      "agree": 87,
+      "agree": 81,
       "total": 90,
-      "input_tokens_min": 109,
+      "input_tokens_min": 52,
       "input_tokens_max": 24260,
       "reasoning_median": 559,
       "identified_model_id": "claude-opus-5-5",
@@ -8433,7 +8931,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "e97de118-91b2-402d-9053-5dc07d55c9dc",
@@ -8441,7 +8939,7 @@
       "station_slug": "modelflare",
       "group_name": "grok-award",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -8479,7 +8977,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "ea699065-3267-49f0-93c6-f58ff88a9170",
@@ -8487,7 +8985,7 @@
       "station_slug": "modelflare",
       "group_name": "glm-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 82,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -8525,7 +9023,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "ecfeab52-f2d1-42a4-bde4-2d6c8c89562c",
@@ -8533,7 +9031,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-enterprise",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -8571,7 +9069,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "f1deeb35-5783-4436-92a9-54f73efacca3",
@@ -8579,7 +9077,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-stable",
       "client_mode": "direct_openai",
-      "agree": 87,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": null,
       "input_tokens_max": null,
@@ -8617,7 +9115,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "f284a4fe-8f7a-4693-aaa2-2b60500a191b",
@@ -8625,7 +9123,7 @@
       "station_slug": "modelflare",
       "group_name": "deepseek-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -8663,7 +9161,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "f31714b3-19a7-47d7-87ca-07c71f3051dc",
@@ -8671,7 +9169,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-stable",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 85,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -8709,7 +9207,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     },
     {
       "run_id": "f7a35ede-b5ec-4580-b386-58dda750c536",
@@ -8717,7 +9215,7 @@
       "station_slug": "modelflare",
       "group_name": "openai-first-topup",
       "client_mode": "direct_openai",
-      "agree": 90,
+      "agree": 84,
       "total": 90,
       "input_tokens_min": 109,
       "input_tokens_max": 24260,
@@ -8755,7 +9253,7 @@
         "folk-f4075954",
         "folk-f9139dc3"
       ],
-      "measured_at": "2026-11-16T00:15:00.423Z"
+      "measured_at": "2026-11-17T03:44:09.277Z"
     }
   ],
   "models": [
@@ -8766,7 +9264,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "pending",
-      "station_count": 10,
+      "station_count": 12,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8785,7 +9283,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "measured",
-      "station_count": 20,
+      "station_count": 27,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8804,7 +9302,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "pending",
-      "station_count": 3,
+      "station_count": 5,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8823,7 +9321,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "measured",
-      "station_count": 14,
+      "station_count": 20,
       "official_price": null
     },
     {
@@ -8833,7 +9331,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "pending",
-      "station_count": 2,
+      "station_count": 3,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8852,7 +9350,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "pending",
-      "station_count": 5,
+      "station_count": 7,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8871,7 +9369,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "pending",
-      "station_count": 5,
+      "station_count": 7,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8890,7 +9388,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "pending",
-      "station_count": 6,
+      "station_count": 8,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8909,7 +9407,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "pending",
-      "station_count": 9,
+      "station_count": 11,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8928,7 +9426,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "measured",
-      "station_count": 20,
+      "station_count": 27,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8966,7 +9464,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "pending",
-      "station_count": 5,
+      "station_count": 7,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -8985,7 +9483,7 @@
       "vendor_name": "Anthropic",
       "family": "language",
       "status": "pending",
-      "station_count": 10,
+      "station_count": 12,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9004,7 +9502,7 @@
       "vendor_name": "DeepSeek",
       "family": "language",
       "status": "measured",
-      "station_count": 15,
+      "station_count": 22,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9023,7 +9521,7 @@
       "vendor_name": "DeepSeek",
       "family": "language",
       "status": "pending",
-      "station_count": 4,
+      "station_count": 5,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9061,7 +9559,7 @@
       "vendor_name": "DeepSeek",
       "family": "language",
       "status": "pending",
-      "station_count": 7,
+      "station_count": 8,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9149,7 +9647,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 2,
+      "station_count": 3,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9178,7 +9676,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 1,
+      "station_count": 2,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9217,7 +9715,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 3,
+      "station_count": 4,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9236,7 +9734,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 2,
+      "station_count": 3,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9255,7 +9753,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 2,
+      "station_count": 3,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9274,7 +9772,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 2,
+      "station_count": 3,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9293,7 +9791,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 4,
+      "station_count": 5,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9312,7 +9810,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 1,
+      "station_count": 2,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9331,7 +9829,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 2,
+      "station_count": 3,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9370,7 +9868,7 @@
       "vendor_name": "Google Gemini",
       "family": "language",
       "status": "pending",
-      "station_count": 3,
+      "station_count": 4,
       "official_price": null
     },
     {
@@ -9456,7 +9954,7 @@
       "vendor_name": "Zhipu GLM",
       "family": "language",
       "status": "pending",
-      "station_count": 4,
+      "station_count": 5,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9475,7 +9973,7 @@
       "vendor_name": "Zhipu GLM",
       "family": "language",
       "status": "pending",
-      "station_count": 3,
+      "station_count": 5,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9627,7 +10125,7 @@
       "vendor_name": "OpenAI",
       "family": "language",
       "status": "pending",
-      "station_count": 3,
+      "station_count": 4,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9646,7 +10144,7 @@
       "vendor_name": "OpenAI",
       "family": "language",
       "status": "pending",
-      "station_count": 10,
+      "station_count": 12,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9665,7 +10163,7 @@
       "vendor_name": "OpenAI",
       "family": "language",
       "status": "pending",
-      "station_count": 9,
+      "station_count": 11,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9703,7 +10201,7 @@
       "vendor_name": "OpenAI",
       "family": "language",
       "status": "measured",
-      "station_count": 18,
+      "station_count": 25,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9722,7 +10220,7 @@
       "vendor_name": "OpenAI",
       "family": "language",
       "status": "measured",
-      "station_count": 20,
+      "station_count": 27,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9741,7 +10239,7 @@
       "vendor_name": "OpenAI",
       "family": "language",
       "status": "measured",
-      "station_count": 19,
+      "station_count": 26,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9770,7 +10268,7 @@
       "vendor_name": "OpenAI",
       "family": "image",
       "status": "pending",
-      "station_count": 4,
+      "station_count": 5,
       "official_price": null
     },
     {
@@ -9780,7 +10278,7 @@
       "vendor_name": "OpenAI",
       "family": "image",
       "status": "pending",
-      "station_count": 2,
+      "station_count": 3,
       "official_price": null
     },
     {
@@ -9790,7 +10288,7 @@
       "vendor_name": "OpenAI",
       "family": "image",
       "status": "pending",
-      "station_count": 3,
+      "station_count": 4,
       "official_price": null
     },
     {
@@ -9800,7 +10298,7 @@
       "vendor_name": "xAI Grok",
       "family": "language",
       "status": "pending",
-      "station_count": 5,
+      "station_count": 6,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9819,7 +10317,7 @@
       "vendor_name": "xAI Grok",
       "family": "language",
       "status": "pending",
-      "station_count": 6,
+      "station_count": 7,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -9838,7 +10336,7 @@
       "vendor_name": "xAI Grok",
       "family": "language",
       "status": "measured",
-      "station_count": 12,
+      "station_count": 18,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -10003,7 +10501,7 @@
       "vendor_name": "Kimi",
       "family": "language",
       "status": "pending",
-      "station_count": 8,
+      "station_count": 9,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -10235,7 +10733,7 @@
       "vendor_name": "Alibaba Qwen",
       "family": "language",
       "status": "pending",
-      "station_count": 0,
+      "station_count": 1,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -10254,7 +10752,7 @@
       "vendor_name": "Alibaba Qwen",
       "family": "language",
       "status": "pending",
-      "station_count": 1,
+      "station_count": 2,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -10273,7 +10771,7 @@
       "vendor_name": "Alibaba Qwen",
       "family": "language",
       "status": "pending",
-      "station_count": 0,
+      "station_count": 1,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -10292,7 +10790,7 @@
       "vendor_name": "Alibaba Qwen",
       "family": "language",
       "status": "pending",
-      "station_count": 1,
+      "station_count": 2,
       "official_price": {
         "currency": "USD",
         "unit": "per_1m_tokens",
@@ -10499,6 +10997,23 @@
       "refund": "unspecified"
     },
     {
+      "slug": "aicentos",
+      "name": "aicentos",
+      "profile_url": "https://folkbench.com/services/aicentos",
+      "listing_status": "tested",
+      "measurement_status": "not_available",
+      "first_listed_at": null,
+      "data_security_level": 0,
+      "data_security_validity": "not_verified",
+      "checked_at": null,
+      "subject_present": "no",
+      "domestic_payment": "yes",
+      "overseas_payment": "no",
+      "invoice": "yes",
+      "customer_service": "yes",
+      "refund": "supported"
+    },
+    {
       "slug": "apiniuma",
       "name": "超稳API / Stable API",
       "profile_url": "https://folkbench.com/services/apiniuma",
@@ -10508,11 +11023,11 @@
       "data_security_level": 0,
       "data_security_validity": "not_verified",
       "checked_at": null,
-      "subject_present": "unspecified",
-      "domestic_payment": "unspecified",
-      "overseas_payment": "unspecified",
+      "subject_present": "no",
+      "domestic_payment": "yes",
+      "overseas_payment": "no",
       "invoice": "unspecified",
-      "customer_service": "unspecified",
+      "customer_service": "yes",
       "refund": "unspecified"
     },
     {
@@ -10686,6 +11201,23 @@
       "refund": "unspecified"
     },
     {
+      "slug": "merchant-27af1806-16e",
+      "name": "ModelPod",
+      "profile_url": "https://folkbench.com/services/merchant-27af1806-16e",
+      "listing_status": "tested",
+      "measurement_status": "not_available",
+      "first_listed_at": null,
+      "data_security_level": 0,
+      "data_security_validity": "not_verified",
+      "checked_at": null,
+      "subject_present": "no",
+      "domestic_payment": "yes",
+      "overseas_payment": "no",
+      "invoice": "yes",
+      "customer_service": "yes",
+      "refund": "unspecified"
+    },
+    {
       "slug": "merchant-2e16cda8-294",
       "name": "序点算力",
       "profile_url": "https://folkbench.com/services/merchant-2e16cda8-294",
@@ -10695,12 +11227,12 @@
       "data_security_level": 0,
       "data_security_validity": "not_verified",
       "checked_at": null,
-      "subject_present": "unspecified",
-      "domestic_payment": "unspecified",
-      "overseas_payment": "unspecified",
-      "invoice": "unspecified",
-      "customer_service": "unspecified",
-      "refund": "unspecified"
+      "subject_present": "no",
+      "domestic_payment": "yes",
+      "overseas_payment": "no",
+      "invoice": "yes",
+      "customer_service": "yes",
+      "refund": "not_supported"
     },
     {
       "slug": "merchant-316d7f43-b18",
@@ -10763,12 +11295,12 @@
       "data_security_level": 0,
       "data_security_validity": "not_verified",
       "checked_at": null,
-      "subject_present": "unspecified",
-      "domestic_payment": "unspecified",
-      "overseas_payment": "unspecified",
-      "invoice": "unspecified",
-      "customer_service": "unspecified",
-      "refund": "unspecified"
+      "subject_present": "no",
+      "domestic_payment": "yes",
+      "overseas_payment": "no",
+      "invoice": "yes",
+      "customer_service": "yes",
+      "refund": "supported"
     },
     {
       "slug": "merchant-7a09254e-f3f",
@@ -10797,11 +11329,11 @@
       "data_security_level": 0,
       "data_security_validity": "not_verified",
       "checked_at": null,
-      "subject_present": "unspecified",
-      "domestic_payment": "unspecified",
-      "overseas_payment": "unspecified",
+      "subject_present": "no",
+      "domestic_payment": "yes",
+      "overseas_payment": "yes",
       "invoice": "unspecified",
-      "customer_service": "unspecified",
+      "customer_service": "yes",
       "refund": "unspecified"
     },
     {
@@ -10814,12 +11346,12 @@
       "data_security_level": 0,
       "data_security_validity": "not_verified",
       "checked_at": null,
-      "subject_present": "unspecified",
-      "domestic_payment": "unspecified",
-      "overseas_payment": "unspecified",
-      "invoice": "unspecified",
-      "customer_service": "unspecified",
-      "refund": "unspecified"
+      "subject_present": "no",
+      "domestic_payment": "yes",
+      "overseas_payment": "yes",
+      "invoice": "yes",
+      "customer_service": "yes",
+      "refund": "supported"
     },
     {
       "slug": "merchant-9adafd15-54e",
@@ -10958,7 +11490,7 @@
       "refund": "unspecified"
     }
   ],
-  "snapshot_version": "public-a83db77110511580f49af41b2f97e8ae72c2e92687d5dc342f511e0a75415401",
-  "date": "2026-11-16",
-  "published_at": "2026-11-16T15:24:42.110Z"
+  "snapshot_version": "public-dc1f4dff1dff69c086e10163e8480059cac6fc2ffda3912f902f0558c339b64b",
+  "date": "2026-11-17",
+  "published_at": "2026-11-17T12:30:50.762Z"
 }
