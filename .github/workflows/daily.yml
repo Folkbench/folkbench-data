@@ -2,6 +2,7 @@ name: Archive daily public snapshots
 on:
   schedule:
     - cron: '40 12 * * *'
+    - cron: '20 15 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -46,6 +47,17 @@ jobs:
           git -C data add daily latest
           git -C data commit -m "数据：归档公开快照（快照 ${SNAPSHOT_VERSION}）"
           git -C data push origin HEAD:main
+      - name: Notify the six public snapshot sites
+        # Fallback entry beside each site's own schedule. Without a configured token this step only logs and the sites keep their own cron.
+        if: success()
+        env:
+          DISPATCH_TOKEN: ${{ secrets.SUBSITE_DISPATCH_TOKEN }}
+          SNAPSHOT_VERSION: ${{ steps.snapshot.outputs.snapshot_version }}
+        run: |
+          if [ -z "$DISPATCH_TOKEN" ]; then echo 'subsite_dispatch_skipped=token_not_configured'; exit 0; fi
+          for repo in Folkbench/relay-rank Folkbench/integrity-weekly ai-relay-bench/ai-relay-bench.github.io aiapi-rank/aiapi-rank.github.io ai-zhongzhuan/ai-zhongzhuan.github.io ai-model-check/ai-model-check.github.io; do
+            if GH_TOKEN="$DISPATCH_TOKEN" gh api --method POST "repos/$repo/dispatches" -f event_type=public-snapshot-archived -f "client_payload[snapshot_version]=$SNAPSHOT_VERSION" >/dev/null; then echo "subsite_dispatched=$repo"; else echo "subsite_dispatch_failed=$repo"; fi
+          done
       - name: Notify after two failed scheduled days
         if: failure()
         env:
