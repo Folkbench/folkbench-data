@@ -1,110 +1,110 @@
 {
   "schema_version": "1.0",
-  "snapshot_version": "public-dc1f4dff1dff69c086e10163e8480059cac6fc2ffda3912f902f0558c339b64b",
-  "date": "2026-11-17",
-  "published_at": "2026-11-17T12:30:50.762Z",
-  "source_collected_at": "2026-11-17T12:30:50.762Z",
-  "exported_at": "2026-11-17T12:30:50.762Z",
+  "snapshot_version": "public-e942fede9ed7f3bee7216d3109affcb011b9a2033e1941ca4a574e909afcfe5a",
+  "date": "2026-11-18",
+  "published_at": "2026-11-18T12:30:02.764Z",
+  "source_collected_at": "2026-11-18T12:30:02.764Z",
+  "exported_at": "2026-11-18T12:30:02.764Z",
   "sources": [
     {
       "model_id": "claude-fable-5-1",
-      "snapshot_version": "rel-31f3b6be-1794917074960",
+      "snapshot_version": "rel-e67d27c0-1795003456484",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
-      "published_at": "2026-11-17T12:04:34.960Z",
-      "rows": 13
+      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
+      "published_at": "2026-11-18T12:04:16.484Z",
+      "rows": 14
     },
     {
       "model_id": "claude-haiku-5-5",
-      "snapshot_version": "rel-b861b8c7-1794917075789",
+      "snapshot_version": "rel-5cd1bd85-1795003457370",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
-      "published_at": "2026-11-17T12:04:35.789Z",
-      "rows": 8
+      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
+      "published_at": "2026-11-18T12:04:17.370Z",
+      "rows": 9
     },
     {
       "model_id": "claude-opus-5-5",
-      "snapshot_version": "rel-733dd258-1794917076630",
+      "snapshot_version": "rel-91275204-1795003458281",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
-      "published_at": "2026-11-17T12:04:36.630Z",
+      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
+      "published_at": "2026-11-18T12:04:18.281Z",
       "rows": 16
     },
     {
       "model_id": "deepseek-v4-1-flash",
-      "snapshot_version": "rel-f6b1c884-1794917077430",
+      "snapshot_version": "rel-ccec9913-1795003459174",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
-      "published_at": "2026-11-17T12:04:37.430Z",
+      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
+      "published_at": "2026-11-18T12:04:19.174Z",
       "rows": 11
     },
     {
       "model_id": "gpt-6-1-sol",
-      "snapshot_version": "rel-8faa70f6-1794917079748",
+      "snapshot_version": "rel-f277d57b-1795003461810",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
-      "published_at": "2026-11-17T12:04:39.748Z",
-      "rows": 13
+      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
+      "published_at": "2026-11-18T12:04:21.810Z",
+      "rows": 15
     },
     {
       "model_id": "gpt-6-astra",
-      "snapshot_version": "rel-dd1af2f6-1794917078210",
+      "snapshot_version": "rel-db0487f5-1795003460061",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
-      "published_at": "2026-11-17T12:04:38.210Z",
-      "rows": 17
+      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
+      "published_at": "2026-11-18T12:04:20.061Z",
+      "rows": 19
     },
     {
       "model_id": "gpt-6-sol",
-      "snapshot_version": "rel-980b0531-1794917078988",
+      "snapshot_version": "rel-b6dd0ba8-1795003460950",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
-      "published_at": "2026-11-17T12:04:38.988Z",
-      "rows": 13
+      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
+      "published_at": "2026-11-18T12:04:20.950Z",
+      "rows": 15
     },
     {
       "model_id": "grok-4-7",
-      "snapshot_version": "rel-71c5b8d1-1794917080499",
+      "snapshot_version": "rel-b8af104f-1795003462667",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-16T12:30:00.000Z/2026-11-17T12:30:00.000Z",
-      "published_at": "2026-11-17T12:04:40.499Z",
+      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
+      "published_at": "2026-11-18T12:04:22.667Z",
       "rows": 8
     }
   ],
   "files": [
     {
       "path": "snapshot.json",
-      "sha256": "4e4a5c35f3f3fc30c26787ccce7715ac8e7ccd4c88c3f273f0eb4f22beca5b9c",
+      "sha256": "f7acb6b6ad0634d421af2a469c22bcb03a814af41ae358f0351588e4f2762e6c",
       "rows": 1
     },
     {
       "path": "rankings.json",
-      "sha256": "624ec62b662e55894c494d2313951d6b76a97ad1c8d63964e3300d0836a7cae3",
-      "rows": 99
+      "sha256": "471b2ee00973053f05866b2fa804fdac65db58876fdd996b721d06eaf45873cf",
+      "rows": 107
     },
     {
       "path": "rankings.csv",
-      "sha256": "f93092c5015610ae566fb6e87d052a993d68f3e4947059ae3b62497d9a3a5000",
-      "rows": 99
+      "sha256": "9f29449c3d53072b34cb38cf7bea04b1ff2b067b17c057dbfc04ec9015bf536d",
+      "rows": 107
     },
     {
       "path": "integrity.json",
-      "sha256": "0e6ba46c26ff6dc95e2c76e6274135e04894abd40256d3e71d18b25de3049557",
-      "rows": 114
+      "sha256": "9de59f2da40edcda3bbe5e7595a51b4ca7003b7bf87d13de5221b4237bd0d486",
+      "rows": 117
     },
     {
       "path": "integrity.csv",
-      "sha256": "e48781939858f92b7a931c90b0462b7b191c29d392f8386186412f212a203abb",
-      "rows": 114
+      "sha256": "56cd904c464966b85398312017e2dd650dc74086433983e589815f687f49b275",
+      "rows": 117
     },
     {
       "path": "models.json",
-      "sha256": "fca5a37385072f35c4c7423ed5180d1cfd1b7843c5d06c273b6d2f85ad58564b",
-      "rows": 110
+      "sha256": "1a4d2ce3417e090d9680bd9139e37fb61f34344d8d9f4fd886a6acaa26d3ee15",
+      "rows": 114
     },
     {
       "path": "stations.json",
-      "sha256": "2eadc0723cc7ba29544218d95381be1d8b86517ee9c0309d2c660743f67d7c25",
+      "sha256": "62ed31b2649e2b6cadfa79549983a42d5b2570169d4750e14c6bcf2424260f41",
       "rows": 31
     }
   ]

@@ -6,7 +6,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 12,
+    "station_count": 13,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -44,7 +44,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 6,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -73,7 +73,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 3,
+    "station_count": 4,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -92,7 +92,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 7,
+    "station_count": 8,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -111,7 +111,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 7,
+    "station_count": 8,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -130,7 +130,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 8,
+    "station_count": 9,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -149,7 +149,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 11,
+    "station_count": 12,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -187,7 +187,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 2,
+    "station_count": 3,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -206,7 +206,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 7,
+    "station_count": 8,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -225,7 +225,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 12,
+    "station_count": 13,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -263,7 +263,7 @@
     "vendor_name": "DeepSeek",
     "family": "language",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 6,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -301,7 +301,7 @@
     "vendor_name": "DeepSeek",
     "family": "language",
     "status": "pending",
-    "station_count": 8,
+    "station_count": 9,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -476,7 +476,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 3,
+    "station_count": 4,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -495,7 +495,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 3,
+    "station_count": 4,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -514,7 +514,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 3,
+    "station_count": 4,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -533,7 +533,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 6,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -610,7 +610,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 4,
+    "station_count": 5,
     "official_price": null
   },
   {
@@ -677,7 +677,7 @@
     "vendor_name": "Zhipu GLM",
     "family": "language",
     "status": "pending",
-    "station_count": 2,
+    "station_count": 3,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -696,7 +696,7 @@
     "vendor_name": "Zhipu GLM",
     "family": "language",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 6,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -715,7 +715,7 @@
     "vendor_name": "Zhipu GLM",
     "family": "language",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 6,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -842,13 +842,70 @@
     }
   },
   {
+    "id": "gpt-5-2",
+    "name": "GPT 5.2",
+    "vendor_id": "openai",
+    "vendor_name": "OpenAI",
+    "family": "language",
+    "status": "pending",
+    "station_count": 1,
+    "official_price": {
+      "currency": "USD",
+      "unit": "per_1m_tokens",
+      "input": 1.75,
+      "output": 14,
+      "cache_read": 0.175,
+      "source_label": "OpenAI",
+      "source_url": "https://developers.openai.com/api/docs/models/gpt-5.2",
+      "verified_at": "2026-09-20"
+    }
+  },
+  {
+    "id": "gpt-5-4",
+    "name": "GPT 5.4",
+    "vendor_id": "openai",
+    "vendor_name": "OpenAI",
+    "family": "language",
+    "status": "pending",
+    "station_count": 1,
+    "official_price": {
+      "currency": "USD",
+      "unit": "per_1m_tokens",
+      "input": 2.5,
+      "output": 15,
+      "cache_read": 0.25,
+      "source_label": "OpenAI",
+      "source_url": "https://developers.openai.com/api/docs/models/gpt-5.4",
+      "verified_at": "2026-09-20"
+    }
+  },
+  {
+    "id": "gpt-5-4-mini",
+    "name": "GPT 5.4 Mini",
+    "vendor_id": "openai",
+    "vendor_name": "OpenAI",
+    "family": "language",
+    "status": "pending",
+    "station_count": 1,
+    "official_price": {
+      "currency": "USD",
+      "unit": "per_1m_tokens",
+      "input": 0.75,
+      "output": 4.5,
+      "cache_read": 0.075,
+      "source_label": "OpenAI",
+      "source_url": "https://developers.openai.com/api/docs/models/gpt-5.4-mini",
+      "verified_at": "2026-09-20"
+    }
+  },
+  {
     "id": "gpt-5-5",
     "name": "GPT 5.5",
     "vendor_id": "openai",
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 4,
+    "station_count": 5,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -867,7 +924,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 4,
+    "station_count": 5,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -886,7 +943,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 12,
+    "station_count": 13,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -905,7 +962,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 11,
+    "station_count": 12,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1000,6 +1057,16 @@
     "vendor_name": "OpenAI",
     "family": "image",
     "status": "pending",
+    "station_count": 2,
+    "official_price": null
+  },
+  {
+    "id": "gpt-image-1-5",
+    "name": "GPT Image 1.5",
+    "vendor_id": "openai",
+    "vendor_name": "OpenAI",
+    "family": "image",
+    "status": "pending",
     "station_count": 1,
     "official_price": null
   },
@@ -1010,7 +1077,7 @@
     "vendor_name": "OpenAI",
     "family": "image",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 6,
     "official_price": null
   },
   {
@@ -1020,7 +1087,7 @@
     "vendor_name": "OpenAI",
     "family": "image",
     "status": "pending",
-    "station_count": 3,
+    "station_count": 4,
     "official_price": null
   },
   {
@@ -1030,7 +1097,7 @@
     "vendor_name": "OpenAI",
     "family": "image",
     "status": "pending",
-    "station_count": 4,
+    "station_count": 5,
     "official_price": null
   },
   {
@@ -1040,7 +1107,7 @@
     "vendor_name": "xAI Grok",
     "family": "language",
     "status": "pending",
-    "station_count": 6,
+    "station_count": 7,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1059,7 +1126,7 @@
     "vendor_name": "xAI Grok",
     "family": "language",
     "status": "pending",
-    "station_count": 7,
+    "station_count": 8,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1186,7 +1253,7 @@
     "vendor_name": "Kimi",
     "family": "language",
     "status": "pending",
-    "station_count": 0,
+    "station_count": 1,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1205,7 +1272,7 @@
     "vendor_name": "Kimi",
     "family": "language",
     "status": "pending",
-    "station_count": 0,
+    "station_count": 1,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1243,7 +1310,7 @@
     "vendor_name": "Kimi",
     "family": "language",
     "status": "pending",
-    "station_count": 9,
+    "station_count": 10,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1551,7 +1618,7 @@
     "vendor_name": "Alibaba Qwen",
     "family": "language",
     "status": "pending",
-    "station_count": 3,
+    "station_count": 4,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
