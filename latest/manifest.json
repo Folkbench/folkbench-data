@@ -1,111 +1,111 @@
 {
   "schema_version": "1.0",
-  "snapshot_version": "public-e942fede9ed7f3bee7216d3109affcb011b9a2033e1941ca4a574e909afcfe5a",
-  "date": "2026-11-18",
-  "published_at": "2026-11-18T12:30:02.764Z",
-  "source_collected_at": "2026-11-18T12:30:02.764Z",
-  "exported_at": "2026-11-18T12:30:02.764Z",
+  "snapshot_version": "public-bcf5cd0ec2e93f5fccaf70a6248bfd78e44bd504df66773c776e34a8f8cd43b4",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T12:30:55.725Z",
+  "source_collected_at": "2026-11-19T12:30:55.725Z",
+  "exported_at": "2026-11-19T12:30:55.725Z",
   "sources": [
     {
       "model_id": "claude-fable-5-1",
-      "snapshot_version": "rel-e67d27c0-1795003456484",
+      "snapshot_version": "rel-c08dc31f-1795089872415",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
-      "published_at": "2026-11-18T12:04:16.484Z",
-      "rows": 14
-    },
-    {
-      "model_id": "claude-haiku-5-5",
-      "snapshot_version": "rel-5cd1bd85-1795003457370",
-      "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
-      "published_at": "2026-11-18T12:04:17.370Z",
-      "rows": 9
-    },
-    {
-      "model_id": "claude-opus-5-5",
-      "snapshot_version": "rel-91275204-1795003458281",
-      "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
-      "published_at": "2026-11-18T12:04:18.281Z",
-      "rows": 16
-    },
-    {
-      "model_id": "deepseek-v4-1-flash",
-      "snapshot_version": "rel-ccec9913-1795003459174",
-      "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
-      "published_at": "2026-11-18T12:04:19.174Z",
+      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
+      "published_at": "2026-11-19T12:04:32.415Z",
       "rows": 11
     },
     {
-      "model_id": "gpt-6-1-sol",
-      "snapshot_version": "rel-f277d57b-1795003461810",
+      "model_id": "claude-haiku-5-5",
+      "snapshot_version": "rel-6b833159-1795023199199",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
-      "published_at": "2026-11-18T12:04:21.810Z",
+      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
+      "published_at": "2026-11-18T17:33:19.199Z",
+      "rows": 8
+    },
+    {
+      "model_id": "claude-opus-5-5",
+      "snapshot_version": "rel-63adc99d-1795089876627",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
+      "published_at": "2026-11-19T12:04:36.627Z",
+      "rows": 15
+    },
+    {
+      "model_id": "deepseek-v4-1-flash",
+      "snapshot_version": "rel-babdc30f-1795089878151",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
+      "published_at": "2026-11-19T12:04:38.151Z",
+      "rows": 12
+    },
+    {
+      "model_id": "gpt-6-1-sol",
+      "snapshot_version": "rel-1f550ba0-1795089881827",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
+      "published_at": "2026-11-19T12:04:41.827Z",
       "rows": 15
     },
     {
       "model_id": "gpt-6-astra",
-      "snapshot_version": "rel-db0487f5-1795003460061",
+      "snapshot_version": "rel-3355085d-1795089879422",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
-      "published_at": "2026-11-18T12:04:20.061Z",
-      "rows": 19
+      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
+      "published_at": "2026-11-19T12:04:39.422Z",
+      "rows": 17
     },
     {
       "model_id": "gpt-6-sol",
-      "snapshot_version": "rel-b6dd0ba8-1795003460950",
+      "snapshot_version": "rel-f7337428-1795089880592",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
-      "published_at": "2026-11-18T12:04:20.950Z",
-      "rows": 15
+      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
+      "published_at": "2026-11-19T12:04:40.592Z",
+      "rows": 10
     },
     {
       "model_id": "grok-4-7",
-      "snapshot_version": "rel-b8af104f-1795003462667",
+      "snapshot_version": "rel-f53a7ac6-1795089883054",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-17T12:30:00.000Z/2026-11-18T12:30:00.000Z",
-      "published_at": "2026-11-18T12:04:22.667Z",
+      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
+      "published_at": "2026-11-19T12:04:43.054Z",
       "rows": 8
     }
   ],
   "files": [
     {
       "path": "snapshot.json",
-      "sha256": "f7acb6b6ad0634d421af2a469c22bcb03a814af41ae358f0351588e4f2762e6c",
+      "sha256": "53981103d383409ba2809fb5be65de4e808bf89b9d28fb51d22f6b0530dca646",
       "rows": 1
     },
     {
       "path": "rankings.json",
-      "sha256": "471b2ee00973053f05866b2fa804fdac65db58876fdd996b721d06eaf45873cf",
-      "rows": 107
+      "sha256": "a7d9e6bb6bf9eb60b0cdbf118e1a0cf46db0e60abe17a65d8ba55e5a77d71a76",
+      "rows": 96
     },
     {
       "path": "rankings.csv",
-      "sha256": "9f29449c3d53072b34cb38cf7bea04b1ff2b067b17c057dbfc04ec9015bf536d",
-      "rows": 107
+      "sha256": "f9091807f008835987f5b34646508ec54123d9ae47aea45dec198cfcc92fa744",
+      "rows": 96
     },
     {
       "path": "integrity.json",
-      "sha256": "9de59f2da40edcda3bbe5e7595a51b4ca7003b7bf87d13de5221b4237bd0d486",
+      "sha256": "67329e8d990d12c4de44dbb42efc9d768d887696e7a29e249583b86b78ceb54d",
       "rows": 117
     },
     {
       "path": "integrity.csv",
-      "sha256": "56cd904c464966b85398312017e2dd650dc74086433983e589815f687f49b275",
+      "sha256": "c57f0b64b4925bfd0aef738116e7efb000849f92c0ad46e3d18f27230ba97f62",
       "rows": 117
     },
     {
       "path": "models.json",
-      "sha256": "1a4d2ce3417e090d9680bd9139e37fb61f34344d8d9f4fd886a6acaa26d3ee15",
-      "rows": 114
+      "sha256": "5867b44d39be7433d8bd0e82f35073544cd2fde84df802b6443123971059577c",
+      "rows": 125
     },
     {
       "path": "stations.json",
-      "sha256": "62ed31b2649e2b6cadfa79549983a42d5b2570169d4750e14c6bcf2424260f41",
-      "rows": 31
+      "sha256": "0942bf4e3a1471cc12d925a8c213c2370a5b85caaf387b39c7c6d7f21753136a",
+      "rows": 34
     }
   ]
 }
