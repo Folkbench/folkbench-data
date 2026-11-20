@@ -1,111 +1,159 @@
 {
   "schema_version": "1.0",
-  "snapshot_version": "public-bcf5cd0ec2e93f5fccaf70a6248bfd78e44bd504df66773c776e34a8f8cd43b4",
-  "date": "2026-11-19",
-  "published_at": "2026-11-19T12:30:55.725Z",
-  "source_collected_at": "2026-11-19T12:30:55.725Z",
-  "exported_at": "2026-11-19T12:30:55.725Z",
+  "snapshot_version": "public-05cd7a6660654dc12d36c5db405ba11bd0f08cc64e7b27600f1685a3da792ea8",
+  "date": "2026-11-20",
+  "published_at": "2026-11-20T13:49:23.649Z",
+  "source_collected_at": "2026-11-20T13:49:23.649Z",
+  "exported_at": "2026-11-20T13:49:23.649Z",
   "sources": [
     {
       "model_id": "claude-fable-5-1",
-      "snapshot_version": "rel-c08dc31f-1795089872415",
+      "snapshot_version": "rel-fadd0e2f-1795181497669",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
-      "published_at": "2026-11-19T12:04:32.415Z",
-      "rows": 11
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:37.669Z",
+      "rows": 12
     },
     {
       "model_id": "claude-haiku-5-5",
       "snapshot_version": "rel-6b833159-1795023199199",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
       "published_at": "2026-11-18T17:33:19.199Z",
-      "rows": 8
+      "rows": 9
+    },
+    {
+      "model_id": "claude-opus-5",
+      "snapshot_version": "rel-20c83e71-1795181500469",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:40.469Z",
+      "rows": 23
     },
     {
       "model_id": "claude-opus-5-5",
-      "snapshot_version": "rel-63adc99d-1795089876627",
+      "snapshot_version": "rel-f98a0988-1795181501862",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
-      "published_at": "2026-11-19T12:04:36.627Z",
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:41.862Z",
       "rows": 15
     },
     {
       "model_id": "deepseek-v4-1-flash",
-      "snapshot_version": "rel-babdc30f-1795089878151",
+      "snapshot_version": "rel-07640570-1795181503630",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
-      "published_at": "2026-11-19T12:04:38.151Z",
-      "rows": 12
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:43.630Z",
+      "rows": 13
+    },
+    {
+      "model_id": "gemini-3-8-flash",
+      "snapshot_version": "rel-2bebac99-1795181748588",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:35:48.588Z",
+      "rows": 19
+    },
+    {
+      "model_id": "gemini-4-argon",
+      "snapshot_version": "rel-f7ac1ed2-1795181750473",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog d4bf3c54d5f17e00",
+      "published_at": "2026-11-20T13:35:50.473Z",
+      "rows": 17
+    },
+    {
+      "model_id": "glm-5-3",
+      "snapshot_version": "rel-4bae5fe9-1795181504819",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:44.819Z",
+      "rows": 19
+    },
+    {
+      "model_id": "gpt-5-6-terra",
+      "snapshot_version": "rel-61397e41-1795181506149",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:46.149Z",
+      "rows": 22
     },
     {
       "model_id": "gpt-6-1-sol",
-      "snapshot_version": "rel-1f550ba0-1795089881827",
+      "snapshot_version": "rel-2a0e0e3b-1795181509995",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
-      "published_at": "2026-11-19T12:04:41.827Z",
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:49.995Z",
       "rows": 15
     },
     {
       "model_id": "gpt-6-astra",
-      "snapshot_version": "rel-3355085d-1795089879422",
+      "snapshot_version": "rel-4489b7c2-1795181507454",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
-      "published_at": "2026-11-19T12:04:39.422Z",
-      "rows": 17
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:47.454Z",
+      "rows": 18
     },
     {
-      "model_id": "gpt-6-sol",
-      "snapshot_version": "rel-f7337428-1795089880592",
+      "model_id": "grok-4-6",
+      "snapshot_version": "rel-64dbd9f0-1795181515366",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
-      "published_at": "2026-11-19T12:04:40.592Z",
-      "rows": 10
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:55.366Z",
+      "rows": 19
     },
     {
       "model_id": "grok-4-7",
-      "snapshot_version": "rel-f53a7ac6-1795089883054",
+      "snapshot_version": "rel-442c5b71-1795181516676",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-18T12:30:00.000Z/2026-11-19T12:30:00.000Z",
-      "published_at": "2026-11-19T12:04:43.054Z",
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:56.676Z",
       "rows": 8
+    },
+    {
+      "model_id": "qwen3-8-max",
+      "snapshot_version": "rel-d1bbf064-1795181518233",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-19T14:00:00.000Z/2026-11-20T14:00:00.000Z",
+      "published_at": "2026-11-20T13:31:58.233Z",
+      "rows": 12
     }
   ],
   "files": [
     {
       "path": "snapshot.json",
-      "sha256": "53981103d383409ba2809fb5be65de4e808bf89b9d28fb51d22f6b0530dca646",
+      "sha256": "672968c71f3c01af3d8ff0e29c4f4f1280c3eb8ba776d3b94120180623260757",
       "rows": 1
     },
     {
       "path": "rankings.json",
-      "sha256": "a7d9e6bb6bf9eb60b0cdbf118e1a0cf46db0e60abe17a65d8ba55e5a77d71a76",
-      "rows": 96
+      "sha256": "0479ce7ad6a0017ce0e88d7dbf58f6abfd69d16be57ae4a53b45debacc0c008b",
+      "rows": 221
     },
     {
       "path": "rankings.csv",
-      "sha256": "f9091807f008835987f5b34646508ec54123d9ae47aea45dec198cfcc92fa744",
-      "rows": 96
+      "sha256": "53652643881aa5262cf87f3754a62baaa456eb5489b90096a6f1b852f00cf79a",
+      "rows": 221
     },
     {
       "path": "integrity.json",
-      "sha256": "67329e8d990d12c4de44dbb42efc9d768d887696e7a29e249583b86b78ceb54d",
+      "sha256": "ed419665ba42a441fc631b297cbb1f5aa3ab827eb4c30bba95c6af5920ab5b78",
       "rows": 117
     },
     {
       "path": "integrity.csv",
-      "sha256": "c57f0b64b4925bfd0aef738116e7efb000849f92c0ad46e3d18f27230ba97f62",
+      "sha256": "b65d79241c71dc892be662aa674b2f152df8105af03fee90fdb78d289efb052b",
       "rows": 117
     },
     {
       "path": "models.json",
-      "sha256": "5867b44d39be7433d8bd0e82f35073544cd2fde84df802b6443123971059577c",
+      "sha256": "2003750802d9210450024fbd307ee96da0db079cb261fb1731d726a16f9de67b",
       "rows": 125
     },
     {
       "path": "stations.json",
-      "sha256": "0942bf4e3a1471cc12d925a8c213c2370a5b85caaf387b39c7c6d7f21753136a",
-      "rows": 34
+      "sha256": "81dea2b8c515a4ab19ce6aa650d907f4d7920f557da02eaa819f62499ab2a888",
+      "rows": 36
     }
   ]
 }
