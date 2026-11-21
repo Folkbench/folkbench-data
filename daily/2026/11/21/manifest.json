@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.0",
+  "snapshot_version": "public-162129ede5b493c61812986fef1a8b5c30cd3bc0c8e5efd0fe3b4d7b942b1eb3",
+  "date": "2026-11-21",
+  "published_at": "2026-11-21T12:30:55.516Z",
+  "source_collected_at": "2026-11-21T12:30:55.516Z",
+  "exported_at": "2026-11-21T12:30:55.516Z",
+  "sources": [
+    {
+      "model_id": "claude-fable-5-1",
+      "snapshot_version": "rel-8e6db766-1795262739352",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:39.352Z",
+      "rows": 12
+    },
+    {
+      "model_id": "claude-haiku-5-5",
+      "snapshot_version": "rel-6b833159-1795023199199",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-18T17:33:19.199Z",
+      "rows": 10
+    },
+    {
+      "model_id": "claude-opus-5",
+      "snapshot_version": "rel-bd3974dc-1795262741989",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:41.989Z",
+      "rows": 23
+    },
+    {
+      "model_id": "claude-opus-5-5",
+      "snapshot_version": "rel-86b88728-1795262743151",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:43.151Z",
+      "rows": 15
+    },
+    {
+      "model_id": "deepseek-v4-1-flash",
+      "snapshot_version": "rel-bb75ebe0-1795262744661",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:44.661Z",
+      "rows": 13
+    },
+    {
+      "model_id": "gemini-3-8-flash",
+      "snapshot_version": "rel-2211ec78-1795262755137",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:55.137Z",
+      "rows": 19
+    },
+    {
+      "model_id": "gemini-4-argon",
+      "snapshot_version": "rel-1593576e-1795197912236",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog ba2b058babe861d5",
+      "published_at": "2026-11-20T18:05:12.236Z",
+      "rows": 18
+    },
+    {
+      "model_id": "glm-5-3",
+      "snapshot_version": "rel-d0ab6660-1795262745816",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:45.816Z",
+      "rows": 19
+    },
+    {
+      "model_id": "gpt-5-6-terra",
+      "snapshot_version": "rel-21fba509-1795262747764",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:47.764Z",
+      "rows": 22
+    },
+    {
+      "model_id": "gpt-6-1-sol",
+      "snapshot_version": "rel-0619cc9b-1795262751270",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:51.270Z",
+      "rows": 15
+    },
+    {
+      "model_id": "gpt-6-astra",
+      "snapshot_version": "rel-77658e54-1795262748971",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:48.971Z",
+      "rows": 18
+    },
+    {
+      "model_id": "grok-4-6",
+      "snapshot_version": "rel-aed6ecb4-1795262757974",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:05:57.974Z",
+      "rows": 19
+    },
+    {
+      "model_id": "grok-4-7",
+      "snapshot_version": "rel-437141ee-1795262760132",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:06:00.132Z",
+      "rows": 8
+    },
+    {
+      "model_id": "qwen3-8-max",
+      "snapshot_version": "rel-34b5b046-1795262761750",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-20T13:00:00.000Z/2026-11-21T13:00:00.000Z",
+      "published_at": "2026-11-21T12:06:01.750Z",
+      "rows": 13
+    }
+  ],
+  "files": [
+    {
+      "path": "snapshot.json",
+      "sha256": "f77d490f2e79aa381ef8abd532b1157bbaa9eb032e1606621de7a9393dd1f4dc",
+      "rows": 1
+    },
+    {
+      "path": "rankings.json",
+      "sha256": "dec9884a157ccd985fccd1e9e983d56f435f3cacb6a0f47a9a8f4091acbf54bc",
+      "rows": 224
+    },
+    {
+      "path": "rankings.csv",
+      "sha256": "992139ba9ff0662afa661fd2182ec7574a7162f75e71c9352f0bb9110cb16c30",
+      "rows": 224
+    },
+    {
+      "path": "integrity.json",
+      "sha256": "aea613b9dfca8c2660f2abe0409e77d79fb887b67101926f562f820e640b681f",
+      "rows": 263
+    },
+    {
+      "path": "integrity.csv",
+      "sha256": "f4eb7ee3f71ff90f30fee5df1dc31b3d4b8c4c47568e14b2b93e7890834d6464",
+      "rows": 263
+    },
+    {
+      "path": "models.json",
+      "sha256": "cfaf53e6a288a67f0e2e9f8bbe50ad75aec242a692867b6f3a91c2a4b871e76e",
+      "rows": 125
+    },
+    {
+      "path": "stations.json",
+      "sha256": "b899fd074f512f691dfe8283fc2558187ef52b9119be9dad27d08cdad4fb8de1",
+      "rows": 37
+    }
+  ]
+}
