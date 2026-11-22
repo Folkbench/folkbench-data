@@ -38,6 +38,16 @@
     }
   },
   {
+    "id": "claude-fable-5-2",
+    "name": "Claude Fable 5.2",
+    "vendor_id": "anthropic",
+    "vendor_name": "Anthropic",
+    "family": "language",
+    "status": "measured",
+    "station_count": 26,
+    "official_price": null
+  },
+  {
     "id": "claude-haiku-4-5",
     "name": "Claude Haiku 4.5",
     "vendor_id": "anthropic",
@@ -92,7 +102,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 18,
+    "station_count": 19,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -111,7 +121,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 19,
+    "station_count": 20,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -187,7 +197,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 8,
+    "station_count": 9,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -236,6 +246,16 @@
       "source_url": "https://www.anthropic.com/news/claude-sonnet-5",
       "verified_at": "2026-09-20"
     }
+  },
+  {
+    "id": "claude-sonnet-5-5",
+    "name": "Claude Sonnet 5.5",
+    "vendor_id": "anthropic",
+    "vendor_name": "Anthropic",
+    "family": "language",
+    "status": "measured",
+    "station_count": 28,
+    "official_price": null
   },
   {
     "id": "deepseek-v4-1-flash",
@@ -475,7 +495,7 @@
     "vendor_name": "Google Gemini",
     "family": "image",
     "status": "pending",
-    "station_count": 9,
+    "station_count": 8,
     "official_price": null
   },
   {
@@ -524,7 +544,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 7,
+    "station_count": 6,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -543,7 +563,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 10,
+    "station_count": 8,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -562,7 +582,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 10,
+    "station_count": 8,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -581,7 +601,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "measured",
-    "station_count": 19,
+    "station_count": 16,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -600,7 +620,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 4,
+    "station_count": 3,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -659,6 +679,36 @@
     "family": "language",
     "status": "measured",
     "station_count": 18,
+    "official_price": null
+  },
+  {
+    "id": "gemini-4-carbon",
+    "name": "Gemini 4 Carbon",
+    "vendor_id": "google",
+    "vendor_name": "Google Gemini",
+    "family": "language",
+    "status": "measured",
+    "station_count": 18,
+    "official_price": null
+  },
+  {
+    "id": "gemini-4-hydrogen",
+    "name": "Gemini 4 Hydrogen",
+    "vendor_id": "google",
+    "vendor_name": "Google Gemini",
+    "family": "language",
+    "status": "measured",
+    "station_count": 16,
+    "official_price": null
+  },
+  {
+    "id": "gemini-4-neon",
+    "name": "Gemini 4 Neon",
+    "vendor_id": "google",
+    "vendor_name": "Google Gemini",
+    "family": "language",
+    "status": "measured",
+    "station_count": 10,
     "official_price": null
   },
   {
@@ -763,7 +813,7 @@
     "vendor_name": "Zhipu GLM",
     "family": "language",
     "status": "pending",
-    "station_count": 23,
+    "station_count": 22,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1048,7 +1098,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 23,
+    "station_count": 24,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1067,7 +1117,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 22,
+    "station_count": 23,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1124,7 +1174,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 30,
+    "station_count": 32,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1137,13 +1187,43 @@
     }
   },
   {
+    "id": "gpt-6-1-terra",
+    "name": "GPT 6.1 Terra",
+    "vendor_id": "openai",
+    "vendor_name": "OpenAI",
+    "family": "language",
+    "status": "measured",
+    "station_count": 24,
+    "official_price": null
+  },
+  {
+    "id": "gpt-6-2-astra",
+    "name": "GPT 6.2 Astra",
+    "vendor_id": "openai",
+    "vendor_name": "OpenAI",
+    "family": "language",
+    "status": "measured",
+    "station_count": 27,
+    "official_price": null
+  },
+  {
+    "id": "gpt-6-2-sol",
+    "name": "GPT 6.2 Sol",
+    "vendor_id": "openai",
+    "vendor_name": "OpenAI",
+    "family": "language",
+    "status": "measured",
+    "station_count": 28,
+    "official_price": null
+  },
+  {
     "id": "gpt-6-astra",
     "name": "GPT 6 Astra",
     "vendor_id": "openai",
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 32,
+    "station_count": 33,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1162,7 +1242,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 28,
+    "station_count": 29,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1486,6 +1566,16 @@
     }
   },
   {
+    "id": "kimi-k3-1-pro",
+    "name": "Kimi K3.1 Pro",
+    "vendor_id": "kimi",
+    "vendor_name": "Kimi",
+    "family": "language",
+    "status": "measured",
+    "station_count": 20,
+    "official_price": null
+  },
+  {
     "id": "kling-2-5-turbo",
     "name": "Kling 2.5 Turbo",
     "vendor_id": "kling",
@@ -1610,7 +1700,7 @@
     "vendor_name": "MiniMax",
     "family": "language",
     "status": "pending",
-    "station_count": 2,
+    "station_count": 3,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1629,7 +1719,7 @@
     "vendor_name": "MiniMax",
     "family": "language",
     "status": "pending",
-    "station_count": 4,
+    "station_count": 5,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1648,7 +1738,7 @@
     "vendor_name": "MiniMax",
     "family": "language",
     "status": "pending",
-    "station_count": 1,
+    "station_count": 2,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1705,7 +1795,7 @@
     "vendor_name": "Alibaba Qwen",
     "family": "language",
     "status": "pending",
-    "station_count": 3,
+    "station_count": 2,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1830,6 +1920,16 @@
       "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
       "verified_at": "2026-09-20"
     }
+  },
+  {
+    "id": "qwen4-max",
+    "name": "Qwen 4 Max",
+    "vendor_id": "alibaba",
+    "vendor_name": "Alibaba Qwen",
+    "family": "language",
+    "status": "measured",
+    "station_count": 5,
+    "official_price": null
   },
   {
     "id": "seedance-2-0",

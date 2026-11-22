@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0",
+  "snapshot_version": "public-7e9b03d0bb6394e614ad80e973a923c9cd5d368b6a056287d6a1224c2c5b7ece",
+  "date": "2026-11-22",
+  "published_at": "2026-11-22T12:30:24.679Z",
+  "source_collected_at": "2026-11-22T12:30:24.679Z",
+  "exported_at": "2026-11-22T12:30:24.679Z",
+  "sources": [
+    {
+      "model_id": "claude-fable-5-1",
+      "snapshot_version": "rel-439386cb-1795348836535",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T13:00:00.000Z/2026-11-22T13:00:00.000Z",
+      "published_at": "2026-11-22T12:00:36.535Z",
+      "rows": 13
+    },
+    {
+      "model_id": "claude-fable-5-2",
+      "snapshot_version": "rel-18a5b5ba-1795284051830",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog d93555e8a46b5a1f",
+      "published_at": "2026-11-21T18:00:51.830Z",
+      "rows": 26
+    },
+    {
+      "model_id": "claude-haiku-5-5",
+      "snapshot_version": "rel-6b833159-1795023199199",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-18T17:33:19.199Z",
+      "rows": 10
+    },
+    {
+      "model_id": "claude-opus-5",
+      "snapshot_version": "rel-cad0d848-1795348840274",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:00:40.274Z",
+      "rows": 23
+    },
+    {
+      "model_id": "claude-opus-5-5",
+      "snapshot_version": "rel-20537d4f-1795348841929",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:00:41.929Z",
+      "rows": 15
+    },
+    {
+      "model_id": "claude-sonnet-5-5",
+      "snapshot_version": "rel-d122a086-1795284057424",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog cbdea74b55be85dd",
+      "published_at": "2026-11-21T18:00:57.424Z",
+      "rows": 28
+    },
+    {
+      "model_id": "deepseek-v4-1-flash",
+      "snapshot_version": "rel-d7eb3437-1795349159342",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:05:59.342Z",
+      "rows": 13
+    },
+    {
+      "model_id": "gemini-3-8-flash",
+      "snapshot_version": "rel-3360a274-1795349172518",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:06:12.518Z",
+      "rows": 16
+    },
+    {
+      "model_id": "gemini-4-argon",
+      "snapshot_version": "rel-b27bd6f6-1795284074098",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog adda0b357c135c70",
+      "published_at": "2026-11-21T18:01:14.098Z",
+      "rows": 18
+    },
+    {
+      "model_id": "gemini-4-carbon",
+      "snapshot_version": "rel-b14e8664-1795284075583",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog 7d9db57bc92aadf2",
+      "published_at": "2026-11-21T18:01:15.583Z",
+      "rows": 18
+    },
+    {
+      "model_id": "gemini-4-hydrogen",
+      "snapshot_version": "rel-9540bbd0-1795284077103",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog 0be5e6e0e7b2096f",
+      "published_at": "2026-11-21T18:01:17.103Z",
+      "rows": 16
+    },
+    {
+      "model_id": "gemini-4-neon",
+      "snapshot_version": "rel-ef074f5b-1795284078622",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog 3a3bd969b094c7fb",
+      "published_at": "2026-11-21T18:01:18.622Z",
+      "rows": 10
+    },
+    {
+      "model_id": "glm-5-3",
+      "snapshot_version": "rel-3b3c5153-1795349160975",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:06:00.975Z",
+      "rows": 19
+    },
+    {
+      "model_id": "gpt-5-6-terra",
+      "snapshot_version": "rel-dfc095da-1795349162577",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:06:02.577Z",
+      "rows": 23
+    },
+    {
+      "model_id": "gpt-6-1-sol",
+      "snapshot_version": "rel-86e85896-1795349166283",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T13:00:00.000Z/2026-11-22T13:00:00.000Z",
+      "published_at": "2026-11-22T12:06:06.283Z",
+      "rows": 15
+    },
+    {
+      "model_id": "gpt-6-1-terra",
+      "snapshot_version": "rel-2ac3d55d-1795175227602",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog e09e5c118c8920a2",
+      "published_at": "2026-11-20T11:47:07.602Z",
+      "rows": 24
+    },
+    {
+      "model_id": "gpt-6-2-astra",
+      "snapshot_version": "rel-527e6cb3-1795349168371",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T13:00:00.000Z/2026-11-22T13:00:00.000Z",
+      "published_at": "2026-11-22T12:06:08.371Z",
+      "rows": 27
+    },
+    {
+      "model_id": "gpt-6-2-sol",
+      "snapshot_version": "rel-5d861b73-1795349170182",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T13:00:00.000Z/2026-11-22T13:00:00.000Z",
+      "published_at": "2026-11-22T12:06:10.182Z",
+      "rows": 28
+    },
+    {
+      "model_id": "gpt-6-astra",
+      "snapshot_version": "rel-c322db1f-1795348845263",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:00:45.263Z",
+      "rows": 18
+    },
+    {
+      "model_id": "grok-4-6",
+      "snapshot_version": "rel-5ce52db3-1795348851372",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:00:51.372Z",
+      "rows": 19
+    },
+    {
+      "model_id": "grok-4-7",
+      "snapshot_version": "rel-cc709ad4-1795348852933",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:00:52.933Z",
+      "rows": 8
+    },
+    {
+      "model_id": "kimi-k3-1-pro",
+      "snapshot_version": "rel-a37f09e9-1795284083996",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog 143b68e1785f314d",
+      "published_at": "2026-11-21T18:01:23.996Z",
+      "rows": 20
+    },
+    {
+      "model_id": "qwen3-8-max",
+      "snapshot_version": "rel-827cc31e-1795349177354",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "published_at": "2026-11-22T12:06:17.354Z",
+      "rows": 13
+    },
+    {
+      "model_id": "qwen4-max",
+      "snapshot_version": "rel-bd062c24-1795284087128",
+      "method_version": "folkbench-connectivity-v1",
+      "observed_window": "catalog-only catalog e7a1aed65de7093e",
+      "published_at": "2026-11-21T18:01:27.128Z",
+      "rows": 5
+    }
+  ],
+  "files": [
+    {
+      "path": "snapshot.json",
+      "sha256": "687f5d72a2b9799c2547fd1dbd12c55aa3591eca18be2ce53eaf23f9354d5067",
+      "rows": 1
+    },
+    {
+      "path": "rankings.json",
+      "sha256": "682ea9db725b97b31b166a969398962d6bce46fb027ad84123614ac91040a02e",
+      "rows": 425
+    },
+    {
+      "path": "rankings.csv",
+      "sha256": "c69aab03d4d3afcb35230ee64ddec5efd3fee16098927c8b562610655baf1c67",
+      "rows": 425
+    },
+    {
+      "path": "integrity.json",
+      "sha256": "58510d007c047ae887cb4b9f8c8ab0b0feef946e705a5ae329f8a328c63a7637",
+      "rows": 295
+    },
+    {
+      "path": "integrity.csv",
+      "sha256": "7a7d13b447f7d3e254cd0244f4a7baff628af7b1e8911dac67b597eb80352aee",
+      "rows": 295
+    },
+    {
+      "path": "models.json",
+      "sha256": "0195fa2b8ae31bb3572c898addeae422655d6cc655e8c790380873a28d0be14b",
+      "rows": 135
+    },
+    {
+      "path": "stations.json",
+      "sha256": "da31a16e4b143cb9902417761c548a35a35efe155ac9e99bd2284820cce47711",
+      "rows": 38
+    }
+  ]
+}

@@ -527,6 +527,23 @@
     "refund": "unspecified"
   },
   {
+    "slug": "merchant-dbbb1c95-135",
+    "name": "COFFEE API",
+    "profile_url": "https://folkbench.com/services/merchant-dbbb1c95-135",
+    "listing_status": "tested",
+    "measurement_status": "source_tagged",
+    "first_listed_at": null,
+    "data_security_level": 0,
+    "data_security_validity": "not_verified",
+    "checked_at": null,
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "no",
+    "invoice": "unspecified",
+    "customer_service": "yes",
+    "refund": "unspecified"
+  },
+  {
     "slug": "merchant-deafb24c-c5f",
     "name": "XINGYI API",
     "profile_url": "https://folkbench.com/services/merchant-deafb24c-c5f",
