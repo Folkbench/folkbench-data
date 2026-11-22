@@ -31,7 +31,7 @@
 | `group_name` | string | 来源已公开的同名标识、名称或计数。 |
 | `position` | integer | 来源顺序，不按综合分重新排序。 |
 | `rank_published` | integer / null | 主站公布的名次；未排名为 null。 |
-| `evidence_status` | string | 原样保留来源标签；platform_measured 不保证排除了 |
+| `evidence_status` | string | 原样保留来源标签。 |
 | `catalog_only` | boolean | 主站是否标记为仅收录。 |
 | `release_kind` | `published` / `illustrative` | 来源发布类别，published 或 illustrative。 |
 | `overall_bps` | integer / null | 分数单位 bps；来源不是 published 时为 null。 |
