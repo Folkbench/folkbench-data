@@ -2,7 +2,7 @@
 
 每日归档 Folkbench 主站公开展示的榜单、模型、站点目录和探针汇总。
 
-**排序沿用主站规则，包含合作档位与运营加分。这里提供公开快照，不承诺全部为真实实测或可以复算。**
+**排序沿用主站规则，包含合作档位与运营加分。这里提供公开快照，不是原始运行记录，也不能用来复算评分。**
 
 [在线榜单](https://folkbench.com/rankings?utm_source=github&utm_medium=data-repo&utm_campaign=folkbench-data&utm_content=nav-rankings) · [公开探针汇总](https://folkbench.com/arena?utm_source=github&utm_medium=data-repo&utm_campaign=folkbench-data&utm_content=nav-arena) · [方法说明](https://folkbench.com/methodology?utm_source=github&utm_medium=data-repo&utm_campaign=folkbench-data&utm_content=nav-method)
 
@@ -24,7 +24,7 @@
 ## 阅读数据
 
 - `position` 是来源顺序，`rank_published` 是来源公布的名次；不能按综合分重新排序后声称复现主站。
-- `evidence_status` 原样保留主站标签，不能据此保证排除了。
+- `evidence_status` 原样保留主站标签，不能据此保证排除了
 - 分数单位为 bps：10000 = 100%。未知数值保留 null，不能填成零。
 - 探针只表示快照收录的最新公开汇总，不表示过去 24 小时的执行次数。`probe_keys` 只有匿名公开题目 ID，不公开题面、回答或私有基线。
 - 不同模型保留各自的窗口与版本。导出时间、归档日期与测量时间不是同一概念。
@@ -60,4 +60,4 @@ CSV 使用 UTF-8 BOM；数组以 `|` 分隔。可能触发表格公式的文本�
 
 ## English
 
-Folkbench Data archives public snapshots of the main site's rankings, catalog and published probe summaries. Existing ordering includes partnership tiers and operator bonuses; . These files do not promise exclusively real measurements or reproducible scoring. Historical archives are immutable. Private runs, prompts, answers and credentials are excluded. Data is licensed under CC BY 4.0; names, logos and third-party materials are excluded.
+Folkbench Data archives public snapshots of the main site's rankings, catalog and published probe summaries. Existing ordering includes partnership tiers and operator bonuses. These files are published summaries, not raw runs, and cannot be used to recompute scores. Historical archives are immutable. Private runs, prompts, answers and credentials are excluded. Data is licensed under CC BY 4.0; names, logos and third-party materials are excluded.

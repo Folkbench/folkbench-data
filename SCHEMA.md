@@ -11,7 +11,7 @@
 | `date` | string | 北京时间归档日期；不代表所有记录的测量日期。 |
 | `published_at` | string | 该归档或来源行的实际发布时间，UTC。 |
 | `source_collected_at` | string | 来源采集时间，UTC。 |
-| `policy` | `public-snapshot-includes-display-samples-and-existing-placement` | 固定公开边界：含及现行排序。 |
+| `policy` | `public-snapshot-includes-display-samples-and-existing-placement` | 固定公开边界：沿用现行排序。 |
 | `boards` | array<object> | 来源已公开的同名标识、名称或计数。 |
 | `rankings` | array<object> | 来源已公开的同名标识、名称或计数。 |
 | `integrity` | array<object> | 来源已公开的同名标识、名称或计数。 |
@@ -31,7 +31,7 @@
 | `group_name` | string | 来源已公开的同名标识、名称或计数。 |
 | `position` | integer | 来源顺序，不按综合分重新排序。 |
 | `rank_published` | integer / null | 主站公布的名次；未排名为 null。 |
-| `evidence_status` | string | 原样保留来源标签；platform_measured 不保证排除了。 |
+| `evidence_status` | string | 原样保留来源标签；platform_measured 不保证排除了 |
 | `catalog_only` | boolean | 主站是否标记为仅收录。 |
 | `release_kind` | `published` / `illustrative` | 来源发布类别，published 或 illustrative。 |
 | `overall_bps` | integer / null | 分数单位 bps；来源不是 published 时为 null。 |
@@ -140,4 +140,4 @@ rankings.csv 与 integrity.csv 对应同名 JSON 数组，字段顺序固定。U
 
 ## 边界
 
-榜单包括全部公开行，未验证、仅收录及不删除。探针只包含主站已公开汇总，不增加数据库原始运行明细、题面、回答、私有基线或商户联系方式。站点来自公开目录，不从榜单拼凑。商业关系字段不在首期契约中。
+榜单包括全部公开行，未验证、仅收录不删除。探针只包含主站已公开汇总，不增加数据库原始运行明细、题面、回答、私有基线或商户联系方式。站点来自公开目录，不从榜单拼凑。商业关系字段不在首期契约中。
