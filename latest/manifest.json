@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0",
-  "snapshot_version": "public-7e9b03d0bb6394e614ad80e973a923c9cd5d368b6a056287d6a1224c2c5b7ece",
-  "date": "2026-11-22",
-  "published_at": "2026-11-22T12:30:24.679Z",
-  "source_collected_at": "2026-11-22T12:30:24.679Z",
-  "exported_at": "2026-11-22T12:30:24.679Z",
+  "snapshot_version": "public-f5985dcf94b2c542877ec4a7c72592b7049c96902e22e918b2facd5744ce6342",
+  "date": "2026-11-23",
+  "published_at": "2026-11-23T12:30:34.069Z",
+  "source_collected_at": "2026-11-23T12:30:34.069Z",
+  "exported_at": "2026-11-23T12:30:34.069Z",
   "sources": [
     {
       "model_id": "claude-fable-5-1",
-      "snapshot_version": "rel-439386cb-1795348836535",
+      "snapshot_version": "rel-5df4bc57-1795435464037",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T13:00:00.000Z/2026-11-22T13:00:00.000Z",
-      "published_at": "2026-11-22T12:00:36.535Z",
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:24.037Z",
       "rows": 13
     },
     {
@@ -20,30 +20,30 @@
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "catalog-only catalog d93555e8a46b5a1f",
       "published_at": "2026-11-21T18:00:51.830Z",
-      "rows": 26
+      "rows": 29
     },
     {
       "model_id": "claude-haiku-5-5",
       "snapshot_version": "rel-6b833159-1795023199199",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
       "published_at": "2026-11-18T17:33:19.199Z",
       "rows": 10
     },
     {
       "model_id": "claude-opus-5",
-      "snapshot_version": "rel-cad0d848-1795348840274",
+      "snapshot_version": "rel-812a3b1f-1795435467597",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:00:40.274Z",
-      "rows": 23
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:27.597Z",
+      "rows": 26
     },
     {
       "model_id": "claude-opus-5-5",
-      "snapshot_version": "rel-20537d4f-1795348841929",
+      "snapshot_version": "rel-321022a7-1795435469549",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:00:41.929Z",
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:29.549Z",
       "rows": 15
     },
     {
@@ -52,39 +52,39 @@
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "catalog-only catalog cbdea74b55be85dd",
       "published_at": "2026-11-21T18:00:57.424Z",
-      "rows": 28
+      "rows": 31
     },
     {
       "model_id": "deepseek-v4-1-flash",
-      "snapshot_version": "rel-d7eb3437-1795349159342",
+      "snapshot_version": "rel-521b8c39-1795435473191",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:05:59.342Z",
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:33.191Z",
       "rows": 13
     },
     {
       "model_id": "gemini-3-8-flash",
-      "snapshot_version": "rel-3360a274-1795349172518",
+      "snapshot_version": "rel-91b4e658-1795435490382",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:06:12.518Z",
-      "rows": 16
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:50.382Z",
+      "rows": 18
     },
     {
       "model_id": "gemini-4-argon",
-      "snapshot_version": "rel-b27bd6f6-1795284074098",
+      "snapshot_version": "rel-57e04da0-1795370508403",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "catalog-only catalog adda0b357c135c70",
-      "published_at": "2026-11-21T18:01:14.098Z",
-      "rows": 18
+      "observed_window": "catalog-only catalog 4fb704753e7b0e08",
+      "published_at": "2026-11-22T18:01:48.403Z",
+      "rows": 20
     },
     {
       "model_id": "gemini-4-carbon",
-      "snapshot_version": "rel-b14e8664-1795284075583",
+      "snapshot_version": "rel-3fb14a1b-1795370509954",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "catalog-only catalog 7d9db57bc92aadf2",
-      "published_at": "2026-11-21T18:01:15.583Z",
-      "rows": 18
+      "observed_window": "catalog-only catalog 9da50d4d322b701c",
+      "published_at": "2026-11-22T18:01:49.954Z",
+      "rows": 20
     },
     {
       "model_id": "gemini-4-hydrogen",
@@ -92,7 +92,7 @@
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "catalog-only catalog 0be5e6e0e7b2096f",
       "published_at": "2026-11-21T18:01:17.103Z",
-      "rows": 16
+      "rows": 18
     },
     {
       "model_id": "gemini-4-neon",
@@ -100,31 +100,31 @@
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "catalog-only catalog 3a3bd969b094c7fb",
       "published_at": "2026-11-21T18:01:18.622Z",
-      "rows": 10
+      "rows": 13
     },
     {
       "model_id": "glm-5-3",
-      "snapshot_version": "rel-3b3c5153-1795349160975",
+      "snapshot_version": "rel-8f5763c5-1795435475157",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:06:00.975Z",
-      "rows": 19
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:35.157Z",
+      "rows": 20
     },
     {
       "model_id": "gpt-5-6-terra",
-      "snapshot_version": "rel-dfc095da-1795349162577",
+      "snapshot_version": "rel-3b2a36ff-1795435477138",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:06:02.577Z",
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:37.138Z",
       "rows": 23
     },
     {
       "model_id": "gpt-6-1-sol",
-      "snapshot_version": "rel-86e85896-1795349166283",
+      "snapshot_version": "rel-9d062a31-1795435483056",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T13:00:00.000Z/2026-11-22T13:00:00.000Z",
-      "published_at": "2026-11-22T12:06:06.283Z",
-      "rows": 15
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:43.056Z",
+      "rows": 16
     },
     {
       "model_id": "gpt-6-1-terra",
@@ -132,46 +132,46 @@
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "catalog-only catalog e09e5c118c8920a2",
       "published_at": "2026-11-20T11:47:07.602Z",
-      "rows": 24
+      "rows": 23
     },
     {
       "model_id": "gpt-6-2-astra",
-      "snapshot_version": "rel-527e6cb3-1795349168371",
+      "snapshot_version": "rel-6954b567-1795435485523",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T13:00:00.000Z/2026-11-22T13:00:00.000Z",
-      "published_at": "2026-11-22T12:06:08.371Z",
-      "rows": 27
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:45.523Z",
+      "rows": 26
     },
     {
       "model_id": "gpt-6-2-sol",
-      "snapshot_version": "rel-5d861b73-1795349170182",
+      "snapshot_version": "rel-39518dbd-1795435487453",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T13:00:00.000Z/2026-11-22T13:00:00.000Z",
-      "published_at": "2026-11-22T12:06:10.182Z",
-      "rows": 28
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:47.453Z",
+      "rows": 27
     },
     {
       "model_id": "gpt-6-astra",
-      "snapshot_version": "rel-c322db1f-1795348845263",
+      "snapshot_version": "rel-7369a08e-1795435479175",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:00:45.263Z",
-      "rows": 18
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:39.175Z",
+      "rows": 20
     },
     {
       "model_id": "grok-4-6",
-      "snapshot_version": "rel-5ce52db3-1795348851372",
+      "snapshot_version": "rel-ce954503-1795435494539",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:00:51.372Z",
-      "rows": 19
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:54.539Z",
+      "rows": 21
     },
     {
       "model_id": "grok-4-7",
-      "snapshot_version": "rel-cc709ad4-1795348852933",
+      "snapshot_version": "rel-28dee1bd-1795435496415",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:00:52.933Z",
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:56.415Z",
       "rows": 8
     },
     {
@@ -180,60 +180,60 @@
       "method_version": "folkbench-connectivity-v1",
       "observed_window": "catalog-only catalog 143b68e1785f314d",
       "published_at": "2026-11-21T18:01:23.996Z",
-      "rows": 20
+      "rows": 22
     },
     {
       "model_id": "qwen3-8-max",
-      "snapshot_version": "rel-827cc31e-1795349177354",
+      "snapshot_version": "rel-769bb0fc-1795435498861",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "2026-11-21T12:30:00.000Z/2026-11-22T12:30:00.000Z",
-      "published_at": "2026-11-22T12:06:17.354Z",
-      "rows": 13
+      "observed_window": "2026-11-22T13:00:00.000Z/2026-11-23T13:00:00.000Z",
+      "published_at": "2026-11-23T12:04:58.861Z",
+      "rows": 15
     },
     {
       "model_id": "qwen4-max",
-      "snapshot_version": "rel-bd062c24-1795284087128",
+      "snapshot_version": "rel-e1602a4b-1795370517384",
       "method_version": "folkbench-connectivity-v1",
-      "observed_window": "catalog-only catalog e7a1aed65de7093e",
-      "published_at": "2026-11-21T18:01:27.128Z",
+      "observed_window": "catalog-only catalog d5251e6e03bc8e6e",
+      "published_at": "2026-11-22T18:01:57.384Z",
       "rows": 5
     }
   ],
   "files": [
     {
       "path": "snapshot.json",
-      "sha256": "687f5d72a2b9799c2547fd1dbd12c55aa3591eca18be2ce53eaf23f9354d5067",
+      "sha256": "11d7acad3ac13c88ee31a7eedfbd9752ad71b727191957fa31b1b60bae2d0f3b",
       "rows": 1
     },
     {
       "path": "rankings.json",
-      "sha256": "682ea9db725b97b31b166a969398962d6bce46fb027ad84123614ac91040a02e",
-      "rows": 425
+      "sha256": "924a68e7bda16f89aadf4d4803a9c6e7665db388024eb10c73bfce236ce2729f",
+      "rows": 452
     },
     {
       "path": "rankings.csv",
-      "sha256": "c69aab03d4d3afcb35230ee64ddec5efd3fee16098927c8b562610655baf1c67",
-      "rows": 425
+      "sha256": "247a6bac6159923fa223109b6a3d87636336567424cde20ae9c4cf1e3da422bc",
+      "rows": 452
     },
     {
       "path": "integrity.json",
-      "sha256": "58510d007c047ae887cb4b9f8c8ab0b0feef946e705a5ae329f8a328c63a7637",
-      "rows": 295
+      "sha256": "1473999897fe1d92547900baa05701b9fb50ee30139c314295d6e8533956d7d8",
+      "rows": 302
     },
     {
       "path": "integrity.csv",
-      "sha256": "7a7d13b447f7d3e254cd0244f4a7baff628af7b1e8911dac67b597eb80352aee",
-      "rows": 295
+      "sha256": "e7a25b251e3a455afa5d252d39da999bcddd54f8dc129d7079ed2b4c6bf78c5f",
+      "rows": 302
     },
     {
       "path": "models.json",
-      "sha256": "0195fa2b8ae31bb3572c898addeae422655d6cc655e8c790380873a28d0be14b",
+      "sha256": "3256b2e31bb53ceb018ea052dabf713e8d2d4939d6dec78054129b808f5d0c7a",
       "rows": 135
     },
     {
       "path": "stations.json",
-      "sha256": "da31a16e4b143cb9902417761c548a35a35efe155ac9e99bd2284820cce47711",
-      "rows": 38
+      "sha256": "b699a5232e45f002eaccd67d162f61c982114e4b886be47ff0002b2a73726e2c",
+      "rows": 40
     }
   ]
 }
