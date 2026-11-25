@@ -204,6 +204,23 @@
     "refund": "unspecified"
   },
   {
+    "slug": "grooroute",
+    "name": "Grooroute",
+    "profile_url": "https://folkbench.com/services/grooroute",
+    "listing_status": "tested",
+    "measurement_status": "not_available",
+    "first_listed_at": null,
+    "data_security_level": 0,
+    "data_security_validity": "not_verified",
+    "checked_at": null,
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "yes",
+    "invoice": "unspecified",
+    "customer_service": "yes",
+    "refund": "unspecified"
+  },
+  {
     "slug": "ikuncode",
     "name": "IKunCode",
     "profile_url": "https://folkbench.com/services/ikuncode",
@@ -357,6 +374,40 @@
     "refund": "not_supported"
   },
   {
+    "slug": "merchant-3eef64b4-b27",
+    "name": "Helstare",
+    "profile_url": "https://folkbench.com/services/merchant-3eef64b4-b27",
+    "listing_status": "tested",
+    "measurement_status": "not_available",
+    "first_listed_at": null,
+    "data_security_level": 0,
+    "data_security_validity": "not_verified",
+    "checked_at": null,
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "no",
+    "invoice": "unspecified",
+    "customer_service": "yes",
+    "refund": "unspecified"
+  },
+  {
+    "slug": "merchant-49d406b0-71e",
+    "name": "无限星河AI（Infistar）",
+    "profile_url": "https://folkbench.com/services/merchant-49d406b0-71e",
+    "listing_status": "tested",
+    "measurement_status": "not_available",
+    "first_listed_at": null,
+    "data_security_level": 0,
+    "data_security_validity": "not_verified",
+    "checked_at": null,
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "no",
+    "invoice": "unspecified",
+    "customer_service": "yes",
+    "refund": "unspecified"
+  },
+  {
     "slug": "merchant-4cf2b788-920",
     "name": "破晓",
     "profile_url": "https://folkbench.com/services/merchant-4cf2b788-920",
@@ -372,6 +423,23 @@
     "invoice": "yes",
     "customer_service": "yes",
     "refund": "supported"
+  },
+  {
+    "slug": "merchant-504b7e77-a13",
+    "name": "api.foo",
+    "profile_url": "https://folkbench.com/services/merchant-504b7e77-a13",
+    "listing_status": "tested",
+    "measurement_status": "not_available",
+    "first_listed_at": null,
+    "data_security_level": 0,
+    "data_security_validity": "not_verified",
+    "checked_at": null,
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "yes",
+    "invoice": "unspecified",
+    "customer_service": "yes",
+    "refund": "contact_required"
   },
   {
     "slug": "merchant-5be36043-bc1",
@@ -592,6 +660,23 @@
     "overseas_payment": "unspecified",
     "invoice": "unspecified",
     "customer_service": "unspecified",
+    "refund": "unspecified"
+  },
+  {
+    "slug": "merchant-e37d9b70-d9b",
+    "name": "GetVibe",
+    "profile_url": "https://folkbench.com/services/merchant-e37d9b70-d9b",
+    "listing_status": "tested",
+    "measurement_status": "not_available",
+    "first_listed_at": null,
+    "data_security_level": 0,
+    "data_security_validity": "not_verified",
+    "checked_at": null,
+    "subject_present": "no",
+    "domestic_payment": "yes",
+    "overseas_payment": "yes",
+    "invoice": "unspecified",
+    "customer_service": "yes",
     "refund": "unspecified"
   },
   {
