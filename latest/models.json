@@ -25,7 +25,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "measured",
-    "station_count": 41,
+    "station_count": 42,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -44,7 +44,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "measured",
-    "station_count": 36,
+    "station_count": 38,
     "official_price": null
   },
   {
@@ -73,7 +73,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "measured",
-    "station_count": 34,
+    "station_count": 36,
     "official_price": null
   },
   {
@@ -83,7 +83,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 18,
+    "station_count": 19,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -102,7 +102,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 29,
+    "station_count": 30,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -121,7 +121,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 30,
+    "station_count": 31,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -159,7 +159,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "measured",
-    "station_count": 32,
+    "station_count": 33,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -178,7 +178,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "measured",
-    "station_count": 42,
+    "station_count": 44,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -216,7 +216,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 28,
+    "station_count": 29,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -235,7 +235,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "pending",
-    "station_count": 32,
+    "station_count": 33,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -254,7 +254,7 @@
     "vendor_name": "Anthropic",
     "family": "language",
     "status": "measured",
-    "station_count": 38,
+    "station_count": 40,
     "official_price": null
   },
   {
@@ -264,7 +264,7 @@
     "vendor_name": "DeepSeek",
     "family": "language",
     "status": "measured",
-    "station_count": 37,
+    "station_count": 38,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -302,7 +302,7 @@
     "vendor_name": "DeepSeek",
     "family": "language",
     "status": "pending",
-    "station_count": 11,
+    "station_count": 12,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -359,7 +359,7 @@
     "vendor_name": "DeepSeek",
     "family": "language",
     "status": "pending",
-    "station_count": 12,
+    "station_count": 13,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -447,7 +447,7 @@
     "vendor_name": "Google Gemini",
     "family": "image",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 4,
     "official_price": null
   },
   {
@@ -457,7 +457,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 4,
+    "station_count": 5,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -515,7 +515,7 @@
     "vendor_name": "Google Gemini",
     "family": "image",
     "status": "pending",
-    "station_count": 8,
+    "station_count": 7,
     "official_price": null
   },
   {
@@ -525,26 +525,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 16,
-    "official_price": {
-      "currency": "USD",
-      "unit": "per_1m_tokens",
-      "input": 2,
-      "output": 12,
-      "cache_read": 0.2,
-      "source_label": "Google",
-      "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-      "verified_at": "2026-09-20"
-    }
-  },
-  {
-    "id": "gemini-3-1-pro-preview-thinking",
-    "name": "Gemini 3.1 Pro Preview Thinking",
-    "vendor_id": "google",
-    "vendor_name": "Google Gemini",
-    "family": "language",
-    "status": "pending",
-    "station_count": 1,
+    "station_count": 18,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -563,7 +544,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 13,
+    "station_count": 14,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -582,7 +563,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 17,
+    "station_count": 18,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -601,7 +582,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 14,
+    "station_count": 16,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -639,7 +620,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "pending",
-    "station_count": 10,
+    "station_count": 9,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -707,7 +688,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "measured",
-    "station_count": 26,
+    "station_count": 27,
     "official_price": null
   },
   {
@@ -717,7 +698,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "measured",
-    "station_count": 28,
+    "station_count": 29,
     "official_price": null
   },
   {
@@ -727,7 +708,7 @@
     "vendor_name": "Google Gemini",
     "family": "language",
     "status": "measured",
-    "station_count": 23,
+    "station_count": 26,
     "official_price": null
   },
   {
@@ -794,7 +775,7 @@
     "vendor_name": "Zhipu GLM",
     "family": "language",
     "status": "pending",
-    "station_count": 17,
+    "station_count": 18,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -813,7 +794,7 @@
     "vendor_name": "Zhipu GLM",
     "family": "language",
     "status": "measured",
-    "station_count": 25,
+    "station_count": 26,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -832,7 +813,7 @@
     "vendor_name": "Zhipu GLM",
     "family": "language",
     "status": "pending",
-    "station_count": 29,
+    "station_count": 30,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -870,7 +851,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 4,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -889,7 +870,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 4,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -946,7 +927,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 4,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -965,7 +946,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 8,
+    "station_count": 7,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1003,7 +984,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 6,
+    "station_count": 5,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1022,7 +1003,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 10,
+    "station_count": 9,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1060,7 +1041,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 8,
+    "station_count": 7,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1079,7 +1060,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 14,
+    "station_count": 13,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1098,7 +1079,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 21,
+    "station_count": 20,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1117,7 +1098,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 33,
+    "station_count": 34,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1136,7 +1117,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 32,
+    "station_count": 33,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1155,7 +1136,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 4,
+    "station_count": 3,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1174,7 +1155,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 4,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1193,7 +1174,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 41,
+    "station_count": 42,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1222,7 +1203,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 36,
+    "station_count": 37,
     "official_price": null
   },
   {
@@ -1232,7 +1213,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 37,
+    "station_count": 38,
     "official_price": null
   },
   {
@@ -1242,7 +1223,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 42,
+    "station_count": 43,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1261,7 +1242,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "measured",
-    "station_count": 38,
+    "station_count": 39,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1280,7 +1261,7 @@
     "vendor_name": "OpenAI",
     "family": "image",
     "status": "pending",
-    "station_count": 6,
+    "station_count": 5,
     "official_price": null
   },
   {
@@ -1290,7 +1271,7 @@
     "vendor_name": "OpenAI",
     "family": "image",
     "status": "pending",
-    "station_count": 5,
+    "station_count": 3,
     "official_price": null
   },
   {
@@ -1300,7 +1281,7 @@
     "vendor_name": "OpenAI",
     "family": "image",
     "status": "pending",
-    "station_count": 22,
+    "station_count": 23,
     "official_price": null
   },
   {
@@ -1310,7 +1291,7 @@
     "vendor_name": "OpenAI",
     "family": "image",
     "status": "pending",
-    "station_count": 23,
+    "station_count": 24,
     "official_price": null
   },
   {
@@ -1320,7 +1301,7 @@
     "vendor_name": "OpenAI",
     "family": "image",
     "status": "pending",
-    "station_count": 24,
+    "station_count": 25,
     "official_price": null
   },
   {
@@ -1330,7 +1311,7 @@
     "vendor_name": "xAI Grok",
     "family": "language",
     "status": "pending",
-    "station_count": 24,
+    "station_count": 25,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1349,7 +1330,7 @@
     "vendor_name": "xAI Grok",
     "family": "language",
     "status": "measured",
-    "station_count": 26,
+    "station_count": 27,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1368,7 +1349,7 @@
     "vendor_name": "xAI Grok",
     "family": "language",
     "status": "measured",
-    "station_count": 31,
+    "station_count": 32,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1572,7 +1553,7 @@
     "vendor_name": "Kimi",
     "family": "language",
     "status": "pending",
-    "station_count": 26,
+    "station_count": 25,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
@@ -1795,7 +1776,7 @@
     "vendor_name": "OpenAI",
     "family": "language",
     "status": "pending",
-    "station_count": 4,
+    "station_count": 3,
     "official_price": {
       "currency": "USD",
       "unit": "per_1m_tokens",
